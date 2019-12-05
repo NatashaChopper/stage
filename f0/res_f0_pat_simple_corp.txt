@@ -1,0 +1,5749 @@
+ok	7	19	5	 pA_B	pA_B
+t	5	6	5	 pA_I	pA_I
+inquiète	5	6	5	 pA_I	pA_I
+non	5	5	5	 pA_I	pA_I
+non	5	5	5	 pA_I	pA_I
+mais	5	5	4	 pA_I	pA_I
+c	5	6	5	 pA_I	pA_I
+était	5	6	5	 pA_I	pA_I
+juste	6	7	4	 pA_I	pA_I
+pour	5	6	5	 pA_I	pA_I
+que	6	6	5	 pA_I	pA_I
+je	5	5	5	 pA_I	pA_I
+me	6	6	5	 pA_I	pA_I
+retrouve	5	6	5	 pA_I	pA_I
+pas	6	6	5	 pA_I	pA_I
+toute	5	6	4	 pA_I	pA_I
+seule	5	6	4	 pA_I	pA_I
+dehors	5	5	4	 pA_I	pA_I
+en	4	5	3	 pA_I	pA_I
+fait	9	18	3	 pA_I	pA_I
+voilà	4	4	3	 pA_L	pA_L
+
+ah	6	7	6	 pA_B	pA_B
+mais	6	7	6	 pA_I	pA_I
+parce	6	6	6	 pA_I	pA_I
+que	6	6	6	 pA_I	pA_I
+tu	6	6	6	 pA_I	pA_I
+as	6	6	6	 pA_I	pA_I
+plus	6	7	6	 pA_I	pA_I
+de	6	6	6	 pA_I	pA_I
+tickets	9	11	6	 pA_L	pA_L
+
+ben	6	6	4	 pA_B	pA_B
+si	7	8	6	 pA_I	pA_I
+mais	6	7	5	 pA_I	pA_I
+en	5	5	5	 pA_I	pA_I
+fait	6	7	5	 pA_I	pA_I
+ça	5	7	5	 pA_I	pA_I
+ça	5	6	5	 pA_I	pA_I
+m	5	5	5	 pA_I	pA_I
+énerve	5	5	5	 pA_I	pA_I
+un	5	5	5	 pA_I	pA_I
+peu	5	6	5	 pA_I	pA_I
+de	5	6	5	 pA_I	pA_I
+faire	5	5	4	 pA_I	pA_I
+la	5	5	4	 pA_I	pA_I
+queue	5	7	5	 pA_I	pA_I
+si	5	5	5	 pA_I	pA_I
+tu	4	4	4	 pA_I	pA_I
+veux	4	4	4	 pA_L	pA_L
+
+d	5	6	5	 pA_B	pA_B
+accord	5	6	5	 pA_L	pA_I
+ben	5	5	4	 pA_B	pA_I
+écoute	5	6	4	 pA_I	pA_I
+si	19	20	18	 pA_I	pA_I
+tu	10	18	4	 pA_I	pA_I
+veux	5	5	4	 pA_I	pA_I
+on	5	5	5	 pA_I	pA_I
+avise	4	5	4	 pA_I	pA_I
+demain	4	4	3	 pA_L	pA_L
+
+ok	5	5	5	 pA_B	pA_B
+on	4	5	4	 pA_I	pA_I
+verra	4	5	4	 pA_I	pA_I
+ça	4	4	4	 pA_I	pA_I
+demain	4	4	4	 pA_I	pA_I
+alors	9	19	3	 pA_L	pA_L
+
+bon	4	5	4	 pA_B	pA_B
+voilà	4	4	3	 pA_L	pA_L
+
+ok	6	7	3	 pA_B	pA_B
+bisou	5	15	2	 pA_L	pA_L
+
+bosse	5	5	4	 pA_B	pA_B
+bien	13	22	4	 pA_L	pA_I
+comment	5	19	4	 pA_B	pA_I
+ça	5	5	4	 pA_I	pA_I
+se	4	5	4	 pA_I	pA_I
+fait	6	7	5	 pA_I	pA_I
+que	4	6	4	 pA_I	pA_I
+c	4	4	4	 pA_I	pA_I
+est	4	4	4	 pA_I	pA_I
+pas	4	5	4	 pA_I	pA_I
+ton	4	4	4	 pA_I	pA_I
+numéro	4	5	3	 pA_I	pA_I
+en	4	5	3	 pA_I	pA_I
+fait	10	18	3	 pA_L	pA_L
+
+ah	8	8	7	 pA_B	pA_B
+non	8	9	8	 pA_I	pA_I
+mais	6	8	5	 pA_I	pA_I
+s-	6	9	5	 pA_I	pA_I
+c	6	6	6	 pA_I	pA_I
+est	6	6	6	 pA_I	pA_I
+juste	7	8	5	 pA_I	pA_I
+que	8	18	6	 pA_I	pA_I
+en	9	17	5	 pA_I	pA_I
+fait	8	21	5	 pA_I	pA_I
+quand	5	6	5	 pA_I	pA_I
+j	6	7	5	 pA_I	pA_I
+appelle	6	7	5	 pA_I	pA_I
+avec	5	7	4	 pA_I	pA_I
+mon	5	5	5	 pA_I	pA_I
+fixe	5	8	4	 pA_I	pA_I
+je	5	5	5	 pA_I	pA_I
+paie	5	6	4	 pA_I	pA_I
+rien	6	6	5	 pA_I	pA_I
+du	6	7	6	 pA_I	pA_I
+tout	6	6	6	 pA_I	pA_I
+sur	12	21	4	 pA_I	pA_I
+un	4	4	4	 pA_I	pA_I
+portable	4	5	4	 pA_I	pA_I
+français	7	8	4	 pA_L	pA_L
+
+ah	7	10	5	 pA_B	pA_B
+ok	5	5	4	 pA_L	pA_I
+ok	9	20	4	 pA_B	pA_I
+ok	4	4	3	 pA_L	pA_L
+
+voilà	5	6	5	 pA_U	pA_U
+
+bon	5	5	4	 pA_B	pA_B
+ben	3	5	30	 pA_I	pA_I
+d	9	22	4	 pA_I	pA_I
+accord	9	22	4	 pA_L	pA_I
+bon	5	5	5	 pA_B	pA_I
+ben	5	5	5	 pA_I	pA_I
+allez	5	5	5	 pA_L	pA_I
+bisou	5	5	4	 pA_B	pA_I
+à	5	5	5	 pA_I	pA_I
+demain	5	5	5	 pA_L	pA_L
+
+bisou	6	7	5	 pA_B	pA_B
+à	6	7	5	 pA_I	pA_I
+demain	6	6	5	 pA_L	pA_L
+
+et	4	5	4	 pA_B	pA_B
+du	4	5	4	 pA_I	pA_I
+coup	6	6	5	 pA_I	pA_I
+euh	4	5	4	 pA_I	pA_I
+ouais	5	5	4	 pA_I	pA_I
+ouais	5	5	5	 pA_I	pA_I
+ça	 NA	 NA	 NA	 pA_I	pA_I
+y	4	4	4	 pA_I	pA_I
+est	4	4	4	 pA_I	pA_I
+je	4	12	3	 pA_I	pA_I
+je	2	3	30	 pA_I	pA_I
+attention	8	16	30	 pA_I	pA_I
+j	5	6	5	 pA_I	pA_I
+ai	5	6	5	 pA_I	pA_I
+reposé	5	6	4	 pA_I	pA_I
+euh	4	4	4	 pA_I	pA_I
+une	5	5	4	 pA_I	pA_I
+euh	3	4	29	 pA_I	pA_I
+une	5	5	4	 pA_I	pA_I
+suspension	11	21	6	 pA_I	pA_I
+tu	13	20	5	 pA_I	pA_I
+sais	6	6	5	 pA_I	pA_I
+une	5	5	5	 pA_I	pA_I
+lampe	5	6	5	 pA_I	pA_I
+et	4	5	4	 pA_I	pA_I
+tout	5	5	5	 pA_I	pA_I
+mais	5	5	4	 pA_I	pA_I
+par	5	6	5	 pA_I	pA_I
+contre	8	11	7	 pA_I	pA_I
+je	6	6	6	 pA_I	pA_I
+la	5	6	4	 pA_I	pA_I
+regarde	5	6	4	 pA_I	pA_I
+c	6	6	5	 pA_I	pA_I
+est	6	6	5	 pA_I	pA_I
+fait	5	6	5	 pA_I	pA_I
+n	5	5	4	 pA_I	pA_I
+importe	5	5	4	 pA_I	pA_I
+comment	5	15	4	 pA_I	pA_I
+elle	5	5	5	 pA_I	pA_I
+s	5	5	5	 pA_I	pA_I
+est	5	5	5	 pA_I	pA_I
+décrochée	14	22	6	 pA_I	pA_I
+c	10	23	5	 pA_I	pA_I
+est	10	23	5	 pA_I	pA_I
+ridicule	6	8	6	 pA_L	pA_L
+
+déjà	8	14	5	 pA_U	pA_U
+
+j	6	7	5	 pA_B	pA_B
+y	6	7	5	 pA_I	pA_I
+ai	7	9	5	 pA_I	pA_I
+passé	9	21	6	 pA_I	pA_I
+deux	6	13	4	 pA_I	pA_I
+heures	5	12	2	 pA_I	pA_I
+non	4	4	4	 pA_I	pA_I
+mais	4	4	4	 pA_I	pA_I
+c	4	5	4	 pA_I	pA_I
+est	4	5	4	 pA_I	pA_I
+ridicule	7	23	3	 pA_I	pA_I
+hein	3	4	3	 pA_I	pA_I
+franchement	5	8	4	 pA_L	pA_L
+
+non	4	4	4	 pA_B	pA_B
+mais	4	4	4	 pA_I	pA_I
+bon	4	4	4	 pA_I	pA_I
+et	4	4	4	 pA_I	pA_I
+non	4	4	4	 pA_I	pA_I
+mais	5	6	4	 pA_I	pA_I
+c	4	4	4	 pA_I	pA_I
+est	4	4	4	 pA_I	pA_I
+des	5	5	4	 pA_I	pA_I
+amis	5	5	5	 pA_I	pA_I
+qui	4	4	4	 pA_I	pA_I
+viennent	4	4	4	 pA_I	pA_I
+le	6	11	4	 pA_I	pA_I
+samedi	4	4	4	 pA_I	pA_I
+euh	3	4	3	 pA_I	pA_I
+je	20	20	20	 pA_I	pA_I
+suis	18	19	18	 pA_I	pA_I
+allée	3	4	3	 pA_I	pA_I
+acheter	3	3	3	 pA_I	pA_I
+pour	4	5	3	 pA_I	pA_I
+euh	3	4	3	 pA_I	pA_I
+fixer	10	21	4	 pA_I	pA_I
+mes	4	4	4	 pA_I	pA_I
+meubles	4	4	3	 pA_I	pA_I
+de	4	4	4	 pA_I	pA_I
+cuisine	10	19	4	 pA_I	pA_I
+et	4	4	4	 pA_I	pA_I
+caetera	4	4	4	 pA_I	pA_I
+donc	4	4	4	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+pense	5	5	5	 pA_I	pA_I
+que	5	11	3	 pA_I	pA_I
+chez	11	18	4	 pA_I	pA_I
+moi	4	5	4	 pA_I	pA_I
+ça	5	5	5	 pA_I	pA_I
+sera	4	4	3	 pA_I	pA_I
+un	 NA	 NA	 NA	 pA_I	pA_I
+peu	5	5	5	 pA_I	pA_I
+compliqué	4	6	3	 pA_I	pA_I
+vendredi	3	4	3	 pA_L	pA_L
+
+d	6	7	4	 pA_B	pA_B
+accord	6	7	4	 pA_I	pA_I
+non	6	6	3	 pA_I	pA_I
+mais	4	7	30	 pA_I	pA_I
+y	2	3	29	 pA_I	pA_I
+a	3	3	3	 pA_I	pA_I
+pas	2	3	2	 pA_I	pA_I
+de	3	3	3	 pA_I	pA_I
+souci	3	3	2	 pA_L	pA_L
+
+y	6	6	5	 pA_B	pA_B
+a	6	6	5	 pA_I	pA_I
+pas	6	6	6	 pA_I	pA_I
+de	6	6	5	 pA_I	pA_I
+souci	3	8	29	 pA_I	pA_I
+euh	3	3	2	 pA_L	pA_L
+
+ou	5	6	5	 pA_B	pA_B
+alors	5	6	5	 pA_I	pA_I
+sinon	4	6	4	 pA_I	pA_I
+on	4	5	4	 pA_I	pA_I
+peut	4	4	3	 pA_I	pA_I
+aller	3	3	3	 pA_I	pA_I
+dans	4	4	3	 pA_I	pA_I
+un	4	4	4	 pA_I	pA_I
+petit	5	5	4	 pA_I	pA_I
+resto	7	8	4	 pA_I	pA_I
+tu	6	6	5	 pA_I	pA_I
+sais	4	5	4	 pA_I	pA_I
+un	3	4	3	 pA_I	pA_I
+truc	16	21	7	 pA_I	pA_I
+rapidos	7	17	4	 pA_I	pA_I
+euh	3	4	3	 pA_I	pA_I
+carrément	5	7	3	 pA_I	pA_I
+tu	 NA	 NA	 NA	 pA_I	pA_I
+vois	4	4	4	 pA_I	pA_I
+histoire	4	6	3	 pA_I	pA_I
+de	30	1	30	 pA_L	pA_L
+
+ouais	6	7	5	 pA_B	pA_B
+ouais	7	7	6	 pA_I	pA_I
+parce	7	7	6	 pA_I	pA_I
+qu	7	7	6	 pA_I	pA_I
+on	7	7	6	 pA_I	pA_I
+avait	6	7	5	 pA_I	pA_I
+dit	7	9	5	 pA_I	pA_I
+euh	6	7	5	 pA_I	pA_I
+qu	6	6	5	 pA_I	pA_I
+on	6	6	5	 pA_I	pA_I
+pouvait	5	6	5	 pA_I	pA_I
+se	6	6	5	 pA_I	pA_I
+faire	6	6	6	 pA_I	pA_I
+des	6	6	5	 pA_I	pA_I
+trucs	6	6	5	 pA_I	pA_I
+un	5	6	5	 pA_I	pA_I
+peu	6	6	6	 pA_I	pA_I
+à	6	6	6	 pA_I	pA_I
+l	6	6	5	 pA_I	pA_I
+extérieur	6	6	5	 pA_I	pA_I
+c	3	6	1	 pA_I	pA_I
+est	3	6	1	 pA_I	pA_I
+vrai	4	5	1	 pA_I	pA_I
+que	5	5	5	 pA_I	pA_I
+toujours	1	1	1	 pA_I	pA_I
+à	4	5	1	 pA_I	pA_I
+la	5	5	5	 pA_I	pA_I
+maison	5	6	5	 pA_I	pA_I
+c	5	6	5	 pA_I	pA_I
+est	5	6	5	 pA_I	pA_I
+peut	5	6	5	 pA_I	pA_I
+être	6	7	5	 pA_I	pA_I
+moins	3	6	1	 pA_I	pA_I
+drôle	6	7	4	 pA_L	pA_L
+
+euh	5	5	5	 pA_B	pA_B
+carrément	4	7	3	 pA_I	pA_I
+carrément	6	9	3	 pA_I	pA_I
+mais	3	3	3	 pA_I	pA_I
+carrément	4	6	3	 pA_I	pA_I
+on	5	6	4	 pA_I	pA_I
+peut	 NA	 NA	 NA	 pA_I	pA_I
+se	 NA	 NA	 NA	 pA_I	pA_I
+faire	4	4	3	 pA_I	pA_I
+un	3	3	3	 pA_I	pA_I
+truc	4	4	4	 pA_I	pA_I
+un	4	4	3	 pA_I	pA_I
+petit	4	4	4	 pA_I	pA_I
+resto	4	5	4	 pA_I	pA_I
+ça	 NA	 NA	 NA	 pA_I	pA_I
+peut	30	30	30	 pA_I	pA_I
+être	1	1	30	 pA_I	pA_I
+sympa	4	5	1	 pA_L	pA_L
+
+ouais	6	7	1	 pA_B	pA_B
+ouais	6	7	6	 pA_I	pA_I
+voilà	6	6	5	 pA_I	pA_I
+ouais	5	6	5	 pA_L	pA_I
+donc	5	5	5	 pA_B	pA_I
+euh	5	5	4	 pA_L	pA_I
+hé	6	6	5	 pA_B	pA_I
+ce	5	6	5	 pA_I	pA_I
+que	7	7	7	 pA_I	pA_I
+je	6	7	6	 pA_I	pA_I
+vais	6	7	6	 pA_I	pA_I
+faire	7	8	6	 pA_I	pA_I
+ouais	7	7	6	 pA_I	pA_I
+je	6	6	5	 pA_I	pA_I
+vais	6	6	5	 pA_I	pA_I
+envoyer	6	6	5	 pA_I	pA_I
+un	6	6	6	 pA_I	pA_I
+mail	7	8	5	 pA_I	pA_I
+et	6	6	5	 pA_I	pA_I
+puis	13	19	5	 pA_I	pA_I
+comme	6	6	5	 pA_I	pA_I
+ça	6	6	6	 pA_I	pA_I
+on	5	6	5	 pA_I	pA_I
+verra	6	6	5	 pA_I	pA_I
+si	5	5	5	 pA_I	pA_I
+peuvent	5	6	5	 pA_I	pA_I
+déjà	5	6	5	 pA_I	pA_I
+le	5	5	5	 pA_I	pA_I
+samedi	5	6	5	 pA_I	pA_I
+s-	7	7	5	 pA_I	pA_I
+le	5	6	5	 pA_I	pA_I
+vendredi	5	5	5	 pA_I	pA_I
+soir	6	7	5	 pA_I	pA_I
+et	5	6	5	 pA_I	pA_I
+puis	5	6	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+voilà	6	6	5	 pA_L	pA_L
+
+ok	6	7	4	 pA_B	pA_B
+y	4	4	4	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+pas	5	5	4	 pA_I	pA_I
+de	5	5	5	 pA_I	pA_I
+souci	18	21	16	 pA_I	pA_I
+ben	4	5	3	 pA_I	pA_I
+on	5	5	5	 pA_I	pA_I
+fait	5	5	5	 pA_I	pA_I
+comme	3	3	3	 pA_I	pA_I
+ça	6	6	5	 pA_I	pA_I
+nickel	4	5	29	 pA_L	pA_I
+trop	6	7	4	 pA_B	pA_I
+cool	9	17	4	 pA_L	pA_L
+
+trop	7	8	5	 pA_B	pA_B
+trop	4	8	1	 pA_I	pA_I
+cool	5	5	5	 pA_I	pA_I
+bon	6	6	5	 pA_I	pA_I
+ben	5	6	5	 pA_I	pA_I
+ça	4	5	4	 pA_I	pA_I
+va	4	4	4	 pA_I	pA_I
+me	4	4	4	 pA_I	pA_I
+faire	4	4	4	 pA_I	pA_I
+bien	8	9	6	 pA_I	pA_I
+plaisir	7	7	6	 pA_I	pA_I
+de	6	7	5	 pA_I	pA_I
+vous	4	5	4	 pA_I	pA_I
+voir	3	3	3	 pA_L	pA_L
+
+ouais	6	7	6	 pA_U	pA_U
+
+c	5	7	1	 pA_B	pA_B
+est	5	7	1	 pA_I	pA_I
+à	5	7	1	 pA_I	pA_I
+dire	5	7	1	 pA_I	pA_I
+qu	5	7	1	 pA_I	pA_I
+y	5	7	1	 pA_I	pA_I
+en	6	6	6	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+cinq	6	10	4	 pA_I	pA_I
+i-	5	6	5	 pA_I	pA_I
+qui	6	6	5	 pA_I	pA_I
+doivent	7	9	5	 pA_I	pA_I
+être	9	10	9	 pA_I	pA_I
+en	8	9	8	 pA_I	pA_I
+binômes	8	9	7	 pA_L	pA_L
+
+ouais	5	6	5	 pA_U	pA_U
+
+et	11	13	5	 pA_B	pA_B
+elle	6	6	5	 pA_I	pA_I
+vient	6	6	5	 pA_I	pA_I
+juste	6	11	2	 pA_I	pA_I
+de	9	11	8	 pA_I	pA_I
+savoir	8	9	8	 pA_I	pA_I
+la	7	8	7	 pA_I	pA_I
+semaine	6	7	6	 pA_I	pA_I
+dernière	7	12	5	 pA_I	pA_I
+que	5	5	5	 pA_I	pA_I
+tu	5	5	5	 pA_I	pA_I
+sais	9	9	9	 pA_I	pA_I
+normalement	5	9	4	 pA_I	pA_I
+ben	6	7	3	 pA_I	pA_I
+ils	 NA	 NA	 NA	 pA_I	pA_I
+sont	4	5	4	 pA_I	pA_I
+trente	6	9	4	 pA_I	pA_I
+cinq	6	9	4	 pA_I	pA_I
+i-	5	5	5	 pA_I	pA_I
+ils	5	5	4	 pA_I	pA_I
+enregistrent	5	5	4	 pA_I	pA_I
+tous	 NA	 NA	 NA	 pA_I	pA_I
+des	6	7	6	 pA_I	pA_I
+trucs	7	7	6	 pA_I	pA_I
+pour	4	4	4	 pA_I	pA_I
+faire	3	4	3	 pA_I	pA_I
+voir	5	7	3	 pA_I	pA_I
+justement	5	7	4	 pA_I	pA_I
+qu	5	6	4	 pA_I	pA_I
+ils	5	6	4	 pA_I	pA_I
+ont	4	4	3	 pA_I	pA_I
+fait	6	6	3	 pA_I	pA_I
+quelque	7	12	5	 pA_I	pA_I
+chose	7	12	5	 pA_I	pA_I
+de	4	4	4	 pA_I	pA_I
+leur	4	4	4	 pA_I	pA_I
+s-	4	4	4	 pA_I	pA_I
+durant	4	4	3	 pA_I	pA_I
+leur	3	3	3	 pA_I	pA_I
+journée	6	7	3	 pA_L	pA_L
+
+ouais	5	5	4	 pA_U	pA_U
+
+et	9	12	4	 pA_B	pA_B
+vu	8	9	4	 pA_I	pA_I
+qu	8	10	7	 pA_I	pA_I
+elle	8	10	7	 pA_I	pA_I
+elle	5	5	4	 pA_I	pA_I
+était	4	5	4	 pA_I	pA_I
+avec	4	4	4	 pA_I	pA_I
+un	4	4	4	 pA_I	pA_I
+binôme	5	5	4	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+c	4	4	3	 pA_I	pA_I
+est	4	4	3	 pA_I	pA_I
+le	3	3	3	 pA_I	pA_I
+binôme	6	10	1	 pA_I	pA_I
+qui	7	11	4	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+enregistré	4	4	4	 pA_I	pA_I
+hé	4	4	4	 pA_I	pA_I
+ben	4	20	4	 pA_I	pA_I
+elle	20	21	19	 pA_I	pA_I
+ça	5	6	5	 pA_I	pA_I
+compte	8	9	5	 pA_I	pA_I
+pas	7	7	6	 pA_L	pA_I
+c	4	8	1	 pA_B	pA_I
+est	4	8	1	 pA_I	pA_I
+à	4	8	1	 pA_I	pA_I
+dire	4	8	1	 pA_I	pA_I
+qu	4	8	1	 pA_I	pA_I
+il	4	8	1	 pA_I	pA_I
+faut	 NA	 NA	 NA	 pA_I	pA_I
+qu	10	14	4	 pA_I	pA_I
+elle	10	14	4	 pA_I	pA_I
+trouve	7	14	6	 pA_I	pA_I
+du	5	6	4	 pA_I	pA_I
+temps	7	7	6	 pA_I	pA_I
+en	8	14	5	 pA_I	pA_I
+plus	8	14	5	 pA_I	pA_I
+et	12	13	5	 pA_I	pA_I
+qu	6	14	5	 pA_I	pA_I
+elle	6	14	5	 pA_I	pA_I
+refasse	8	13	1	 pA_I	pA_I
+son	10	10	9	 pA_I	pA_I
+truc	10	12	9	 pA_I	pA_I
+elle	10	12	9	 pA_I	pA_I
+même	10	12	9	 pA_L	pA_L
+
+c	6	7	5	 pA_B	pA_B
+est	6	7	5	 pA_I	pA_I
+à	6	7	5	 pA_I	pA_I
+dire	6	7	5	 pA_I	pA_I
+sans	8	10	6	 pA_I	pA_I
+le	10	10	10	 pA_I	pA_I
+formateur	9	10	7	 pA_I	pA_I
+avec	6	8	5	 pA_I	pA_I
+elle	10	11	7	 pA_I	pA_I
+au	5	6	5	 pA_I	pA_I
+cas	5	6	5	 pA_I	pA_I
+où	5	5	5	 pA_I	pA_I
+elle	5	5	4	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+pas	5	6	4	 pA_I	pA_I
+compris	6	10	4	 pA_L	pA_I
+et	4	4	3	 pA_B	pA_I
+euh	4	4	3	 pA_I	pA_I
+ça	4	4	4	 pA_I	pA_I
+ça	4	5	4	 pA_I	pA_I
+enfin	4	10	4	 pA_I	pA_I
+en	7	11	5	 pA_I	pA_I
+plus	7	11	5	 pA_I	pA_I
+des	6	7	5	 pA_I	pA_I
+heures	7	8	5	 pA_I	pA_I
+qu	5	8	2	 pA_I	pA_I
+elle	5	8	2	 pA_I	pA_I
+fait	7	9	5	 pA_I	pA_I
+et	 NA	 NA	 NA	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+te	3	4	3	 pA_I	pA_I
+dis	 NA	 NA	 NA	 pA_I	pA_I
+qu	6	6	6	 pA_I	pA_I
+elle	6	6	6	 pA_I	pA_I
+fait	 NA	 NA	 NA	 pA_I	pA_I
+vraiment	6	9	4	 pA_I	pA_I
+des	8	9	6	 pA_I	pA_I
+heures	6	6	6	 pA_I	pA_I
+hein	 NA	 NA	 NA	 pA_I	pA_I
+pour	6	6	6	 pA_I	pA_I
+le	 NA	 NA	 NA	 pA_I	pA_I
+coup	10	12	8	 pA_I	pA_I
+euh	1	11	30	 pA_I	pA_I
+c	15	15	15	 pA_I	pA_I
+était	15	15	15	 pA_I	pA_I
+impressionnant	7	8	29	 pA_L	pA_I
+donc	4	4	4	 pA_B	pA_I
+du	5	6	4	 pA_I	pA_I
+coup	5	6	4	 pA_I	pA_I
+elle	9	15	4	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+un	3	4	3	 pA_I	pA_I
+peu	3	4	3	 pA_I	pA_I
+déçue	6	9	4	 pA_I	pA_I
+quoi	7	16	5	 pA_L	pA_I
+donc	 NA	 NA	 NA	 pA_B	pA_I
+ça	4	4	4	 pA_I	pA_I
+l	3	6	3	 pA_I	pA_I
+a	3	6	3	 pA_I	pA_I
+bien	6	6	6	 pA_I	pA_I
+saoulée	7	10	5	 pA_I	pA_I
+et	7	10	5	 pA_I	pA_I
+puis	30	1	30	 pA_I	pA_I
+bon	3	4	3	 pA_I	pA_I
+elle	3	3	3	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+un	3	4	3	 pA_I	pA_I
+peu	3	4	3	 pA_I	pA_I
+comme	4	5	4	 pA_I	pA_I
+moi	5	6	4	 pA_I	pA_I
+tu	6	6	6	 pA_I	pA_I
+sais	6	7	6	 pA_I	pA_I
+elle	5	6	3	 pA_I	pA_I
+a	3	3	3	 pA_I	pA_I
+pas	4	16	3	 pA_I	pA_I
+trop	16	16	16	 pA_I	pA_I
+confiance	 NA	 NA	 NA	 pA_I	pA_I
+en	4	4	4	 pA_I	pA_I
+elle	4	4	4	 pA_I	pA_I
+donc	 NA	 NA	 NA	 pA_I	pA_I
+euh	3	3	3	 pA_I	pA_I
+du	4	5	3	 pA_I	pA_I
+coup	4	5	3	 pA_I	pA_I
+euh	4	4	3	 pA_I	pA_I
+ça	4	4	4	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+été	4	4	4	 pA_I	pA_I
+un	4	4	4	 pA_I	pA_I
+peu	4	4	4	 pA_I	pA_I
+la	5	5	4	 pA_I	pA_I
+catastrophe	 NA	 NA	 NA	 pA_I	pA_I
+la	 NA	 NA	 NA	 pA_I	pA_I
+semaine	 NA	 NA	 NA	 pA_I	pA_I
+dernière	3	3	3	 pA_L	pA_I
+mais	4	5	4	 pA_B	pA_I
+bon	6	6	4	 pA_I	pA_I
+ils	5	5	5	 pA_I	pA_I
+la	5	5	4	 pA_I	pA_I
+gardent	5	6	3	 pA_I	pA_I
+elle	3	4	3	 pA_I	pA_I
+l	3	3	3	 pA_I	pA_I
+a	3	3	3	 pA_I	pA_I
+su	4	4	3	 pA_I	pA_I
+elle	3	3	3	 pA_I	pA_I
+a	3	3	3	 pA_I	pA_I
+eu	3	3	3	 pA_I	pA_I
+son	3	4	3	 pA_I	pA_I
+mois	3	4	3	 pA_I	pA_I
+d	5	13	3	 pA_I	pA_I
+essai	5	13	3	 pA_I	pA_I
+ils	2	11	2	 pA_I	pA_I
+la	3	4	3	 pA_I	pA_I
+gardent	5	7	1	 pA_L	pA_I
+en	8	9	1	 pA_B	pA_I
+plus	8	9	1	 pA_I	pA_I
+cette	9	9	9	 pA_I	pA_I
+semaine	8	9	6	 pA_I	pA_I
+elle	3	6	1	 pA_I	pA_I
+nous	4	5	1	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+appelés	5	10	2	 pA_I	pA_I
+pour	5	6	5	 pA_I	pA_I
+nous	5	5	5	 pA_I	pA_I
+dire	6	7	5	 pA_I	pA_I
+tu	6	7	6	 pA_I	pA_I
+sais	4	13	1	 pA_I	pA_I
+que	12	15	5	 pA_I	pA_I
+normalement	6	10	4	 pA_I	pA_I
+quand	4	10	4	 pA_I	pA_I
+tu	4	4	4	 pA_I	pA_I
+fais	4	4	4	 pA_I	pA_I
+une	4	4	4	 pA_I	pA_I
+formation	4	4	3	 pA_I	pA_I
+comme	6	8	3	 pA_I	pA_I
+ça	6	8	3	 pA_I	pA_I
+tu	7	8	4	 pA_I	pA_I
+es	4	4	4	 pA_I	pA_I
+prise	6	8	4	 pA_I	pA_I
+automatiquement	5	7	4	 pA_I	pA_I
+tu	6	6	4	 pA_I	pA_I
+es	4	4	4	 pA_I	pA_I
+prise	7	7	6	 pA_I	pA_I
+dans	6	6	6	 pA_I	pA_I
+l	5	6	4	 pA_I	pA_I
+entreprise	5	6	4	 pA_L	pA_L
+
+hm	 NA	 NA	 NA	 pA_U	pA_U
+
+tu	4	4	4	 pA_B	pA_B
+sais	6	7	4	 pA_I	pA_I
+tu	 NA	 NA	 NA	 pA_I	pA_I
+fais	4	4	4	 pA_I	pA_I
+la	3	4	3	 pA_I	pA_I
+formation	4	6	3	 pA_I	pA_I
+c	5	6	2	 pA_I	pA_I
+est	5	6	2	 pA_I	pA_I
+eux	2	2	2	 pA_I	pA_I
+qui	4	5	2	 pA_I	pA_I
+te	5	5	5	 pA_I	pA_I
+paient	5	5	5	 pA_I	pA_I
+la	5	5	4	 pA_I	pA_I
+formation	5	6	4	 pA_I	pA_I
+ils	4	4	3	 pA_I	pA_I
+ont	7	13	3	 pA_I	pA_I
+plutôt	6	12	4	 pA_I	pA_I
+intérêt	4	4	4	 pA_I	pA_I
+de	4	4	4	 pA_I	pA_I
+te	4	5	4	 pA_I	pA_I
+voilà	8	21	5	 pA_I	pA_I
+ils	3	3	3	 pA_I	pA_I
+ont	3	3	3	 pA_I	pA_I
+plutôt	4	5	3	 pA_I	pA_I
+intérêt	3	5	3	 pA_I	pA_I
+de	3	3	3	 pA_I	pA_I
+t	4	4	3	 pA_I	pA_I
+embaucher	4	4	3	 pA_I	pA_I
+à	4	4	4	 pA_I	pA_I
+la	5	6	4	 pA_I	pA_I
+fin	8	9	6	 pA_L	pA_I
+et	4	4	1	 pA_B	pA_I
+du	7	11	30	 pA_I	pA_I
+coup	7	11	30	 pA_I	pA_I
+là	11	12	10	 pA_I	pA_I
+ils	5	5	4	 pA_I	pA_I
+vont	4	5	4	 pA_I	pA_I
+pas	8	9	4	 pA_I	pA_I
+en	9	9	9	 pA_I	pA_I
+garder	7	9	6	 pA_L	pA_L
+
+ah	 NA	 NA	 NA	 pA_B	pA_B
+ouais	6	6	6	 pA_L	pA_L
+
+enfin	4	6	4	 pA_B	pA_B
+si	6	7	5	 pA_I	pA_I
+eux	4	7	2	 pA_I	pA_I
+oui	7	9	6	 pA_I	pA_I
+peut	7	9	6	 pA_I	pA_I
+être	7	9	6	 pA_I	pA_I
+mais	4	4	4	 pA_I	pA_I
+pas	8	9	4	 pA_I	pA_I
+tous	8	9	7	 pA_L	pA_I
+ceux	9	9	8	 pA_B	pA_I
+qu	9	9	8	 pA_I	pA_I
+ils	9	9	8	 pA_I	pA_I
+avaient	7	8	6	 pA_I	pA_I
+pris	7	7	6	 pA_I	pA_I
+en	5	7	4	 pA_I	pA_I
+contrat	4	5	4	 pA_I	pA_I
+euh	3	3	3	 pA_I	pA_I
+déterm-	4	4	3	 pA_I	pA_I
+déterminés	4	5	4	 pA_I	pA_I
+qu	5	5	5	 pA_I	pA_I
+ils	5	5	5	 pA_I	pA_I
+étaient	3	4	3	 pA_I	pA_I
+censés	5	11	3	 pA_I	pA_I
+renouveler	3	5	3	 pA_I	pA_I
+hé	4	4	4	 pA_I	pA_I
+ben	4	4	3	 pA_I	pA_I
+ils	4	4	4	 pA_I	pA_I
+renouvellent	6	7	3	 pA_I	pA_I
+pas	4	7	4	 pA_L	pA_L
+
+d	 NA	 NA	 NA	 pA_B	pA_B
+accord	 NA	 NA	 NA	 pA_L	pA_L
+
+bon	4	4	4	 pA_B	pA_B
+parce	3	3	3	 pA_I	pA_I
+que	3	3	3	 pA_I	pA_I
+ça	4	4	3	 pA_I	pA_I
+va	3	3	3	 pA_I	pA_I
+mal	3	4	3	 pA_I	pA_I
+aussi	5	5	5	 pA_L	pA_L
+
+ouais	6	6	5	 pA_U	pA_U
+
+ben	3	3	3	 pA_B	pA_B
+de	3	3	3	 pA_I	pA_I
+toute	3	3	3	 pA_I	pA_I
+façon	3	3	3	 pA_I	pA_I
+on	 NA	 NA	 NA	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+en	 NA	 NA	 NA	 pA_I	pA_I
+crise	5	5	5	 pA_I	pA_I
+hein	4	5	1	 pA_I	pA_I
+on	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+en	 NA	 NA	 NA	 pA_I	pA_I
+crise	 NA	 NA	 NA	 pA_I	pA_I
+ou	 NA	 NA	 NA	 pA_I	pA_I
+on	 NA	 NA	 NA	 pA_I	pA_I
+l	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+pas	 NA	 NA	 NA	 pA_L	pA_I
+et	4	4	4	 pA_B	pA_I
+donc	5	5	4	 pA_I	pA_I
+du	6	7	4	 pA_I	pA_I
+coup	6	7	4	 pA_I	pA_I
+trop	7	7	7	 pA_I	pA_I
+la	7	7	7	 pA_I	pA_I
+galère	3	7	30	 pA_I	pA_I
+donc	4	5	4	 pA_I	pA_I
+elle	4	4	3	 pA_I	pA_I
+s	4	4	4	 pA_I	pA_I
+est	4	4	4	 pA_I	pA_I
+dit	7	13	4	 pA_I	pA_I
+euh	7	15	30	 pA_I	pA_I
+je	1	4	30	 pA_I	pA_I
+vais	4	4	4	 pA_I	pA_I
+j	5	6	4	 pA_I	pA_I
+attaque	5	6	4	 pA_I	pA_I
+une	5	5	5	 pA_I	pA_I
+formation	4	7	1	 pA_L	pA_L
+
+se	 NA	 NA	 NA	 pA_B	pA_B
+trouve	5	5	5	 pA_I	pA_I
+elle	5	5	5	 pA_I	pA_I
+et	5	5	5	 pA_I	pA_I
+voilà	8	12	5	 pA_I	pA_I
+exactement	6	8	4	 pA_L	pA_L
+
+normalement	5	7	4	 pA_B	pA_B
+à	5	5	5	 pA_I	pA_I
+la	4	5	4	 pA_I	pA_I
+fin	5	5	4	 pA_I	pA_I
+de	5	5	4	 pA_I	pA_I
+l	5	6	4	 pA_I	pA_I
+année	5	6	4	 pA_I	pA_I
+elle	4	5	30	 pA_I	pA_I
+était	2	4	30	 pA_I	pA_I
+elle	4	4	3	 pA_I	pA_I
+était	4	5	4	 pA_I	pA_I
+toute	5	5	4	 pA_I	pA_I
+contente	6	6	5	 pA_I	pA_I
+de	4	6	3	 pA_I	pA_I
+se	3	4	3	 pA_I	pA_I
+dire	5	5	4	 pA_I	pA_I
+ben	5	5	4	 pA_I	pA_I
+voilà	6	7	3	 pA_I	pA_I
+mh	2	7	1	 pA_I	pA_I
+ils	4	4	4	 pA_I	pA_I
+m	4	4	4	 pA_I	pA_I
+ont	4	4	4	 pA_I	pA_I
+gardée	5	7	4	 pA_I	pA_I
+à	6	7	6	 pA_I	pA_I
+la	3	4	3	 pA_I	pA_I
+fin	4	4	3	 pA_I	pA_I
+de	4	4	4	 pA_I	pA_I
+l	4	5	4	 pA_I	pA_I
+année	4	5	4	 pA_I	pA_I
+je	5	5	5	 pA_I	pA_I
+suis	4	5	4	 pA_I	pA_I
+embauchée	4	7	3	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+suis	4	4	4	 pA_I	pA_I
+tranquille	5	7	2	 pA_I	pA_I
+euh	4	5	3	 pA_I	pA_I
+à	3	3	3	 pA_I	pA_I
+vingt	4	6	3	 pA_I	pA_I
+quatre	4	6	3	 pA_I	pA_I
+ans	6	7	6	 pA_I	pA_I
+euh	6	6	6	 pA_I	pA_I
+j	5	6	3	 pA_I	pA_I
+aurai	5	6	3	 pA_I	pA_I
+ma	 NA	 NA	 NA	 pA_I	pA_I
+vie	5	6	5	 pA_I	pA_I
+je	6	6	6	 pA_I	pA_I
+commence	4	4	3	 pA_I	pA_I
+ma	4	4	4	 pA_I	pA_I
+vie	5	6	4	 pA_I	pA_I
+quoi	1	1	30	 pA_L	pA_L
+
+hm	5	5	5	 pA_U	pA_U
+
+et	3	3	3	 pA_B	pA_B
+en	3	3	3	 pA_I	pA_I
+fin	3	3	3	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+compte	1	1	1	 pA_I	pA_I
+elle	 NA	 NA	 NA	 pA_I	pA_I
+voit	4	4	4	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+c	11	11	11	 pA_I	pA_I
+est	11	11	11	 pA_I	pA_I
+pas	3	3	3	 pA_I	pA_I
+du	3	3	3	 pA_I	pA_I
+tout	3	3	3	 pA_I	pA_I
+ça	1	2	29	 pA_I	pA_I
+quoi	 NA	 NA	 NA	 pA_L	pA_I
+donc	4	4	3	 pA_B	pA_I
+mais	5	5	5	 pA_I	pA_I
+bon	6	6	5	 pA_I	pA_I
+c	10	11	5	 pA_I	pA_I
+est	10	11	5	 pA_I	pA_I
+ce	11	11	11	 pA_I	pA_I
+que	4	4	4	 pA_I	pA_I
+je	4	5	4	 pA_I	pA_I
+lui	6	6	5	 pA_I	pA_I
+ai	6	6	6	 pA_I	pA_I
+dit	6	7	6	 pA_I	pA_I
+c	8	10	6	 pA_I	pA_I
+est	8	10	6	 pA_I	pA_I
+pas	5	10	3	 pA_I	pA_I
+perdu	3	4	3	 pA_I	pA_I
+non	5	6	4	 pA_I	pA_I
+plus	5	6	4	 pA_I	pA_I
+c	5	6	4	 pA_I	pA_I
+est	5	6	4	 pA_I	pA_I
+une	3	4	3	 pA_I	pA_I
+formation	4	5	3	 pA_I	pA_I
+tu	4	5	4	 pA_I	pA_I
+vas	3	4	3	 pA_I	pA_I
+avoir	3	4	3	 pA_I	pA_I
+euh	3	3	3	 pA_I	pA_I
+tu	4	4	4	 pA_I	pA_I
+v-	4	4	4	 pA_I	pA_I
+tu	5	5	5	 pA_I	pA_I
+vois	5	5	5	 pA_I	pA_I
+ce	5	5	5	 pA_I	pA_I
+que	5	6	5	 pA_I	pA_I
+je	6	6	5	 pA_I	pA_I
+veux	5	6	5	 pA_I	pA_I
+dire	7	7	5	 pA_I	pA_I
+tu	4	4	4	 pA_I	pA_I
+vas	4	4	4	 pA_I	pA_I
+avoir	4	4	4	 pA_I	pA_I
+quand	4	4	4	 pA_I	pA_I
+même	4	4	4	 pA_I	pA_I
+la	3	4	3	 pA_I	pA_I
+l	5	11	3	 pA_I	pA_I
+expérience	5	11	3	 pA_I	pA_I
+et	11	11	10	 pA_I	pA_I
+tout	6	6	6	 pA_I	pA_I
+c	8	11	6	 pA_I	pA_I
+est	8	11	6	 pA_I	pA_I
+quand	4	4	3	 pA_I	pA_I
+même	4	4	3	 pA_I	pA_I
+euh	3	3	3	 pA_I	pA_I
+un	4	4	4	 pA_I	pA_I
+an	5	5	4	 pA_I	pA_I
+d	4	5	4	 pA_I	pA_I
+expérience	4	5	4	 pA_I	pA_I
+dans	4	4	4	 pA_I	pA_I
+euh	3	4	30	 pA_I	pA_I
+dans	4	4	4	 pA_I	pA_I
+une	4	4	4	 pA_I	pA_I
+entreprise	4	5	1	 pA_I	pA_I
+telle	4	4	4	 pA_I	pA_I
+c	6	12	5	 pA_I	pA_I
+est	6	12	5	 pA_I	pA_I
+quand	5	6	4	 pA_I	pA_I
+même	5	6	4	 pA_I	pA_I
+pas	6	6	5	 pA_I	pA_I
+pas	6	7	5	 pA_I	pA_I
+rien	4	7	30	 pA_I	pA_I
+quoi	4	4	4	 pA_I	pA_I
+c	3	4	2	 pA_I	pA_I
+est	3	4	2	 pA_I	pA_I
+ce	2	2	2	 pA_I	pA_I
+que	4	6	2	 pA_I	pA_I
+je	6	6	5	 pA_I	pA_I
+lui	6	6	6	 pA_I	pA_I
+ai	6	6	6	 pA_I	pA_I
+dit	5	6	5	 pA_L	pA_I
+mais	4	4	4	 pA_B	pA_I
+bon	4	4	4	 pA_L	pA_I
+en	3	5	1	 pA_B	pA_I
+plus	3	5	1	 pA_I	pA_I
+euh	3	4	3	 pA_I	pA_I
+ça	13	22	30	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+c	11	11	10	 pA_I	pA_I
+est	11	11	10	 pA_I	pA_I
+pas	5	11	5	 pA_I	pA_I
+perdu	6	7	5	 pA_I	pA_I
+parce	4	6	3	 pA_I	pA_I
+que	4	6	3	 pA_I	pA_I
+quand	4	4	4	 pA_I	pA_I
+elle	4	4	4	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+percé	4	5	4	 pA_I	pA_I
+euh	3	4	1	 pA_I	pA_I
+l	4	5	30	 pA_I	pA_I
+entretien	4	5	30	 pA_I	pA_I
+voilà	4	4	1	 pA_I	pA_I
+exactement	4	7	30	 pA_I	pA_I
+elle	4	4	3	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+passé	4	4	4	 pA_I	pA_I
+l	5	6	5	 pA_I	pA_I
+entretien	5	6	5	 pA_I	pA_I
+avec	3	6	30	 pA_I	pA_I
+trois	8	8	8	 pA_I	pA_I
+personnes	8	10	7	 pA_L	pA_L
+
+et	6	6	5	 pA_B	pA_B
+elle	5	5	5	 pA_I	pA_I
+a	4	5	4	 pA_L	pA_L
+
+tu	4	4	4	 pA_B	pA_B
+imagines	4	4	4	 pA_I	pA_I
+et	4	4	4	 pA_I	pA_I
+elle	4	4	4	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+été	4	5	4	 pA_I	pA_I
+prise	5	6	4	 pA_L	pA_I
+et	4	4	4	 pA_B	pA_I
+en	3	4	1	 pA_I	pA_I
+plus	3	4	1	 pA_I	pA_I
+ils	4	5	4	 pA_I	pA_I
+l	4	4	4	 pA_I	pA_I
+ont	4	4	4	 pA_I	pA_I
+gardée	6	22	4	 pA_I	pA_I
+alors	4	22	3	 pA_I	pA_I
+qu	4	22	3	 pA_I	pA_I
+elle	4	22	3	 pA_I	pA_I
+a	3	4	3	 pA_I	pA_I
+même	4	4	4	 pA_I	pA_I
+pas	7	21	4	 pA_I	pA_I
+fait	10	21	5	 pA_I	pA_I
+euh	4	5	4	 pA_I	pA_I
+euh	8	14	1	 pA_I	pA_I
+d	5	15	4	 pA_I	pA_I
+études	5	15	4	 pA_I	pA_I
+en	4	16	1	 pA_I	pA_I
+compta	6	21	4	 pA_I	pA_I
+tout	4	4	4	 pA_I	pA_I
+ça	5	5	4	 pA_L	pA_L
+
+ça	 NA	 NA	 NA	 pA_B	pA_B
+devrait	 NA	 NA	 NA	 pA_I	pA_I
+la	 NA	 NA	 NA	 pA_I	pA_I
+la	5	6	5	 pA_I	pA_I
+rebooster	4	5	3	 pA_I	pA_I
+un	 NA	 NA	 NA	 pA_I	pA_I
+peu	 NA	 NA	 NA	 pA_L	pA_L
+
+donc	4	4	4	 pA_B	pA_B
+euh	3	4	3	 pA_I	pA_I
+moi	3	3	3	 pA_I	pA_I
+je	3	3	3	 pA_I	pA_I
+lui	 NA	 NA	 NA	 pA_I	pA_I
+ai	3	3	3	 pA_I	pA_I
+dit	3	3	3	 pA_I	pA_I
+franchement	4	5	3	 pA_I	pA_I
+y	4	4	4	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+que	4	4	4	 pA_I	pA_I
+du	 NA	 NA	 NA	 pA_I	pA_I
+positif	5	6	4	 pA_I	pA_I
+malgré	4	5	4	 pA_I	pA_I
+tout	4	5	4	 pA_I	pA_I
+mais	4	4	4	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+sûr	4	4	4	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+c	3	3	3	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+embêtant	4	5	3	 pA_I	pA_I
+qu	 NA	 NA	 NA	 pA_I	pA_I
+elle	 NA	 NA	 NA	 pA_I	pA_I
+soit	3	3	3	 pA_I	pA_I
+pas	3	3	3	 pA_I	pA_I
+prise	6	6	5	 pA_I	pA_I
+mais	 NA	 NA	 NA	 pA_I	pA_I
+bon	4	4	3	 pA_L	pA_L
+
+ben	4	4	4	 pA_B	pA_B
+alors	4	5	3	 pA_I	pA_I
+ça	5	5	4	 pA_I	pA_I
+après	5	22	30	 pA_I	pA_I
+elle	4	4	4	 pA_I	pA_I
+en	 NA	 NA	 NA	 pA_I	pA_I
+sait	 NA	 NA	 NA	 pA_I	pA_I
+rien	6	6	5	 pA_I	pA_I
+c	5	5	5	 pA_I	pA_I
+est	5	5	5	 pA_I	pA_I
+un	 NA	 NA	 NA	 pA_I	pA_I
+coup	 NA	 NA	 NA	 pA_I	pA_I
+ils	 NA	 NA	 NA	 pA_I	pA_I
+vont	 NA	 NA	 NA	 pA_I	pA_I
+la	 NA	 NA	 NA	 pA_I	pA_I
+garder	 NA	 NA	 NA	 pA_L	pA_L
+
+en	6	6	4	 pA_B	pA_B
+plus	6	6	4	 pA_I	pA_I
+justement	5	6	4	 pA_I	pA_I
+le	5	5	5	 pA_I	pA_I
+fait	4	5	4	 pA_I	pA_I
+qu	4	4	4	 pA_I	pA_I
+i-	4	4	4	 pA_I	pA_I
+qu	4	11	4	 pA_I	pA_I
+elle	4	11	4	 pA_I	pA_I
+soit	3	5	30	 pA_I	pA_I
+jeune	4	5	4	 pA_I	pA_I
+euh	 NA	 NA	 NA	 pA_L	pA_I
+tu	12	12	12	 pA_B	pA_I
+sais	11	12	11	 pA_I	pA_I
+ils	 NA	 NA	 NA	 pA_I	pA_I
+peuvent	4	5	4	 pA_I	pA_I
+la	4	4	4	 pA_I	pA_I
+former	5	6	2	 pA_I	pA_I
+au	5	5	4	 pA_I	pA_I
+moins	5	5	4	 pA_I	pA_I
+comme	4	5	4	 pA_I	pA_I
+ils	 NA	 NA	 NA	 pA_I	pA_I
+le	4	4	4	 pA_I	pA_I
+veulent	4	4	4	 pA_I	pA_I
+et	 NA	 NA	 NA	 pA_I	pA_I
+tout	5	5	5	 pA_I	pA_I
+euh	6	13	4	 pA_I	pA_I
+peut	 NA	 NA	 NA	 pA_I	pA_I
+être	 NA	 NA	 NA	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+ça	 NA	 NA	 NA	 pA_I	pA_I
+les	 NA	 NA	 NA	 pA_I	pA_I
+arrange	 NA	 NA	 NA	 pA_L	pA_L
+
+enfin	7	7	5	 pA_B	pA_B
+voilà	6	6	6	 pA_I	pA_I
+voilà	6	6	5	 pA_I	pA_I
+quoi	 NA	 NA	 NA	 pA_L	pA_L
+
+on	4	4	4	 pA_B	pA_B
+verra	4	4	4	 pA_L	pA_I
+et	5	5	5	 pA_B	pA_I
+avec	4	5	4	 pA_I	pA_I
+son	 NA	 NA	 NA	 pA_I	pA_I
+chéri	5	5	5	 pA_I	pA_I
+ça	 NA	 NA	 NA	 pA_I	pA_I
+va	 NA	 NA	 NA	 pA_L	pA_L
+
+trois	6	7	4	 pA_B	pA_B
+mais	5	12	1	 pA_I	pA_I
+boulet	13	15	5	 pA_I	pA_I
+tu	7	7	7	 pA_I	pA_I
+savais	4	7	4	 pA_I	pA_I
+pas	10	12	9	 pA_L	pA_I
+un	6	7	6	 pA_B	pA_I
+truc	7	13	29	 pA_I	pA_I
+énorme	6	11	1	 pA_L	pA_L
+
+c	6	6	6	 pA_B	pA_B
+est	6	6	6	 pA_I	pA_I
+génial	6	12	5	 pA_I	pA_I
+un	30	4	30	 pA_I	pA_I
+truc	6	7	4	 pA_I	pA_I
+énorme	7	11	5	 pA_L	pA_L
+
+ben	6	11	4	 pA_B	pA_B
+ouais	10	18	4	 pA_I	pA_I
+et	15	18	13	 pA_I	pA_I
+tout	7	13	3	 pA_I	pA_I
+le	7	13	3	 pA_I	pA_I
+monde	7	13	3	 pA_I	pA_I
+est	7	8	7	 pA_I	pA_I
+d	7	11	1	 pA_I	pA_I
+accord	7	11	1	 pA_I	pA_I
+pour	12	13	10	 pA_I	pA_I
+dire	13	13	12	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+c	4	5	4	 pA_I	pA_I
+est	4	5	4	 pA_I	pA_I
+énorme	8	14	5	 pA_I	pA_I
+quoi	2	6	29	 pA_L	pA_L
+
+euh	7	21	3	 pA_B	pA_B
+vers	3	3	3	 pA_I	pA_I
+euh	3	3	3	 pA_I	pA_I
+dix	12	19	9	 pA_I	pA_I
+huit	14	22	10	 pA_I	pA_I
+heures	4	4	4	 pA_I	pA_I
+trente	4	5	4	 pA_I	pA_I
+dix	4	4	4	 pA_I	pA_I
+neuf	5	5	4	 pA_I	pA_I
+heures	11	22	5	 pA_L	pA_L
+
+bon	4	7	3	 pA_B	pA_B
+d	4	4	4	 pA_I	pA_I
+accord	4	4	4	 pA_I	pA_I
+c	4	5	4	 pA_I	pA_I
+est	4	5	4	 pA_I	pA_I
+moi	4	4	4	 pA_I	pA_I
+qui	4	4	4	 pA_I	pA_I
+finirai	4	5	4	 pA_I	pA_I
+plus	4	4	4	 pA_I	pA_I
+tard	4	4	4	 pA_I	pA_I
+que	5	5	4	 pA_I	pA_I
+toi	6	7	4	 pA_L	pA_I
+je	 NA	 NA	 NA	 pA_B	pA_I
+te	8	8	7	 pA_I	pA_I
+rappelle	9	10	7	 pA_I	pA_I
+quand	9	10	9	 pA_I	pA_I
+j	9	9	8	 pA_I	pA_I
+ai	9	9	8	 pA_I	pA_I
+fini	9	10	7	 pA_I	pA_I
+moi	8	9	7	 pA_L	pA_I
+ok	9	14	7	 pA_U	pA_L
+
+ok	6	9	1	 pA_B	pA_B
+pas	7	7	7	 pA_I	pA_I
+de	7	7	7	 pA_I	pA_I
+souci	7	9	6	 pA_L	pA_L
+
+ben	6	7	5	 pA_B	pA_B
+allez	8	9	7	 pA_I	pA_I
+bisous	9	10	8	 pA_L	pA_I
+travaille	7	8	6	 pA_B	pA_I
+bien	7	9	2	 pA_L	pA_L
+
+bonne	6	6	5	 pA_B	pA_B
+journée	6	6	5	 pA_I	pA_I
+salut	5	6	4	 pA_L	pA_L
+
+bye	4	6	4	 pA_U	pA_U
+
+ben	 NA	 NA	 NA	 pA_B	pA_B
+si	 NA	 NA	 NA	 pA_I	pA_I
+vraiment	5	5	5	 pA_I	pA_I
+tu	 NA	 NA	 NA	 pA_I	pA_I
+veux	5	5	4	 pA_I	pA_I
+que	5	5	5	 pA_I	pA_I
+ça	4	5	4	 pA_I	pA_I
+colle	6	6	4	 pA_I	pA_I
+faudrait	4	4	4	 pA_I	pA_I
+mettre	4	4	4	 pA_I	pA_I
+euh	3	4	3	 pA_I	pA_I
+du	 NA	 NA	 NA	 pA_I	pA_I
+jaune	4	4	4	 pA_I	pA_I
+d	5	6	4	 pA_I	pA_I
+oeuf	5	6	4	 pA_L	pA_L
+
+non	1	1	1	 pA_B	pA_B
+mais	1	2	1	 pA_I	pA_I
+comme	 NA	 NA	 NA	 pA_I	pA_I
+ça	 NA	 NA	 NA	 pA_I	pA_I
+c	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+bien	 NA	 NA	 NA	 pA_L	pA_L
+
+il	5	5	5	 pA_B	pA_B
+manque	5	6	5	 pA_I	pA_I
+une	6	6	5	 pA_I	pA_I
+lumière	6	6	5	 pA_I	pA_I
+hein	5	5	5	 pA_I	pA_I
+là	5	5	4	 pA_I	pA_I
+quand	4	4	4	 pA_I	pA_I
+même	4	4	4	 pA_I	pA_I
+hein	4	4	4	 pA_L	pA_L
+
+hein	2	2	2	 pA_U	pA_U
+
+il	5	5	5	 pA_B	pA_B
+manque	6	6	5	 pA_I	pA_I
+une	6	6	6	 pA_I	pA_I
+lumière	6	7	6	 pA_I	pA_I
+là	5	5	4	 pA_L	pA_L
+
+ouais	5	17	2	 pA_B	pA_B
+mais	3	3	3	 pA_I	pA_I
+c	2	2	2	 pA_I	pA_I
+est	2	2	2	 pA_I	pA_I
+pour	2	2	2	 pA_I	pA_I
+ça	4	4	4	 pA_I	pA_I
+je	3	4	29	 pA_I	pA_I
+me	3	3	3	 pA_I	pA_I
+suis	3	3	2	 pA_I	pA_I
+dit	3	3	2	 pA_I	pA_I
+tu	3	3	3	 pA_I	pA_I
+sais	4	4	4	 pA_I	pA_I
+euh	2	4	2	 pA_I	pA_I
+si	3	3	2	 pA_I	pA_I
+on	2	2	2	 pA_I	pA_I
+prend	2	3	2	 pA_I	pA_I
+une	2	2	2	 pA_I	pA_I
+hotte	3	3	2	 pA_I	pA_I
+pour	2	2	1	 pA_I	pA_I
+euh	1	2	1	 pA_I	pA_I
+s-	1	1	1	 pA_I	pA_I
+j	2	2	2	 pA_I	pA_I
+en	2	2	2	 pA_I	pA_I
+j	2	2	2	 pA_I	pA_I
+en	2	2	2	 pA_I	pA_I
+voudrais	2	3	2	 pA_I	pA_I
+une	2	3	2	 pA_I	pA_I
+avec	2	2	1	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+lumières	2	3	1	 pA_I	pA_I
+tu	 NA	 NA	 NA	 pA_I	pA_I
+sais	3	3	2	 pA_L	pA_L
+
+ben	 NA	 NA	 NA	 pA_B	pA_B
+de	 NA	 NA	 NA	 pA_I	pA_I
+toute	 NA	 NA	 NA	 pA_I	pA_I
+façon	5	6	4	 pA_I	pA_I
+tu	 NA	 NA	 NA	 pA_I	pA_I
+trouves	5	5	5	 pA_L	pA_L
+
+je	1	1	1	 pA_B	pA_B
+sais	1	1	1	 pA_I	pA_I
+pas	11	17	2	 pA_L	pA_L
+
+tu	5	5	5	 pA_B	pA_B
+le	5	5	5	 pA_I	pA_I
+connais	5	5	4	 pA_I	pA_I
+pas	5	5	4	 pA_I	pA_I
+en	4	4	4	 pA_I	pA_I
+hotte	16	17	15	 pA_L	pA_L
+
+hein	8	18	2	 pA_U	pA_U
+
+tu	5	5	5	 pA_B	pA_B
+le	5	5	5	 pA_I	pA_I
+connais	5	6	5	 pA_I	pA_I
+pas	6	6	6	 pA_I	pA_I
+en	5	6	5	 pA_I	pA_I
+hotte	4	4	4	 pA_L	pA_L
+
+nan	1	1	1	 pA_U	pA_B
+enfin	2	2	2	 pA_B	pA_I
+je	1	1	1	 pA_I	pA_I
+saurai	2	3	1	 pA_L	pA_I
+leurs	2	2	1	 pA_B	pA_I
+pots	3	3	3	 pA_I	pA_I
+ils	3	3	3	 pA_I	pA_I
+sont	2	3	2	 pA_I	pA_I
+bien	3	3	2	 pA_I	pA_I
+mais	3	3	1	 pA_I	pA_I
+y	1	2	1	 pA_I	pA_I
+a	1	1	1	 pA_I	pA_I
+pas	2	2	1	 pA_I	pA_I
+assez	2	3	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+tomates	2	3	2	 pA_I	pA_I
+dedans	1	1	1	 pA_L	pA_L
+
+y	 NA	 NA	 NA	 pA_B	pA_B
+a	6	6	6	 pA_I	pA_I
+de	7	7	6	 pA_I	pA_I
+la	6	7	6	 pA_I	pA_I
+sauce	6	6	6	 pA_L	pA_I
+y	 NA	 NA	 NA	 pA_B	pA_I
+a	5	5	4	 pA_I	pA_I
+une	5	5	5	 pA_I	pA_I
+bouteille	5	7	3	 pA_I	pA_I
+de	5	6	5	 pA_I	pA_I
+sauce	6	6	5	 pA_I	pA_I
+encore	5	5	4	 pA_L	pA_L
+
+la	1	2	1	 pA_B	pA_B
+grande	4	5	1	 pA_I	pA_I
+là	6	6	5	 pA_L	pA_L
+
+ben	4	4	4	 pA_B	pA_B
+ouais	4	4	4	 pA_L	pA_L
+
+ah	 NA	 NA	 NA	 pA_B	pA_B
+sinon	3	3	2	 pA_I	pA_I
+c	3	3	2	 pA_I	pA_I
+est	3	3	2	 pA_I	pA_I
+que	2	2	1	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+purées	2	3	2	 pA_I	pA_I
+après	2	2	1	 pA_L	pA_L
+
+de	 NA	 NA	 NA	 pA_B	pA_B
+la	4	4	4	 pA_I	pA_I
+chair	4	5	4	 pA_I	pA_I
+de	4	5	4	 pA_I	pA_I
+tomate	6	6	5	 pA_L	pA_L
+
+ouais	3	5	1	 pA_B	pA_B
+faudra	2	2	2	 pA_I	pA_I
+juste	2	2	2	 pA_I	pA_I
+me	 NA	 NA	 NA	 pA_I	pA_I
+filer	2	3	2	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+herbes	2	3	1	 pA_I	pA_I
+s	 NA	 NA	 NA	 pA_I	pA_I
+il	 NA	 NA	 NA	 pA_I	pA_I
+te	2	2	2	 pA_I	pA_I
+plaît	3	3	2	 pA_L	pA_L
+
+attends	6	6	5	 pA_U	pA_B
+te	 NA	 NA	 NA	 pA_B	pA_I
+filer	5	5	5	 pA_I	pA_I
+quoi	9	10	8	 pA_L	pA_L
+
+les	1	2	1	 pA_B	pA_B
+herbes	2	2	1	 pA_L	pA_L
+
+normalement	1	2	1	 pA_B	pA_B
+le	 NA	 NA	 NA	 pA_I	pA_I
+persil	 NA	 NA	 NA	 pA_I	pA_I
+c	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+bon	1	1	1	 pA_L	pA_L
+
+ben	4	4	2	 pA_B	pA_B
+ça	5	6	4	 pA_I	pA_I
+fait	6	6	5	 pA_I	pA_I
+partie	5	7	5	 pA_I	pA_I
+hein	6	7	6	 pA_L	pA_L
+
+hm	2	3	1	 pA_U	pA_U
+
+c	5	6	5	 pA_B	pA_B
+est	5	6	5	 pA_I	pA_I
+des	5	5	5	 pA_I	pA_I
+herbes	5	5	4	 pA_I	pA_I
+aussi	5	7	4	 pA_L	pA_L
+
+oui	2	2	2	 pA_B	pA_B
+non	2	2	2	 pA_I	pA_I
+mais	1	2	1	 pA_I	pA_I
+bon	2	6	1	 pA_L	pA_L
+
+pourquoi	7	7	6	 pA_B	pA_B
+ce	7	7	6	 pA_I	pA_I
+racisme	7	8	6	 pA_I	pA_I
+anti	5	6	5	 pA_I	pA_I
+euh	5	5	4	 pA_L	pA_I
+anti	6	6	5	 pA_B	pA_I
+persil	7	7	6	 pA_L	pA_L
+
+bon	2	2	1	 pA_B	pA_B
+pour	2	2	2	 pA_I	pA_I
+l	2	2	2	 pA_I	pA_I
+instant	2	2	2	 pA_I	pA_I
+je	2	2	2	 pA_I	pA_I
+vais	2	2	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+mettre	1	1	1	 pA_I	pA_I
+là	2	3	2	 pA_I	pA_I
+hein	2	3	2	 pA_L	pA_L
+
+ouais	3	6	1	 pA_U	pA_B
+je	 NA	 NA	 NA	 pA_B	pA_I
+vais	4	4	4	 pA_I	pA_I
+essayer	4	4	3	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+pas	9	16	3	 pA_I	pA_I
+me	4	4	3	 pA_I	pA_I
+couper	9	14	4	 pA_L	pA_L
+
+tu	 NA	 NA	 NA	 pA_B	pA_B
+v-	2	2	1	 pA_I	pA_I
+sinon	3	4	1	 pA_I	pA_I
+laisse	3	4	3	 pA_I	pA_I
+hein	3	3	3	 pA_I	pA_I
+je	2	3	2	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+fais	2	3	2	 pA_L	pA_I
+j	1	1	1	 pA_B	pA_I
+ai	1	1	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+forcément	2	3	2	 pA_I	pA_I
+envie	2	2	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+t	2	3	29	 pA_I	pA_I
+emmener	2	3	29	 pA_I	pA_I
+aux	2	2	2	 pA_I	pA_I
+urgences	2	2	2	 pA_I	pA_I
+maintenant	2	3	2	 pA_L	pA_L
+
+ben	4	4	4	 pA_B	pA_B
+je	4	5	4	 pA_I	pA_I
+vois	4	4	4	 pA_I	pA_I
+pas	4	4	4	 pA_I	pA_I
+pourquoi	4	4	3	 pA_L	pA_L
+
+hein	21	21	20	 pA_U	pA_U
+
+ça	 NA	 NA	 NA	 pA_B	pA_B
+ferait	7	7	5	 pA_I	pA_I
+une	5	5	5	 pA_I	pA_I
+soirée	5	6	4	 pA_I	pA_I
+sympa	4	5	4	 pA_L	pA_L
+
+ouais	2	3	1	 pA_B	pA_B
+ouais	2	3	2	 pA_L	pA_I
+tu	 NA	 NA	 NA	 pA_B	pA_I
+me	2	2	1	 pA_I	pA_I
+diras	2	2	1	 pA_I	pA_I
+je	2	2	2	 pA_I	pA_I
+les	1	2	1	 pA_I	pA_I
+connais	2	2	1	 pA_I	pA_I
+bien	4	4	2	 pA_I	pA_I
+au	4	4	4	 pA_I	pA_I
+hein	2	2	2	 pA_I	pA_I
+mais	1	2	1	 pA_I	pA_I
+bon	2	2	1	 pA_L	pA_L
+
+hein	6	6	5	 pA_U	pA_U
+
+j	2	2	2	 pA_B	pA_B
+ai	2	2	2	 pA_I	pA_I
+dit	2	2	2	 pA_I	pA_I
+je	2	2	2	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+connais	2	3	2	 pA_I	pA_I
+bien	4	5	2	 pA_I	pA_I
+là	5	5	4	 pA_I	pA_I
+en	4	4	4	 pA_I	pA_I
+haut	3	4	2	 pA_I	pA_I
+mais	2	2	2	 pA_I	pA_I
+bon	2	2	2	 pA_L	pA_L
+
+ouais	7	9	5	 pA_U	pA_B
+ouvre	4	4	3	 pA_B	pA_I
+la	4	4	4	 pA_I	pA_I
+bouche	4	5	4	 pA_L	pA_L
+
+de	2	3	2	 pA_B	pA_B
+quoi	2	2	2	 pA_L	pA_I
+merci	3	4	1	 pA_U	pA_I
+ah	19	20	18	 pA_U	pA_L
+
+quoi	5	5	5	 pA_U	pA_U
+
+m	1	1	1	 pA_B	pA_B
+a	1	1	1	 pA_I	pA_I
+collé	2	2	1	 pA_I	pA_I
+dessus	1	2	1	 pA_I	pA_I
+regarde	1	1	1	 pA_L	pA_L
+
+et	4	4	4	 pA_B	pA_B
+là	5	6	4	 pA_I	pA_I
+c	5	5	4	 pA_I	pA_I
+est	5	5	4	 pA_I	pA_I
+le	4	5	4	 pA_I	pA_I
+drame	4	5	3	 pA_L	pA_L
+
+non	1	1	1	 pA_B	pA_B
+c	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+bon	1	1	1	 pA_L	pA_L
+
+ça	8	8	7	 pA_B	pA_B
+va	10	17	6	 pA_I	pA_I
+tu	7	8	7	 pA_I	pA_I
+te	7	8	6	 pA_I	pA_I
+kiffes	9	10	8	 pA_L	pA_L
+
+ouais	12	17	2	 pA_U	pA_B
+ça	2	2	2	 pA_B	pA_I
+va	2	2	1	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+me	1	1	1	 pA_I	pA_I
+kiffe	1	1	1	 pA_L	pA_I
+sérieux	10	18	4	 pA_B	pA_I
+la	 NA	 NA	 NA	 pA_I	pA_I
+deuxième	4	8	2	 pA_I	pA_I
+elle	4	4	4	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+elle	3	3	3	 pA_I	pA_I
+rentre	2	3	2	 pA_I	pA_I
+quasiment	3	3	2	 pA_I	pA_I
+dedans	3	3	2	 pA_I	pA_I
+sans	3	3	2	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+besoin	2	2	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+faire	2	2	2	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+bord	3	13	1	 pA_L	pA_I
+ça	1	1	1	 pA_B	pA_I
+ira	3	5	1	 pA_I	pA_I
+encore	6	9	1	 pA_I	pA_I
+plus	4	9	1	 pA_I	pA_I
+bas	11	20	1	 pA_L	pA_L
+
+mais	4	4	4	 pA_B	pA_B
+euh	4	4	4	 pA_I	pA_I
+ouais	7	15	3	 pA_L	pA_L
+
+mais	30	30	29	 pA_B	pA_B
+bon	30	30	29	 pA_I	pA_I
+c	30	30	29	 pA_I	pA_I
+est	30	30	29	 pA_I	pA_I
+une	30	1	30	 pA_I	pA_I
+adresse	1	1	30	 pA_I	pA_I
+à	 NA	 NA	 NA	 pA_I	pA_I
+garder	4	13	2	 pA_L	pA_L
+
+voilà	1	1	30	 pA_U	pA_U
+
+très	5	5	5	 pA_B	pA_B
+bien	5	5	4	 pA_L	pA_L
+
+alors	4	6	3	 pA_B	pA_B
+spectacle	5	5	3	 pA_I	pA_I
+le	4	4	3	 pA_I	pA_I
+vingt	3	5	1	 pA_I	pA_I
+quatre	4	5	1	 pA_I	pA_I
+avril	5	22	2	 pA_L	pA_L
+
+voilà	3	5	29	 pA_U	pA_U
+
+alors	4	4	4	 pA_B	pA_B
+ça	5	6	4	 pA_I	pA_I
+c	6	6	5	 pA_I	pA_I
+est	6	6	5	 pA_I	pA_I
+la	5	5	5	 pA_I	pA_I
+date	3	5	3	 pA_I	pA_I
+hein	4	4	3	 pA_L	pA_L
+
+c	13	13	13	 pA_B	pA_B
+est	13	13	13	 pA_I	pA_I
+la	11	18	3	 pA_I	pA_I
+date	16	17	13	 pA_L	pA_L
+
+c	5	5	5	 pA_B	pA_B
+est	5	5	5	 pA_I	pA_I
+spag-	5	5	4	 pA_I	pA_I
+spectacle	5	5	3	 pA_I	pA_I
+de	5	5	3	 pA_I	pA_I
+théâtre	5	5	4	 pA_I	pA_I
+le	5	5	5	 pA_I	pA_I
+vingt	4	5	1	 pA_I	pA_I
+quatre	4	5	1	 pA_I	pA_I
+avril	5	7	4	 pA_I	pA_I
+avril	5	8	3	 pA_I	pA_I
+prise	5	5	5	 pA_I	pA_I
+de	5	5	5	 pA_I	pA_I
+contact	5	6	4	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+qu	 NA	 NA	 NA	 pA_I	pA_I
+il	 NA	 NA	 NA	 pA_I	pA_I
+en	4	5	4	 pA_I	pA_I
+a	4	4	4	 pA_I	pA_I
+été	5	6	4	 pA_I	pA_I
+les	5	6	5	 pA_I	pA_I
+conclusions	5	6	3	 pA_I	pA_I
+euh	3	4	2	 pA_I	pA_I
+les	5	5	5	 pA_I	pA_I
+rebondissements	5	6	3	 pA_I	pA_I
+euh	4	5	3	 pA_I	pA_I
+les	4	5	3	 pA_I	pA_I
+choix	6	6	4	 pA_I	pA_I
+l	5	7	3	 pA_I	pA_I
+organisation	5	7	3	 pA_I	pA_I
+euh	5	7	4	 pA_I	pA_I
+qui	5	5	5	 pA_I	pA_I
+sera	5	5	5	 pA_I	pA_I
+là	5	6	4	 pA_I	pA_I
+comment	5	6	4	 pA_I	pA_I
+on	5	5	5	 pA_I	pA_I
+s	4	5	4	 pA_I	pA_I
+organise	4	5	4	 pA_I	pA_I
+pour	4	4	4	 pA_I	pA_I
+la	4	4	4	 pA_I	pA_I
+billetterie	4	5	3	 pA_I	pA_I
+et	4	4	4	 pA_I	pA_I
+la	4	4	3	 pA_I	pA_I
+buvette	4	7	1	 pA_I	pA_I
+et	5	11	3	 pA_I	pA_I
+puis	5	5	4	 pA_I	pA_I
+euh	4	5	3	 pA_I	pA_I
+euh	2	3	29	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+puis	 NA	 NA	 NA	 pA_I	pA_I
+voilà	3	3	2	 pA_L	pA_L
+
+ouais	4	5	4	 pA_U	pA_U
+
+allez	3	3	3	 pA_U	pA_U
+
+alors	3	3	3	 pA_B	pA_B
+euh	3	3	3	 pA_I	pA_I
+en	3	3	3	 pA_I	pA_I
+fait	4	4	3	 pA_I	pA_I
+j	3	4	3	 pA_I	pA_I
+ai	3	4	3	 pA_I	pA_I
+on	3	3	3	 pA_I	pA_I
+avait	4	4	3	 pA_I	pA_I
+un	4	4	3	 pA_I	pA_I
+petit	5	5	5	 pA_I	pA_I
+peu	5	5	4	 pA_I	pA_I
+commencé	4	5	4	 pA_I	pA_I
+euh	1	4	29	 pA_I	pA_I
+samedi	3	4	29	 pA_I	pA_I
+dernier	4	5	3	 pA_I	pA_I
+là	4	5	3	 pA_I	pA_I
+puisqu	21	21	21	 pA_I	pA_L
+on	21	21	21	 pA_I	pA_B
+s	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+vu	3	3	3	 pA_I	pA_I
+avec	3	3	3	 pA_I	pA_I
+euh	 NA	 NA	 NA	 pA_L	pA_L
+
+juste	5	5	4	 pA_B	pA_B
+pour	4	5	3	 pA_I	pA_I
+dire	4	4	3	 pA_I	pA_I
+euh	3	4	3	 pA_I	pA_I
+ben	 NA	 NA	 NA	 pA_I	pA_I
+qu	4	4	4	 pA_I	pA_I
+il	4	4	4	 pA_I	pA_I
+y	3	4	3	 pA_I	pA_I
+a	3	3	3	 pA_I	pA_I
+quand	3	4	3	 pA_I	pA_I
+même	3	3	30	 pA_I	pA_I
+une	4	4	4	 pA_I	pA_I
+modification	4	5	3	 pA_I	pA_I
+importante	3	4	3	 pA_I	pA_I
+au	 NA	 NA	 NA	 pA_I	pA_I
+niveau	2	3	30	 pA_I	pA_I
+du	30	30	30	 pA_I	pA_I
+prix	6	6	5	 pA_I	pA_I
+du	6	6	6	 pA_I	pA_I
+spectacle	7	10	5	 pA_I	pA_I
+parce	 NA	 NA	 NA	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+était	 NA	 NA	 NA	 pA_I	pA_I
+des	 NA	 NA	 NA	 pA_I	pA_I
+informations	3	3	1	 pA_I	pA_I
+que	4	4	4	 pA_I	pA_I
+avait	3	3	3	 pA_I	pA_I
+transmises	5	6	2	 pA_L	pA_I
+c	 NA	 NA	 NA	 pA_B	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+voilà	 NA	 NA	 NA	 pA_L	pA_L
+
+je	1	1	30	 pA_B	pA_B
+m	3	12	1	 pA_I	pA_I
+étais	3	12	1	 pA_I	pA_I
+trompé	3	13	30	 pA_L	pA_L
+
+voilà	3	4	3	 pA_B	pA_B
+y	 NA	 NA	 NA	 pA_I	pA_I
+avait	2	4	29	 pA_I	pA_I
+une	30	1	29	 pA_I	pA_I
+petite	6	6	6	 pA_I	pA_I
+erreur	6	7	5	 pA_I	pA_I
+enfin	7	7	7	 pA_I	pA_I
+une	3	3	3	 pA_I	pA_I
+petite	4	4	4	 pA_I	pA_I
+erreur	3	4	3	 pA_I	pA_I
+qui	4	5	3	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+importante	4	6	3	 pA_I	pA_I
+sur	3	3	3	 pA_I	pA_I
+le	3	3	3	 pA_I	pA_I
+tarif	7	9	4	 pA_I	pA_I
+dans	4	4	4	 pA_I	pA_I
+le	4	4	4	 pA_I	pA_I
+sens	5	6	5	 pA_I	pA_I
+où	5	11	3	 pA_I	pA_I
+euh	2	9	29	 pA_I	pA_I
+le	3	4	3	 pA_I	pA_I
+spectacle	5	5	4	 pA_I	pA_I
+leur	4	4	4	 pA_I	pA_I
+spectacle	4	5	4	 pA_I	pA_I
+en	4	4	4	 pA_I	pA_I
+fait	4	5	4	 pA_I	pA_I
+ils	4	4	4	 pA_I	pA_I
+le	4	4	3	 pA_I	pA_I
+vendent	4	5	3	 pA_I	pA_I
+mille	5	5	3	 pA_I	pA_I
+euros	4	5	2	 pA_L	pA_L
+
+ah	 NA	 NA	 NA	 pA_B	pA_B
+ouais	 NA	 NA	 NA	 pA_L	pA_L
+
+voilà	3	4	2	 pA_B	pA_B
+donc	3	3	3	 pA_I	pA_I
+c	4	6	3	 pA_I	pA_I
+est	4	6	3	 pA_L	pA_L
+
+ah	8	8	8	 pA_B	pA_B
+ouais	7	9	5	 pA_L	pA_L
+
+ah	4	5	4	 pA_B	pA_B
+ouais	7	10	3	 pA_I	pA_I
+dit	7	9	6	 pA_I	pA_I
+il	9	16	4	 pA_L	pA_L
+
+donc	4	5	4	 pA_B	pA_B
+c	4	6	3	 pA_I	pA_I
+est	4	6	3	 pA_I	pA_I
+pour	1	4	29	 pA_I	pA_I
+ça	14	14	13	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+j	 NA	 NA	 NA	 pA_I	pA_I
+ai	 NA	 NA	 NA	 pA_I	pA_I
+tr-	5	5	5	 pA_I	pA_I
+j	5	5	4	 pA_I	pA_I
+ai	5	5	4	 pA_I	pA_I
+tout	5	5	5	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+suite	6	7	5	 pA_I	pA_I
+parlé	5	6	4	 pA_I	pA_I
+à	4	4	3	 pA_I	pA_I
+la	3	3	3	 pA_L	pA_L
+
+c	1	2	1	 pA_B	pA_B
+est	1	2	1	 pA_I	pA_I
+des	1	2	1	 pA_I	pA_I
+non	2	2	2	 pA_I	pA_I
+professionnels	3	5	2	 pA_I	pA_I
+mais	1	2	1	 pA_I	pA_I
+mille	1	2	1	 pA_I	pA_I
+euros	3	6	29	 pA_L	pA_L
+
+ben	5	5	5	 pA_B	pA_B
+tu	5	6	5	 pA_I	pA_I
+sais	7	8	5	 pA_I	pA_I
+combien	7	8	6	 pA_I	pA_I
+coûte	5	6	3	 pA_I	pA_I
+le	3	5	29	 pA_I	pA_I
+vôtre	6	20	4	 pA_I	pA_I
+si	5	5	5	 pA_I	pA_I
+on	5	5	4	 pA_I	pA_I
+avait	4	5	4	 pA_I	pA_I
+dû	4	4	3	 pA_I	pA_I
+vendre	4	5	3	 pA_I	pA_I
+le	4	13	3	 pA_I	pA_I
+le	5	13	30	 pA_I	pA_I
+postscriptum	5	5	3	 pA_L	pA_I
+il	9	9	9	 pA_B	pA_I
+coûtait	5	9	4	 pA_I	pA_I
+deux	5	6	3	 pA_I	pA_I
+mille	5	6	5	 pA_I	pA_I
+euros	4	5	3	 pA_L	pA_L
+
+ah	7	8	6	 pA_B	pA_B
+ouais	2	2	2	 pA_I	pA_I
+ça	2	2	2	 pA_I	pA_I
+veut	1	1	1	 pA_I	pA_I
+dire	7	17	1	 pA_I	pA_I
+que	1	1	30	 pA_I	pA_I
+en	1	1	1	 pA_I	pA_I
+termes	1	1	1	 pA_I	pA_I
+de	1	1	30	 pA_I	pA_I
+techniciens	1	2	1	 pA_I	pA_I
+ouais	3	5	1	 pA_I	pA_I
+ouais	8	11	5	 pA_I	pA_I
+et	10	19	3	 pA_I	pA_I
+euh	4	15	30	 pA_I	pA_I
+ouais	1	15	29	 pA_I	pA_I
+ouais	6	7	5	 pA_L	pA_L
+
+hm	1	1	1	 pA_U	pA_U
+
+alors	3	3	3	 pA_B	pA_B
+je	3	3	3	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+vais	3	3	3	 pA_I	pA_I
+compléter	4	9	30	 pA_L	pA_L
+
+non	1	1	30	 pA_B	pA_B
+non	2	6	1	 pA_I	pA_I
+complète	3	5	30	 pA_I	pA_I
+parce	11	15	30	 pA_I	pA_I
+que	11	15	30	 pA_I	pA_I
+mille	3	3	3	 pA_I	pA_I
+euros	3	3	2	 pA_I	pA_I
+ça	3	3	2	 pA_I	pA_I
+veut	2	2	2	 pA_I	pA_I
+rien	2	2	2	 pA_I	pA_I
+dire	1	2	1	 pA_L	pA_L
+
+oui	1	1	1	 pA_U	pA_U
+
+pour	4	5	1	 pA_B	pA_B
+moi	3	5	3	 pA_I	pA_I
+ça	5	5	4	 pA_I	pA_I
+veut	2	4	30	 pA_I	pA_I
+rien	2	4	29	 pA_I	pA_I
+dire	4	5	2	 pA_I	pA_I
+et	3	5	2	 pA_I	pA_I
+je	5	5	5	 pA_I	pA_I
+veux	6	7	5	 pA_I	pA_I
+retomber	2	7	29	 pA_I	pA_I
+sur	6	16	29	 pA_I	pA_I
+mes	3	3	2	 pA_I	pA_I
+chiffres	3	5	2	 pA_L	pA_L
+
+on	4	5	3	 pA_B	pA_B
+te	5	5	4	 pA_I	pA_I
+laisse	5	7	3	 pA_I	pA_I
+la	6	6	5	 pA_I	pA_I
+parole	4	5	3	 pA_I	pA_I
+vas	4	9	1	 pA_L	pA_L
+
+une	1	1	1	 pA_B	pA_B
+différence	5	6	1	 pA_I	pA_I
+par	4	5	3	 pA_I	pA_I
+rapport	4	5	4	 pA_I	pA_I
+à	4	4	4	 pA_I	pA_I
+ce	4	4	4	 pA_I	pA_I
+qu	3	4	3	 pA_I	pA_I
+on	3	4	3	 pA_I	pA_I
+avait	3	3	3	 pA_I	pA_I
+annoncé	4	6	3	 pA_I	pA_I
+mais	4	6	1	 pA_I	pA_I
+bon	3	3	1	 pA_I	pA_I
+voilà	4	5	3	 pA_I	pA_I
+je	4	4	4	 pA_I	pA_I
+j	 NA	 NA	 NA	 pA_I	pA_I
+explique	 NA	 NA	 NA	 pA_I	pA_I
+un	29	29	29	 pA_I	pA_I
+peu	4	5	4	 pA_I	pA_I
+donc	 NA	 NA	 NA	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+un	 NA	 NA	 NA	 pA_I	pA_I
+quand	 NA	 NA	 NA	 pA_I	pA_I
+même	1	1	1	 pA_I	pA_I
+important	6	8	1	 pA_I	pA_I
+mais	6	8	5	 pA_I	pA_I
+bon	5	5	5	 pA_L	pA_I
+euh	3	3	3	 pA_B	pA_I
+en	5	5	4	 pA_I	pA_I
+fait	5	5	4	 pA_I	pA_I
+c	8	10	4	 pA_I	pA_I
+est	8	10	4	 pA_I	pA_I
+soit	7	9	6	 pA_I	pA_I
+mille	5	6	4	 pA_I	pA_I
+euros	6	9	4	 pA_I	pA_I
+soit	4	5	4	 pA_I	pA_I
+y	4	4	4	 pA_I	pA_I
+a	4	4	3	 pA_I	pA_I
+aussi	4	5	3	 pA_I	pA_I
+une	4	5	4	 pA_I	pA_I
+autre	5	5	5	 pA_I	pA_I
+solution	4	5	3	 pA_I	pA_I
+et	3	3	3	 pA_I	pA_I
+je	3	3	3	 pA_I	pA_I
+pense	4	4	4	 pA_I	pA_I
+que	3	3	3	 pA_I	pA_I
+c	3	3	3	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+celle	3	4	3	 pA_I	pA_I
+qu	3	3	3	 pA_I	pA_I
+on	3	3	3	 pA_I	pA_I
+va	2	2	2	 pA_I	pA_I
+retenir	6	9	3	 pA_I	pA_I
+c	4	5	3	 pA_I	pA_I
+est	4	5	3	 pA_I	pA_I
+euh	3	3	2	 pA_I	pA_I
+un	2	3	1	 pA_I	pA_I
+pourcentage	5	7	5	 pA_I	pA_I
+sur	4	4	4	 pA_I	pA_I
+les	4	4	4	 pA_I	pA_I
+recettes	4	5	3	 pA_L	pA_I
+et	8	8	8	 pA_B	pA_I
+donc	29	29	29	 pA_I	pA_I
+ce	4	4	4	 pA_I	pA_I
+pourcentage	5	7	3	 pA_I	pA_I
+ce	3	4	3	 pA_I	pA_I
+serait	3	3	3	 pA_I	pA_I
+donc	1	3	29	 pA_I	pA_I
+trente	5	5	5	 pA_I	pA_I
+pour	4	4	4	 pA_I	pA_I
+cent	3	4	3	 pA_I	pA_I
+pour	4	4	3	 pA_I	pA_I
+la	3	4	1	 pA_I	pA_I
+MJC	2	6	29	 pA_I	pA_I
+et	3	3	3	 pA_I	pA_I
+soixante	4	5	3	 pA_I	pA_I
+dix	4	4	3	 pA_I	pA_I
+pour	4	4	4	 pA_I	pA_I
+cent	6	7	6	 pA_I	pA_I
+pour	6	7	5	 pA_I	pA_I
+la	4	5	4	 pA_I	pA_I
+compagnie	4	5	3	 pA_L	pA_I
+en	4	4	4	 pA_B	pA_I
+sachant	4	5	4	 pA_I	pA_I
+que	11	19	3	 pA_I	pA_I
+euh	3	6	29	 pA_I	pA_I
+on	4	4	3	 pA_I	pA_I
+a	4	4	3	 pA_I	pA_I
+quand	4	4	3	 pA_I	pA_I
+même	5	5	4	 pA_I	pA_I
+à	4	4	4	 pA_I	pA_I
+peu	5	5	4	 pA_I	pA_I
+près	5	6	5	 pA_I	pA_I
+on	4	5	3	 pA_I	pA_I
+a	3	3	3	 pA_I	pA_I
+regardé	4	6	3	 pA_I	pA_I
+là	4	5	3	 pA_I	pA_I
+à	3	3	3	 pA_I	pA_I
+peu	4	4	4	 pA_I	pA_I
+près	5	6	5	 pA_I	pA_I
+cent	4	5	4	 pA_I	pA_I
+vingt	3	4	3	 pA_I	pA_I
+places	4	5	3	 pA_I	pA_I
+il	 NA	 NA	 NA	 pA_I	pA_I
+me	29	29	29	 pA_I	pA_I
+semble	5	5	5	 pA_L	pA_I
+hein	 NA	 NA	 NA	 pA_U	pA_L
+
+cent	4	5	4	 pA_B	pA_B
+vingt	2	4	30	 pA_I	pA_I
+six	3	3	3	 pA_I	pA_I
+non	4	5	4	 pA_I	pA_I
+non	4	5	1	 pA_L	pA_L
+
+cent	3	3	3	 pA_B	pA_B
+vingt	4	5	4	 pA_I	pA_I
+six	 NA	 NA	 NA	 pA_I	pA_I
+places	5	6	4	 pA_I	pA_I
+assises	4	22	30	 pA_L	pA_L
+
+voilà	3	3	2	 pA_U	pA_U
+
+donc	4	4	4	 pA_B	pA_B
+quand	3	3	3	 pA_I	pA_I
+même	3	5	3	 pA_I	pA_I
+ça	 NA	 NA	 NA	 pA_I	pA_I
+fait	29	29	29	 pA_I	pA_I
+voilà	4	7	1	 pA_I	pA_I
+un	8	8	7	 pA_I	pA_I
+certain	3	3	3	 pA_I	pA_I
+nombre	7	8	3	 pA_I	pA_I
+et	5	5	4	 pA_I	pA_I
+euh	11	12	11	 pA_I	pA_I
+une	3	4	3	 pA_I	pA_I
+autre	4	4	4	 pA_I	pA_I
+information	4	7	3	 pA_I	pA_I
+on	5	7	4	 pA_I	pA_I
+avait	4	4	3	 pA_I	pA_I
+parlé	4	5	4	 pA_I	pA_I
+du	2	5	1	 pA_I	pA_I
+tarif	3	4	3	 pA_I	pA_I
+du	30	30	30	 pA_I	pA_I
+spectacle	4	10	30	 pA_I	pA_I
+à	2	3	2	 pA_I	pA_I
+cinq	3	4	3	 pA_I	pA_I
+euros	5	7	3	 pA_I	pA_I
+c	6	7	3	 pA_I	pA_I
+est	6	7	3	 pA_I	pA_I
+vrai	3	3	3	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+moi	2	2	2	 pA_I	pA_I
+j	2	2	2	 pA_I	pA_I
+étais	2	2	2	 pA_I	pA_I
+pour	 NA	 NA	 NA	 pA_I	pA_I
+un	2	2	2	 pA_I	pA_I
+tarif	 NA	 NA	 NA	 pA_I	pA_I
+pas	 NA	 NA	 NA	 pA_I	pA_I
+trop	2	2	2	 pA_I	pA_I
+cher	2	2	2	 pA_I	pA_I
+parce	 NA	 NA	 NA	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+vou-	 NA	 NA	 NA	 pA_I	pA_I
+enfin	 NA	 NA	 NA	 pA_I	pA_I
+pour	 NA	 NA	 NA	 pA_I	pA_I
+que	 NA	 NA	 NA	 pA_I	pA_I
+les	1	2	1	 pA_I	pA_I
+tous	3	4	3	 pA_I	pA_I
+les	3	3	3	 pA_I	pA_I
+adhérents	2	3	29	 pA_I	pA_I
+puissent	 NA	 NA	 NA	 pA_I	pA_I
+venir	4	6	30	 pA_I	pA_I
+ils	2	6	30	 pA_I	pA_I
+sont	4	4	4	 pA_I	pA_I
+pas	5	5	5	 pA_I	pA_I
+vraiment	4	5	4	 pA_I	pA_I
+d	3	4	3	 pA_I	pA_I
+accord	3	4	3	 pA_I	pA_I
+enfin	29	29	29	 pA_I	pA_I
+même	29	29	29	 pA_I	pA_I
+pas	29	29	29	 pA_I	pA_I
+du	5	5	5	 pA_I	pA_I
+tout	5	5	4	 pA_I	pA_I
+parce	3	4	3	 pA_I	pA_I
+que	3	4	3	 pA_I	pA_I
+leur	3	4	3	 pA_I	pA_I
+spectacle	4	4	3	 pA_I	pA_I
+ils	3	3	3	 pA_I	pA_I
+le	2	3	29	 pA_I	pA_I
+vendent	3	4	3	 pA_I	pA_I
+au	4	4	4	 pA_I	pA_I
+moins	4	4	4	 pA_I	pA_I
+enfin	4	4	4	 pA_I	pA_I
+ils	3	4	3	 pA_I	pA_I
+le	3	3	1	 pA_I	pA_I
+les	4	9	29	 pA_I	pA_I
+tarifs	4	4	3	 pA_I	pA_I
+d	3	4	30	 pA_I	pA_I
+entrée	3	4	30	 pA_I	pA_I
+sont	30	4	29	 pA_I	pA_I
+entre	29	29	29	 pA_I	pA_I
+huit	4	4	3	 pA_I	pA_I
+et	2	4	30	 pA_I	pA_I
+dix	4	4	3	 pA_I	pA_I
+euros	4	6	3	 pA_L	pA_L
+
+généralement	4	4	3	 pA_B	pA_B
+ils	4	4	4	 pA_I	pA_I
+tournent	3	4	3	 pA_I	pA_I
+beaucoup	6	9	3	 pA_I	pA_I
+dans	30	30	30	 pA_I	pA_I
+les	30	30	30	 pA_I	pA_I
+lycées	3	4	30	 pA_I	pA_I
+aussi	4	4	3	 pA_I	pA_I
+puis	1	1	1	 pA_I	pA_I
+dans	1	1	1	 pA_I	pA_I
+donc	3	3	3	 pA_I	pA_I
+ils	3	3	3	 pA_I	pA_I
+seraient	4	4	4	 pA_I	pA_I
+d	3	4	3	 pA_I	pA_I
+acc-	3	4	3	 pA_I	pA_I
+enfin	29	30	29	 pA_I	pA_I
+i-	1	1	29	 pA_I	pA_I
+ils	1	1	29	 pA_I	pA_I
+nous	29	29	29	 pA_I	pA_I
+ont	3	3	3	 pA_I	pA_I
+dit	4	4	3	 pA_I	pA_I
+essayez	3	9	29	 pA_I	pA_I
+plutôt	3	3	1	 pA_I	pA_I
+à	3	3	3	 pA_I	pA_I
+huit	4	4	3	 pA_I	pA_I
+euros	5	7	3	 pA_I	pA_I
+avec	2	6	30	 pA_I	pA_I
+un	30	30	29	 pA_I	pA_I
+tarif	2	4	30	 pA_I	pA_I
+à	3	3	3	 pA_I	pA_I
+six	 NA	 NA	 NA	 pA_I	pA_I
+euros	3	4	3	 pA_I	pA_I
+pour	4	4	3	 pA_I	pA_I
+les	3	3	3	 pA_I	pA_I
+adhérents	3	3	3	 pA_L	pA_L
+
+et	9	9	8	 pA_B	pA_B
+bon	2	8	29	 pA_I	pA_I
+et	9	10	9	 pA_I	pA_I
+eux	9	10	9	 pA_I	pA_I
+sinon	4	9	4	 pA_I	pA_I
+ils	5	5	4	 pA_I	pA_I
+pensent	5	5	4	 pA_I	pA_I
+que	5	5	4	 pA_I	pA_I
+ça	4	4	3	 pA_I	pA_I
+va	3	3	3	 pA_I	pA_I
+dévaloriser	4	4	3	 pA_I	pA_I
+le	4	4	4	 pA_I	pA_I
+spectacle	4	4	4	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+que	4	4	4	 pA_I	pA_I
+en	4	4	4	 pA_I	pA_I
+même	4	4	4	 pA_I	pA_I
+temps	5	5	4	 pA_I	pA_I
+je	4	5	3	 pA_I	pA_I
+j	9	10	8	 pA_I	pA_I
+ai	9	10	8	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+comprends	4	4	3	 pA_I	pA_I
+pour	1	1	30	 pA_I	pA_I
+moi	29	30	29	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+était	 NA	 NA	 NA	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+cette	 NA	 NA	 NA	 pA_I	pA_I
+idée	7	9	5	 pA_I	pA_I
+là	1	1	30	 pA_I	pA_I
+que	30	30	30	 pA_I	pA_I
+j	30	1	30	 pA_I	pA_I
+avais	30	1	30	 pA_I	pA_I
+mais	4	5	30	 pA_I	pA_I
+voilà	 NA	 NA	 NA	 pA_L	pA_L
+
+donc	4	4	4	 pA_B	pA_B
+ce	 NA	 NA	 NA	 pA_I	pA_I
+qui	5	5	5	 pA_I	pA_I
+fait	4	6	4	 pA_I	pA_I
+que	2	3	29	 pA_L	pA_I
+et	5	11	1	 pA_U	pA_L
+
+et	1	2	1	 pA_B	pA_B
+et	2	8	29	 pA_I	pA_I
+et	7	13	1	 pA_I	pA_I
+pour	2	2	2	 pA_I	pA_I
+mais	1	1	1	 pA_I	pA_I
+je	2	2	1	 pA_I	pA_I
+rajoute	2	4	1	 pA_I	pA_I
+que	1	1	1	 pA_I	pA_I
+ils	30	1	30	 pA_I	pA_I
+faisaient	5	15	1	 pA_I	pA_I
+avant	2	3	1	 pA_I	pA_I
+ils	3	3	3	 pA_I	pA_I
+faisaient	1	2	1	 pA_I	pA_I
+le	1	2	1	 pA_I	pA_I
+spectacle	6	12	3	 pA_I	pA_I
+à	4	15	1	 pA_I	pA_I
+ils	1	1	1	 pA_I	pA_I
+ont	1	1	1	 pA_I	pA_I
+fait	14	15	12	 pA_I	pA_I
+à	4	15	1	 pA_I	pA_I
+dix	1	1	30	 pA_I	pA_I
+francs	3	4	30	 pA_I	pA_I
+ils	1	1	1	 pA_I	pA_I
+ont	1	1	30	 pA_I	pA_I
+fait	 NA	 NA	 NA	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+cinq	3	11	1	 pA_I	pA_I
+euros	3	11	1	 pA_I	pA_I
+et	5	6	2	 pA_I	pA_I
+depuis	2	6	30	 pA_I	pA_I
+qu	2	2	2	 pA_I	pA_I
+ils	2	2	2	 pA_I	pA_I
+font	1	1	1	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+huit	2	12	1	 pA_I	pA_I
+euros	5	12	2	 pA_I	pA_I
+ils	3	3	3	 pA_I	pA_I
+ont	1	1	30	 pA_I	pA_I
+plus	3	4	3	 pA_I	pA_I
+de	11	12	11	 pA_I	pA_I
+monde	30	1	29	 pA_L	pA_L
+
+c	8	11	5	 pA_B	pA_B
+est	8	11	5	 pA_I	pA_I
+m-	11	12	10	 pA_I	pA_I
+c	10	11	6	 pA_I	pA_I
+est	10	11	6	 pA_I	pA_I
+mieux	5	9	3	 pA_I	pA_I
+si	9	10	9	 pA_I	pA_I
+tu	8	13	4	 pA_I	pA_I
+si	12	19	8	 pA_I	pA_I
+tu	13	19	5	 pA_I	pA_I
+nous	5	9	4	 pA_I	pA_I
+avais	7	14	4	 pA_I	pA_I
+dit	5	5	4	 pA_I	pA_I
+ça	5	5	5	 pA_I	pA_I
+une	6	11	4	 pA_I	pA_I
+semaine	4	10	4	 pA_I	pA_I
+avant	4	5	3	 pA_I	pA_I
+on	5	5	5	 pA_I	pA_I
+aurait	4	5	3	 pA_I	pA_I
+pu	12	19	3	 pA_L	pA_L
+
+ouais	3	19	1	 pA_B	pA_B
+je	2	2	1	 pA_I	pA_I
+sais	3	4	2	 pA_I	pA_I
+mais	2	2	1	 pA_I	pA_I
+je	2	2	30	 pA_I	pA_I
+m	30	30	30	 pA_I	pA_I
+y	30	30	30	 pA_I	pA_I
+suis	2	4	30	 pA_I	pA_I
+pris	3	8	1	 pA_I	pA_I
+je	1	1	1	 pA_I	pA_I
+m	2	2	2	 pA_I	pA_I
+y	2	2	2	 pA_I	pA_I
+suis	2	2	1	 pA_I	pA_I
+pris	2	2	1	 pA_I	pA_I
+trop	2	3	1	 pA_I	pA_I
+tard	2	2	1	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+c	1	2	1	 pA_I	pA_I
+est	1	2	1	 pA_I	pA_I
+tout	1	2	1	 pA_I	pA_I
+le	2	2	1	 pA_I	pA_I
+monde	2	2	1	 pA_I	pA_I
+pareil	1	2	1	 pA_I	pA_I
+mais	1	2	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+mais	2	4	1	 pA_I	pA_I
+du	1	3	1	 pA_I	pA_I
+coup	4	6	2	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+si	3	5	1	 pA_I	pA_I
+si	4	5	2	 pA_I	pA_I
+vous	3	3	2	 pA_I	pA_I
+vous	3	3	2	 pA_I	pA_I
+êtes	4	10	1	 pA_I	pA_I
+si	2	2	2	 pA_I	pA_I
+vous	2	3	2	 pA_I	pA_I
+vous	3	3	3	 pA_I	pA_I
+êtes	3	3	2	 pA_I	pA_I
+partants	2	3	2	 pA_I	pA_I
+pour	2	2	2	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+week	2	2	2	 pA_I	pA_I
+end	2	2	2	 pA_I	pA_I
+du	2	2	1	 pA_I	pA_I
+quatorze	2	3	1	 pA_I	pA_I
+du	2	2	1	 pA_I	pA_I
+coup	2	2	2	 pA_I	pA_I
+on	2	2	2	 pA_I	pA_I
+essaie	2	2	1	 pA_I	pA_I
+d	1	2	1	 pA_I	pA_I
+arr-	1	2	1	 pA_I	pA_I
+euh	1	2	1	 pA_I	pA_I
+d	2	4	1	 pA_I	pA_I
+arranger	2	4	1	 pA_I	pA_I
+un	2	3	1	 pA_I	pA_I
+truc	3	5	2	 pA_I	pA_I
+et	 NA	 NA	 NA	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+faire	11	12	10	 pA_I	pA_I
+ça	5	6	4	 pA_L	pA_L
+
+ce	9	12	6	 pA_B	pA_B
+soir	7	11	4	 pA_I	pA_I
+ce	10	12	4	 pA_I	pA_I
+soir	7	9	4	 pA_I	pA_I
+je	12	21	4	 pA_I	pA_I
+prends	4	5	4	 pA_I	pA_I
+les	9	12	4	 pA_I	pA_I
+billets	7	11	3	 pA_I	pA_I
+pour	3	4	3	 pA_I	pA_I
+euh	3	3	3	 pA_I	pA_I
+pour	4	8	3	 pA_I	pA_I
+le	10	11	8	 pA_I	pA_I
+week	10	10	4	 pA_I	pA_I
+end	6	10	3	 pA_I	pA_I
+du	9	10	9	 pA_I	pA_I
+quatorze	7	22	2	 pA_L	pA_L
+
+ça	2	2	2	 pA_B	pA_B
+marche	2	2	2	 pA_I	pA_I
+on	2	2	2	 pA_I	pA_I
+fait	2	2	1	 pA_I	pA_I
+ça	2	2	1	 pA_L	pA_L
+
+d	5	8	3	 pA_B	pA_B
+accord	5	8	3	 pA_L	pA_L
+
+ok	3	6	2	 pA_B	pA_B
+j	2	2	2	 pA_I	pA_I
+organise	2	2	2	 pA_I	pA_I
+tout	2	2	2	 pA_I	pA_I
+pour	2	2	2	 pA_I	pA_I
+le	2	2	1	 pA_I	pA_I
+week	1	2	1	 pA_I	pA_I
+end	2	2	2	 pA_I	pA_I
+du	2	2	1	 pA_I	pA_I
+quatorze	1	2	1	 pA_I	pA_I
+alors	1	1	1	 pA_L	pA_L
+
+parfait	3	4	3	 pA_U	pA_B
+ça	4	4	3	 pA_B	pA_I
+va	4	5	1	 pA_I	pA_I
+toi	6	7	2	 pA_L	pA_L
+
+ouais	3	3	2	 pA_B	pA_B
+ça	3	3	2	 pA_I	pA_I
+va	2	2	2	 pA_I	pA_I
+ça	11	13	2	 pA_I	pA_I
+va	2	2	2	 pA_I	pA_I
+ça	2	2	2	 pA_I	pA_I
+va	5	17	1	 pA_L	pA_I
+et	9	10	2	 pA_B	pA_I
+le	2	2	2	 pA_I	pA_I
+boulot	2	2	2	 pA_I	pA_I
+ça	2	2	2	 pA_I	pA_I
+se	4	4	2	 pA_I	pA_I
+passe	2	4	1	 pA_I	pA_I
+bien	2	2	1	 pA_L	pA_L
+
+te	2	2	2	 pA_B	pA_B
+fait	3	5	2	 pA_I	pA_I
+des	4	5	2	 pA_I	pA_I
+bisous	6	12	2	 pA_L	pA_L
+
+ouais	2	3	2	 pA_B	pA_B
+ben	2	3	2	 pA_I	pA_I
+nous	3	3	3	 pA_I	pA_I
+aussi	3	3	2	 pA_I	pA_I
+ben	2	3	2	 pA_I	pA_I
+écoute	3	4	2	 pA_I	pA_I
+j-	 NA	 NA	 NA	 pA_I	pA_I
+je	2	3	1	 pA_I	pA_I
+vous	6	13	2	 pA_I	pA_I
+je	5	11	2	 pA_I	pA_I
+vous	3	3	2	 pA_I	pA_I
+rappellerai	4	16	2	 pA_I	pA_I
+pour	2	3	2	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+je	2	2	1	 pA_I	pA_I
+vous	2	2	2	 pA_I	pA_I
+rappellerai	2	2	1	 pA_I	pA_I
+pour	3	6	2	 pA_I	pA_I
+qu	2	3	2	 pA_I	pA_I
+on	2	3	2	 pA_I	pA_I
+s	2	3	2	 pA_I	pA_I
+organise	2	3	2	 pA_L	pA_L
+
+ouais	6	9	3	 pA_B	pA_B
+tu	4	5	2	 pA_I	pA_I
+me	3	5	2	 pA_I	pA_I
+dis	5	6	4	 pA_L	pA_L
+
+oui	8	14	5	 pA_B	pA_B
+mais	4	5	4	 pA_I	pA_I
+euh	3	4	2	 pA_I	pA_I
+ça	4	4	3	 pA_I	pA_I
+ça	4	4	4	 pA_I	pA_I
+le	9	11	4	 pA_I	pA_I
+week	9	18	4	 pA_I	pA_I
+end	14	18	11	 pA_I	pA_I
+pas	7	14	5	 pA_I	pA_I
+ce	8	12	5	 pA_I	pA_I
+week	7	13	4	 pA_I	pA_I
+end	5	5	4	 pA_I	pA_I
+qui	7	14	4	 pA_I	pA_I
+vient	4	5	4	 pA_I	pA_I
+ni	4	5	4	 pA_I	pA_I
+le	5	5	5	 pA_I	pA_I
+week	7	12	5	 pA_I	pA_I
+end	12	12	11	 pA_I	pA_I
+d	9	20	4	 pA_I	pA_I
+après	9	20	4	 pA_I	pA_I
+mais	5	5	4	 pA_I	pA_I
+le	4	4	4	 pA_I	pA_I
+week	4	5	4	 pA_I	pA_I
+end	8	11	4	 pA_I	pA_I
+d	7	20	4	 pA_I	pA_I
+après	7	20	4	 pA_L	pA_I
+ouais	7	13	4	 pA_U	pA_L
+
+le	4	10	1	 pA_U	pA_U
+
+ok	7	14	3	 pA_U	pA_U
+
+week	3	5	1	 pA_B	pA_B
+end	3	4	3	 pA_I	pA_I
+du	4	4	3	 pA_I	pA_I
+quatorze	3	4	2	 pA_L	pA_L
+
+ouais	4	5	4	 pA_B	pA_B
+le	4	4	4	 pA_I	pA_I
+week	5	7	4	 pA_I	pA_I
+end	5	5	4	 pA_I	pA_I
+du	7	12	4	 pA_I	pA_I
+quatorze	6	21	3	 pA_I	pA_I
+ouais	9	16	3	 pA_L	pA_L
+
+ok	3	3	3	 pA_U	pA_U
+
+mi	8	10	3	 pA_B	pA_B
+octobre	3	11	1	 pA_L	pA_L
+
+ça	4	5	3	 pA_B	pA_B
+marche	3	3	3	 pA_L	pA_L
+
+parfait	4	4	3	 pA_U	pA_B
+super	5	11	2	 pA_U	pA_L
+
+je	6	10	2	 pA_B	pA_B
+vous	3	3	2	 pA_I	pA_I
+embrasse	3	3	3	 pA_L	pA_L
+
+allez	6	22	3	 pA_U	pA_U
+
+nous	7	11	3	 pA_B	pA_B
+nous	5	5	4	 pA_I	pA_I
+aussi	7	10	4	 pA_I	pA_I
+on	5	5	4	 pA_I	pA_I
+vous	9	11	3	 pA_I	pA_I
+embrasse	5	13	1	 pA_I	pA_I
+à	3	3	2	 pA_I	pA_I
+bientôt	5	11	3	 pA_L	pA_L
+
+ciao	3	4	3	 pA_B	pA_B
+ciao	3	4	1	 pA_L	pA_L
+
+ciao	3	3	1	 pA_U	pA_U
+
+hein	2	3	2	 pA_B	pA_B
+d	3	4	3	 pA_I	pA_I
+autant	3	4	3	 pA_I	pA_I
+plus	4	5	4	 pA_I	pA_I
+que	4	5	3	 pA_I	pA_I
+ces	3	3	2	 pA_I	pA_I
+pays	3	3	2	 pA_I	pA_I
+là	4	5	3	 pA_I	pA_I
+ont	4	5	3	 pA_I	pA_I
+eu	4	4	3	 pA_I	pA_I
+la	2	3	29	 pA_I	pA_I
+l	4	6	29	 pA_I	pA_I
+excellente	4	6	29	 pA_I	pA_I
+idée	5	7	3	 pA_I	pA_I
+de	4	5	3	 pA_I	pA_I
+plan-	3	4	3	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+planter	4	5	3	 pA_I	pA_I
+euh	2	5	2	 pA_I	pA_I
+énormément	4	5	3	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+comment	3	3	2	 pA_I	pA_I
+dire	3	3	2	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+vignes	3	4	2	 pA_I	pA_I
+d	2	3	2	 pA_I	pA_I
+origine	2	3	2	 pA_I	pA_I
+française	5	7	2	 pA_I	pA_I
+mais	6	8	3	 pA_I	pA_I
+hélas	5	8	3	 pA_I	pA_I
+sans	7	8	6	 pA_I	pA_I
+passer	6	7	4	 pA_I	pA_I
+par	4	5	4	 pA_I	pA_I
+l	4	5	3	 pA_I	pA_I
+intermédiaire	4	5	3	 pA_I	pA_I
+de	3	4	2	 pA_I	pA_I
+porte	4	5	3	 pA_I	pA_I
+greffes	4	5	3	 pA_I	pA_I
+américains	3	4	2	 pA_I	pA_I
+grave	2	3	1	 pA_I	pA_I
+erreur	2	3	2	 pA_I	pA_I
+voilà	2	2	1	 pA_L	pA_L
+
+bien	3	5	1	 pA_B	pA_B
+je	2	2	2	 pA_I	pA_I
+passe	3	3	2	 pA_I	pA_I
+donc	2	3	2	 pA_I	pA_I
+voilà	3	3	2	 pA_I	pA_I
+le	2	3	2	 pA_I	pA_I
+phylloxéra	3	5	2	 pA_I	pA_I
+le	3	3	3	 pA_I	pA_I
+phylloxéra	4	4	3	 pA_I	pA_I
+qui	4	4	4	 pA_I	pA_I
+à	3	4	3	 pA_I	pA_I
+partir	3	4	2	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+ces	3	4	2	 pA_I	pA_I
+deux	5	11	3	 pA_I	pA_I
+euh	5	11	2	 pA_I	pA_I
+pôles	4	4	2	 pA_I	pA_I
+de	2	3	2	 pA_I	pA_I
+diffusion	3	4	2	 pA_I	pA_I
+le	3	3	2	 pA_I	pA_I
+Bordelais	3	12	2	 pA_I	pA_I
+et	4	13	2	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+Midi	2	3	2	 pA_I	pA_I
+méditerranéen	2	3	1	 pA_I	pA_I
+s	3	4	2	 pA_I	pA_I
+est	3	4	2	 pA_I	pA_I
+diffusé	2	3	2	 pA_I	pA_I
+au	2	3	2	 pA_I	pA_I
+travers	2	2	2	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+grandes	2	2	1	 pA_I	pA_I
+voies	2	2	2	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+communication	2	4	1	 pA_I	pA_I
+le	3	3	2	 pA_I	pA_I
+phylloxéra	2	3	1	 pA_I	pA_I
+qui	3	3	3	 pA_I	pA_I
+au	2	3	2	 pA_I	pA_I
+cours	3	3	2	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+années	2	3	1	 pA_I	pA_I
+dix	2	2	1	 pA_I	pA_I
+huit	2	2	1	 pA_I	pA_I
+cent	2	3	1	 pA_I	pA_I
+quatre	1	2	1	 pA_I	pA_I
+vingt	1	1	1	 pA_I	pA_I
+dix	3	3	2	 pA_I	pA_I
+a	3	3	3	 pA_I	pA_I
+envahi	3	4	2	 pA_I	pA_I
+absolument	2	2	1	 pA_I	pA_I
+toute	2	3	2	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+France	2	3	2	 pA_I	pA_I
+sauf	3	3	3	 pA_I	pA_I
+quelques	2	3	1	 pA_I	pA_I
+résidus	2	4	1	 pA_I	pA_I
+mais	3	3	2	 pA_I	pA_I
+en	2	2	1	 pA_I	pA_I
+fait	2	3	1	 pA_I	pA_I
+nous	2	2	2	 pA_I	pA_I
+sommes	2	3	2	 pA_I	pA_I
+là	2	2	2	 pA_I	pA_I
+au	2	2	2	 pA_I	pA_I
+coeur	2	3	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+l	2	3	1	 pA_I	pA_I
+Auvergne	2	3	1	 pA_I	pA_I
+qui	2	2	2	 pA_I	pA_I
+euh	1	2	29	 pA_I	pA_I
+n	1	2	1	 pA_I	pA_I
+a	1	2	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+euh	 NA	 NA	 NA	 pA_I	pA_I
+pratiquement	1	2	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+été	1	2	1	 pA_I	pA_I
+touchée	2	3	1	 pA_I	pA_I
+car	4	4	3	 pA_I	pA_I
+étant	4	5	2	 pA_I	pA_I
+enclavée	3	6	2	 pA_I	pA_I
+à	2	2	2	 pA_I	pA_I
+ce	2	2	2	 pA_I	pA_I
+moment	1	2	1	 pA_I	pA_I
+là	1	1	30	 pA_L	pA_L
+
+donc	3	3	2	 pA_B	pA_B
+on	5	6	5	 pA_I	pA_I
+change	6	7	4	 pA_I	pA_I
+avec	3	4	2	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+phylloxéra	3	5	2	 pA_I	pA_I
+euh	4	13	2	 pA_I	pA_I
+et	4	13	1	 pA_I	pA_I
+on	2	2	2	 pA_I	pA_I
+aboutit	3	5	3	 pA_I	pA_I
+à	3	5	2	 pA_I	pA_I
+une	2	3	2	 pA_I	pA_I
+nouvelle	4	4	3	 pA_I	pA_I
+géographie	2	4	2	 pA_I	pA_I
+euh	2	2	1	 pA_I	pA_I
+de	2	2	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+vigne	4	6	2	 pA_I	pA_I
+et	3	4	3	 pA_I	pA_I
+notamment	4	7	3	 pA_I	pA_I
+j	2	3	2	 pA_I	pA_I
+ai	2	3	2	 pA_I	pA_I
+pas	3	3	3	 pA_I	pA_I
+le	3	3	2	 pA_I	pA_I
+temps	3	4	3	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+tout	4	4	2	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+tout	3	4	3	 pA_I	pA_I
+de	1	2	29	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+tout	3	3	3	 pA_I	pA_I
+vous	2	3	2	 pA_I	pA_I
+montrer	3	4	1	 pA_I	pA_I
+mais	3	4	3	 pA_I	pA_I
+il	4	7	3	 pA_I	pA_I
+y	3	4	3	 pA_I	pA_I
+a	5	5	4	 pA_I	pA_I
+ici	3	5	2	 pA_I	pA_I
+véritablement	3	5	29	 pA_I	pA_I
+le	3	4	3	 pA_I	pA_I
+vignoble	3	4	2	 pA_I	pA_I
+du	2	2	1	 pA_I	pA_I
+Languedoc	3	4	1	 pA_I	pA_I
+qui	2	3	2	 pA_I	pA_I
+s	2	2	1	 pA_I	pA_I
+en	2	2	1	 pA_I	pA_I
+tire	5	5	4	 pA_I	pA_I
+très	3	4	3	 pA_I	pA_I
+très	2	3	1	 pA_I	pA_I
+bien	1	1	1	 pA_L	pA_L
+
+sauf	6	7	5	 pA_B	pA_B
+que	5	6	3	 pA_I	pA_I
+ce	4	4	3	 pA_I	pA_I
+n	4	4	3	 pA_I	pA_I
+est	4	4	3	 pA_I	pA_I
+pas	5	5	3	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+le	2	3	2	 pA_I	pA_I
+même	4	5	2	 pA_I	pA_I
+vignoble	3	4	3	 pA_I	pA_I
+du	2	2	2	 pA_I	pA_I
+Languedoc	3	3	2	 pA_I	pA_I
+qu	4	5	2	 pA_I	pA_I
+avant	4	5	2	 pA_I	pA_I
+le	3	4	2	 pA_I	pA_I
+phylloxéra	3	5	2	 pA_I	pA_I
+c	3	5	2	 pA_I	pA_I
+est	3	5	2	 pA_I	pA_I
+plutôt	3	4	2	 pA_I	pA_I
+un	2	3	2	 pA_I	pA_I
+vignoble	3	3	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+consommation	2	3	1	 pA_I	pA_I
+courante	3	4	1	 pA_I	pA_I
+vin	3	3	2	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+table	4	6	2	 pA_I	pA_I
+on	2	2	2	 pA_I	pA_I
+l	2	2	1	 pA_I	pA_I
+appelait	2	2	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+encore	2	3	1	 pA_I	pA_I
+ainsi	2	3	2	 pA_I	pA_I
+à	2	3	2	 pA_I	pA_I
+ce	2	2	2	 pA_I	pA_I
+moment	2	2	1	 pA_I	pA_I
+là	3	5	1	 pA_I	pA_I
+et	4	5	3	 pA_I	pA_I
+parce	4	6	2	 pA_I	pA_I
+que	4	6	2	 pA_I	pA_I
+le	2	3	2	 pA_I	pA_I
+vignoble	3	4	2	 pA_I	pA_I
+s	3	4	2	 pA_I	pA_I
+est	3	4	2	 pA_I	pA_I
+beaucoup	3	4	2	 pA_I	pA_I
+développé	4	12	1	 pA_I	pA_I
+dans	2	3	2	 pA_I	pA_I
+les	2	2	1	 pA_I	pA_I
+plaines	3	4	2	 pA_I	pA_I
+marécageuses	2	3	2	 pA_I	pA_I
+d	2	3	1	 pA_I	pA_I
+ailleurs	2	3	1	 pA_I	pA_I
+en	2	2	2	 pA_I	pA_I
+hiver	3	5	1	 pA_I	pA_I
+et	4	13	3	 pA_I	pA_I
+à	2	3	2	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+moment	2	3	1	 pA_I	pA_I
+là	2	3	2	 pA_I	pA_I
+le	2	3	2	 pA_I	pA_I
+phylloxéra	2	2	1	 pA_I	pA_I
+l	2	3	1	 pA_I	pA_I
+insecte	2	3	1	 pA_I	pA_I
+ne	2	2	2	 pA_I	pA_I
+supporte	1	2	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+euh	1	2	1	 pA_I	pA_I
+la	2	2	1	 pA_I	pA_I
+submersion	2	3	1	 pA_I	pA_I
+pendant	2	2	2	 pA_I	pA_I
+plusieurs	2	2	1	 pA_I	pA_I
+semaines	2	2	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+suite	2	2	1	 pA_I	pA_I
+et	1	2	29	 pA_I	pA_I
+on	1	1	1	 pA_I	pA_I
+a	1	1	1	 pA_I	pA_I
+bien	2	2	2	 pA_I	pA_I
+trouvé	2	3	2	 pA_I	pA_I
+une	2	3	1	 pA_I	pA_I
+parade	1	2	1	 pA_L	pA_L
+
+conséquences	5	6	3	 pA_B	pA_B
+ensuite	4	5	2	 pA_I	pA_I
+pour	3	3	3	 pA_I	pA_I
+la	3	3	2	 pA_I	pA_I
+création	3	4	2	 pA_I	pA_I
+d	2	2	2	 pA_I	pA_I
+une	2	2	2	 pA_I	pA_I
+nouvelle	4	4	2	 pA_I	pA_I
+viticulture	3	4	1	 pA_I	pA_I
+auparavant	3	4	2	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+vignes	3	3	1	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+pieds	3	3	3	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+vignes	3	3	2	 pA_I	pA_I
+étaient	2	3	1	 pA_I	pA_I
+en	2	2	1	 pA_I	pA_I
+foulée	4	5	3	 pA_I	pA_I
+c	2	3	2	 pA_I	pA_I
+est	2	3	2	 pA_I	pA_I
+à	2	3	2	 pA_I	pA_I
+dire	3	3	2	 pA_I	pA_I
+qu	2	2	2	 pA_I	pA_I
+il	2	2	2	 pA_I	pA_I
+y	2	2	2	 pA_I	pA_I
+avait	2	2	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+d	3	3	1	 pA_I	pA_I
+ordre	3	3	1	 pA_I	pA_I
+véritablement	2	5	1	 pA_I	pA_I
+avec	2	3	1	 pA_I	pA_I
+l	2	2	1	 pA_I	pA_I
+évolution	2	2	1	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+vigne	4	6	1	 pA_I	pA_I
+je	2	2	1	 pA_I	pA_I
+passe	3	3	2	 pA_I	pA_I
+le	2	2	1	 pA_I	pA_I
+détail	3	6	1	 pA_I	pA_I
+ainsi	3	4	1	 pA_I	pA_I
+que	4	12	2	 pA_I	pA_I
+euh	3	12	30	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+montre	2	2	1	 pA_I	pA_I
+ici	2	3	1	 pA_I	pA_I
+mais	2	2	1	 pA_I	pA_I
+malheureusement	1	2	1	 pA_I	pA_I
+très	2	2	1	 pA_I	pA_I
+très	2	2	1	 pA_I	pA_I
+mal	2	3	1	 pA_I	pA_I
+pour	2	2	1	 pA_I	pA_I
+chaque	3	4	3	 pA_I	pA_I
+pied	2	2	1	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+vigne	2	2	2	 pA_I	pA_I
+il	2	2	2	 pA_I	pA_I
+y	2	2	2	 pA_I	pA_I
+avait	1	2	1	 pA_I	pA_I
+un	1	2	1	 pA_I	pA_I
+échalas	2	3	1	 pA_I	pA_I
+et	2	2	1	 pA_I	pA_I
+puis	2	2	1	 pA_I	pA_I
+les	2	2	1	 pA_I	pA_I
+sarments	1	2	1	 pA_I	pA_I
+étaient	1	2	1	 pA_I	pA_I
+raccrochés	2	2	1	 pA_I	pA_I
+au	2	2	1	 pA_I	pA_I
+dessus	2	2	29	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+l	2	3	1	 pA_I	pA_I
+échalas	2	3	1	 pA_I	pA_I
+désormais	3	5	2	 pA_I	pA_I
+au	2	2	2	 pA_I	pA_I
+début	3	3	2	 pA_I	pA_I
+du	2	3	2	 pA_I	pA_I
+vingtième	2	2	1	 pA_I	pA_I
+siècle	3	3	1	 pA_I	pA_I
+toutes	3	4	2	 pA_I	pA_I
+les	2	2	1	 pA_I	pA_I
+vignes	2	3	1	 pA_I	pA_I
+sont	2	2	1	 pA_I	pA_I
+palissées	3	4	2	 pA_I	pA_I
+parce	2	3	2	 pA_I	pA_I
+que	2	3	2	 pA_I	pA_I
+on	2	3	2	 pA_I	pA_I
+passe	3	3	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+la	3	13	2	 pA_I	pA_I
+houe	6	16	3	 pA_I	pA_I
+à	7	17	2	 pA_I	pA_I
+la	2	2	1	 pA_I	pA_I
+charrue	3	5	1	 pA_I	pA_I
+et	3	4	3	 pA_I	pA_I
+les	2	4	1	 pA_I	pA_I
+vignes	3	4	1	 pA_I	pA_I
+surtout	3	5	1	 pA_I	pA_I
+sont	3	4	3	 pA_I	pA_I
+ordonnées	3	4	1	 pA_I	pA_I
+n	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+ce	1	1	1	 pA_I	pA_I
+pas	3	3	3	 pA_I	pA_I
+pour	2	3	1	 pA_I	pA_I
+que	2	2	2	 pA_I	pA_I
+la	2	2	1	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+charrue	2	3	1	 pA_I	pA_I
+puisse	2	2	2	 pA_I	pA_I
+être	2	2	2	 pA_I	pA_I
+tirée	2	2	1	 pA_I	pA_I
+par	1	2	1	 pA_I	pA_I
+le	1	2	1	 pA_I	pA_I
+cheval	2	2	1	 pA_L	pA_L
+
+autres	5	6	3	 pA_B	pA_B
+conséquences	4	5	2	 pA_I	pA_I
+et	3	4	3	 pA_I	pA_I
+euh	2	3	30	 pA_I	pA_I
+qui	3	3	2	 pA_I	pA_I
+vient	3	4	2	 pA_I	pA_I
+aussi	3	4	2	 pA_I	pA_I
+se	2	3	2	 pA_I	pA_I
+s	3	4	2	 pA_I	pA_I
+ajouter	3	4	2	 pA_I	pA_I
+auxquelles	3	14	30	 pA_I	pA_I
+vient	3	3	2	 pA_I	pA_I
+euh	2	2	1	 pA_I	pA_I
+viennent	3	3	3	 pA_I	pA_I
+s	3	4	2	 pA_I	pA_I
+ajouter	3	4	2	 pA_I	pA_I
+pardon	2	3	2	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+fraude	3	4	29	 pA_I	pA_I
+et	2	3	30	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+surproduction	3	4	1	 pA_I	pA_I
+c	3	4	2	 pA_I	pA_I
+est	3	4	2	 pA_I	pA_I
+la	2	2	1	 pA_I	pA_I
+création	3	4	1	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+appellations	2	3	1	 pA_I	pA_I
+d	2	3	1	 pA_I	pA_I
+origine	2	3	1	 pA_I	pA_I
+contrôlée	2	4	1	 pA_L	pA_L
+
+on	2	3	2	 pA_B	pA_B
+passe	3	4	3	 pA_I	pA_I
+là	2	3	2	 pA_I	pA_I
+véritablement	2	4	1	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+à	3	3	2	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+vins	3	3	2	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+terroir	3	4	2	 pA_I	pA_I
+en	3	3	2	 pA_I	pA_I
+tout	2	3	2	 pA_I	pA_I
+cas	4	4	3	 pA_I	pA_I
+d	3	4	2	 pA_I	pA_I
+appellation	3	4	2	 pA_I	pA_I
+d	3	4	2	 pA_I	pA_I
+origine	3	4	2	 pA_I	pA_I
+contrôlée	2	3	30	 pA_L	pA_L
+
+bien	1	2	30	 pA_U	pA_U
+
+alors	3	4	1	 pA_B	pA_B
+euh	2	6	29	 pA_I	pA_I
+cette	5	6	3	 pA_I	pA_I
+création	5	7	3	 pA_I	pA_I
+des	3	3	2	 pA_I	pA_I
+appellations	3	4	2	 pA_I	pA_I
+d	2	3	2	 pA_I	pA_I
+origine	2	3	2	 pA_I	pA_I
+contrôlée	3	5	1	 pA_I	pA_I
+a	3	4	3	 pA_I	pA_I
+eu	4	5	3	 pA_I	pA_I
+une	5	7	4	 pA_I	pA_I
+autre	6	8	3	 pA_I	pA_I
+conséquence	3	4	2	 pA_I	pA_I
+indirecte	3	5	1	 pA_I	pA_I
+c	3	4	3	 pA_I	pA_I
+est	3	4	3	 pA_I	pA_I
+le	3	3	3	 pA_I	pA_I
+fait	6	7	3	 pA_I	pA_I
+que	4	5	4	 pA_I	pA_I
+les	3	4	3	 pA_I	pA_I
+négociants	4	6	2	 pA_I	pA_I
+ont	4	5	3	 pA_I	pA_I
+perdu	3	5	2	 pA_I	pA_I
+la	2	3	2	 pA_I	pA_I
+main	3	5	2	 pA_I	pA_I
+si	3	3	2	 pA_I	pA_I
+je	2	2	1	 pA_I	pA_I
+peux	3	3	2	 pA_I	pA_I
+m	2	3	2	 pA_I	pA_I
+exprimer	2	3	2	 pA_I	pA_I
+ainsi	4	6	2	 pA_I	pA_I
+euh	3	15	2	 pA_I	pA_I
+à	3	3	3	 pA_I	pA_I
+ce	3	3	3	 pA_I	pA_I
+moment	2	4	2	 pA_I	pA_I
+là	4	6	2	 pA_I	pA_I
+parce	4	6	2	 pA_I	pA_I
+que	4	6	2	 pA_I	pA_I
+ceux	6	6	4	 pA_I	pA_I
+qui	4	4	3	 pA_I	pA_I
+ont	3	3	2	 pA_I	pA_I
+pris	8	8	7	 pA_I	pA_I
+la	6	7	5	 pA_I	pA_I
+main	4	5	3	 pA_I	pA_I
+à	3	3	2	 pA_I	pA_I
+ce	2	2	2	 pA_I	pA_I
+moment	2	4	2	 pA_I	pA_I
+là	5	6	3	 pA_I	pA_I
+ce	6	7	5	 pA_I	pA_I
+sont	7	7	7	 pA_I	pA_I
+les	4	7	4	 pA_I	pA_I
+syndicats	4	5	3	 pA_I	pA_I
+viticoles	3	4	1	 pA_L	pA_L
+
+qui	5	5	5	 pA_B	pA_B
+ont	6	6	5	 pA_I	pA_I
+eu	5	6	30	 pA_I	pA_I
+comme	3	4	2	 pA_I	pA_I
+mission	4	6	3	 pA_I	pA_I
+entre	3	6	2	 pA_I	pA_I
+autres	6	9	30	 pA_I	pA_I
+de	4	5	29	 pA_I	pA_I
+défendre	5	8	3	 pA_I	pA_I
+leurs	4	5	3	 pA_I	pA_I
+appellations	4	5	2	 pA_I	pA_I
+et	3	3	2	 pA_I	pA_I
+notamment	4	6	2	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+défendre	4	5	2	 pA_I	pA_I
+des	3	4	3	 pA_I	pA_I
+pratiques	5	5	4	 pA_I	pA_I
+qui	4	4	3	 pA_I	pA_I
+étaient	3	3	2	 pA_I	pA_I
+très	5	6	3	 pA_I	pA_I
+fréquentes	3	4	3	 pA_I	pA_I
+à	2	3	2	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+moment	3	3	2	 pA_I	pA_I
+là	3	3	3	 pA_I	pA_I
+et	2	3	2	 pA_I	pA_I
+qui	3	4	3	 pA_I	pA_I
+le	2	3	2	 pA_I	pA_I
+qui	4	4	3	 pA_I	pA_I
+l	3	4	3	 pA_I	pA_I
+ont	3	4	3	 pA_I	pA_I
+re-	4	4	3	 pA_I	pA_I
+qui	3	4	3	 pA_I	pA_I
+le	4	4	3	 pA_I	pA_I
+sont	4	4	3	 pA_I	pA_I
+restées	4	5	3	 pA_I	pA_I
+je	2	3	2	 pA_I	pA_I
+ne	2	2	1	 pA_I	pA_I
+vous	2	2	2	 pA_I	pA_I
+explique	2	3	2	 pA_I	pA_I
+pas	3	4	2	 pA_I	pA_I
+jusqu	2	2	1	 pA_I	pA_I
+à	2	2	1	 pA_I	pA_I
+quel	4	4	3	 pA_I	pA_I
+point	6	6	4	 pA_I	pA_I
+on	2	2	2	 pA_I	pA_I
+m	2	2	2	 pA_I	pA_I
+a	2	2	2	 pA_I	pA_I
+raconté	3	5	2	 pA_I	pA_I
+des	3	4	3	 pA_I	pA_I
+choses	3	4	2	 pA_I	pA_I
+à	2	2	2	 pA_I	pA_I
+même	3	4	2	 pA_I	pA_I
+à	3	4	2	 pA_I	pA_I
+propos	2	3	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+ville	1	2	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+Beaune	4	5	2	 pA_I	pA_I
+c	2	2	2	 pA_I	pA_I
+est	2	2	2	 pA_I	pA_I
+incroyable	4	6	2	 pA_I	pA_I
+hein	2	3	1	 pA_I	pA_I
+euh	2	2	1	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+vins	3	3	1	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+comment	2	2	2	 pA_I	pA_I
+dire	2	2	2	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+camions	4	4	3	 pA_I	pA_I
+entiers	3	4	2	 pA_I	pA_I
+arrivant	4	19	1	 pA_I	pA_I
+à	2	2	2	 pA_I	pA_I
+Beaune	3	4	1	 pA_I	pA_I
+euh	2	2	1	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+en	2	3	29	 pA_I	pA_I
+week	3	3	2	 pA_I	pA_I
+end	3	3	2	 pA_I	pA_I
+durant	2	2	1	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+nuit	3	3	2	 pA_I	pA_I
+avec	2	2	1	 pA_I	pA_I
+des	1	2	1	 pA_I	pA_I
+cargaisons	2	2	1	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+complètes	2	2	1	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+vins	2	2	1	 pA_I	pA_I
+du	1	2	1	 pA_I	pA_I
+sud	2	3	2	 pA_I	pA_I
+servant	1	2	1	 pA_I	pA_I
+plus	 NA	 NA	 NA	 pA_I	pA_I
+ou	2	2	2	 pA_I	pA_I
+moins	2	2	2	 pA_I	pA_I
+de	2	2	1	 pA_I	pA_I
+vins	1	2	1	 pA_I	pA_I
+médecin	2	2	1	 pA_I	pA_I
+de	2	5	2	 pA_I	pA_I
+euh	29	29	29	 pA_I	pA_I
+certaines	2	2	1	 pA_I	pA_I
+mauvaises	2	2	1	 pA_I	pA_I
+années	2	3	1	 pA_I	pA_I
+n	2	3	1	 pA_I	pA_I
+est	2	3	1	 pA_I	pA_I
+ce	1	1	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+enfin	1	2	1	 pA_I	pA_I
+bon	1	1	1	 pA_I	pA_I
+bref	2	2	1	 pA_I	pA_I
+je	1	2	1	 pA_I	pA_I
+passe	3	5	2	 pA_I	pA_I
+et	3	4	3	 pA_I	pA_I
+notamment	3	4	2	 pA_I	pA_I
+avec	3	3	2	 pA_I	pA_I
+cette	3	3	2	 pA_I	pA_I
+idée	4	6	2	 pA_I	pA_I
+que	3	4	3	 pA_I	pA_I
+les	2	3	2	 pA_I	pA_I
+négociants	4	15	2	 pA_I	pA_I
+eux	4	5	3	 pA_I	pA_I
+ce	3	4	2	 pA_I	pA_I
+qu	 NA	 NA	 NA	 pA_I	pA_I
+ils	 NA	 NA	 NA	 pA_I	pA_I
+voulaient	3	5	2	 pA_I	pA_I
+c	3	4	3	 pA_I	pA_I
+est	3	4	3	 pA_I	pA_I
+essayer	3	4	2	 pA_I	pA_I
+de	2	3	1	 pA_I	pA_I
+régulariser	2	4	1	 pA_I	pA_I
+la	2	3	1	 pA_I	pA_I
+qualité	2	2	1	 pA_I	pA_I
+des	1	2	1	 pA_I	pA_I
+vins	1	1	1	 pA_L	pA_L
+
+voilà	1	1	30	 pA_U	pA_U
+
+donc	2	3	2	 pA_B	pA_B
+ils	4	6	2	 pA_I	pA_I
+ont	4	5	3	 pA_I	pA_I
+perdu	3	5	2	 pA_I	pA_I
+euh	1	2	1	 pA_I	pA_I
+la	1	2	1	 pA_I	pA_I
+main	4	6	2	 pA_I	pA_I
+mais	5	16	2	 pA_I	pA_I
+actuellement	5	6	3	 pA_I	pA_I
+dans	2	3	2	 pA_I	pA_I
+le	3	3	3	 pA_I	pA_I
+cadre	3	5	2	 pA_I	pA_I
+de	2	2	1	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+mondialisation	3	6	2	 pA_I	pA_I
+où	6	9	3	 pA_I	pA_I
+les	2	3	2	 pA_I	pA_I
+échanges	4	6	2	 pA_I	pA_I
+véritablement	3	4	2	 pA_I	pA_I
+deviennent	3	3	2	 pA_I	pA_I
+fondamentaux	3	6	2	 pA_I	pA_I
+ils	8	9	7	 pA_I	pA_I
+sont	8	8	4	 pA_I	pA_I
+en	3	4	3	 pA_I	pA_I
+train	4	5	4	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+reprendre	2	4	2	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+main	2	2	1	 pA_L	pA_L
+
+en	3	3	2	 pA_B	pA_B
+tout	3	3	2	 pA_I	pA_I
+cas	6	6	5	 pA_I	pA_I
+ils	4	5	3	 pA_I	pA_I
+cherchent	5	5	4	 pA_I	pA_I
+à	3	4	2	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+reprendre	1	2	30	 pA_I	pA_I
+d	1	2	1	 pA_I	pA_I
+une	1	2	1	 pA_I	pA_I
+manière	2	2	1	 pA_I	pA_I
+très	2	3	2	 pA_I	pA_I
+importante	2	2	1	 pA_L	pA_L
+
+alors	3	3	2	 pA_B	pA_B
+troisièmement	4	7	29	 pA_I	pA_I
+et	4	4	3	 pA_I	pA_I
+actuellement	4	5	2	 pA_I	pA_I
+on	4	5	4	 pA_I	pA_I
+assiste	4	5	3	 pA_I	pA_I
+à	3	4	2	 pA_I	pA_I
+pardon	3	5	1	 pA_I	pA_I
+une	3	6	3	 pA_I	pA_I
+euh	2	3	29	 pA_I	pA_I
+comment	2	4	2	 pA_I	pA_I
+dire	2	3	2	 pA_I	pA_I
+un	3	4	3	 pA_I	pA_I
+rapprochement	4	6	3	 pA_I	pA_I
+c	3	3	3	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+d	3	4	2	 pA_I	pA_I
+une	3	4	2	 pA_I	pA_I
+manière	4	5	4	 pA_I	pA_I
+assez	5	6	4	 pA_I	pA_I
+inattendue	3	5	2	 pA_I	pA_I
+mais	2	3	2	 pA_I	pA_I
+c	3	4	3	 pA_I	pA_I
+est	3	4	3	 pA_I	pA_I
+un	4	5	3	 pA_I	pA_I
+des	3	4	3	 pA_I	pA_I
+fruits	5	6	3	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+la	3	3	2	 pA_I	pA_I
+mondialisation	2	4	1	 pA_I	pA_I
+entre	3	4	3	 pA_I	pA_I
+les	2	3	1	 pA_I	pA_I
+vins	4	5	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+terroir	2	3	1	 pA_I	pA_I
+et	2	3	2	 pA_I	pA_I
+les	2	2	1	 pA_I	pA_I
+vins	2	3	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+cépage	1	2	30	 pA_L	pA_L
+
+alors	2	3	2	 pA_B	pA_B
+simplement	4	6	2	 pA_I	pA_I
+juste	4	6	2	 pA_I	pA_I
+une	3	4	2	 pA_I	pA_I
+petite	3	5	2	 pA_I	pA_I
+remarque	4	6	2	 pA_I	pA_I
+bien	4	5	2	 pA_I	pA_I
+souvent	4	6	3	 pA_I	pA_I
+on	3	6	2	 pA_I	pA_I
+vous	3	4	2	 pA_I	pA_I
+montre	5	7	3	 pA_I	pA_I
+cette	3	4	3	 pA_I	pA_I
+carte	4	5	3	 pA_I	pA_I
+là	4	4	4	 pA_I	pA_I
+euh	2	3	2	 pA_I	pA_I
+dans	3	3	2	 pA_I	pA_I
+les	3	3	2	 pA_I	pA_I
+livres	3	5	2	 pA_I	pA_I
+de	2	3	2	 pA_I	pA_I
+géographie	3	4	2	 pA_I	pA_I
+n	3	4	2	 pA_I	pA_I
+est	3	4	2	 pA_I	pA_I
+ce	2	2	2	 pA_I	pA_I
+pas	3	3	2	 pA_I	pA_I
+dans	2	2	2	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+livres	3	4	2	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+qui	2	3	2	 pA_I	pA_I
+préparent	3	4	2	 pA_I	pA_I
+aux	2	2	2	 pA_I	pA_I
+concours	4	4	2	 pA_I	pA_I
+euh	2	2	30	 pA_I	pA_I
+sur	2	3	2	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+la	2	2	1	 pA_I	pA_I
+géographie	2	2	1	 pA_I	pA_I
+de	2	2	1	 pA_I	pA_I
+la	2	2	1	 pA_I	pA_I
+France	4	5	2	 pA_I	pA_I
+et	3	4	2	 pA_I	pA_I
+on	2	2	1	 pA_I	pA_I
+vous	2	2	1	 pA_I	pA_I
+dit	3	4	3	 pA_I	pA_I
+voilà	2	4	1	 pA_I	pA_I
+ça	4	4	1	 pA_I	pA_I
+c	4	4	3	 pA_I	pA_I
+est	4	4	3	 pA_I	pA_I
+le	3	3	2	 pA_I	pA_I
+vignoble	2	2	1	 pA_I	pA_I
+français	2	4	1	 pA_I	pA_I
+on	3	4	3	 pA_I	pA_I
+vous	2	3	1	 pA_I	pA_I
+présente	2	3	1	 pA_I	pA_I
+d	2	2	2	 pA_I	pA_I
+une	2	2	2	 pA_I	pA_I
+manière	2	2	2	 pA_I	pA_I
+très	2	2	1	 pA_I	pA_I
+classique	3	5	1	 pA_I	pA_I
+en	1	2	1	 pA_I	pA_I
+fait	3	4	3	 pA_I	pA_I
+les	2	2	1	 pA_I	pA_I
+vignobles	4	13	30	 pA_I	pA_I
+euh	1	2	29	 pA_I	pA_I
+le	2	2	1	 pA_I	pA_I
+vignoble	2	3	1	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+AOC	2	2	30	 pA_L	pA_L
+
+bien	1	2	30	 pA_U	pA_U
+
+alors	2	2	1	 pA_B	pA_B
+je	2	3	1	 pA_I	pA_I
+passe	3	5	2	 pA_I	pA_I
+ici	4	7	2	 pA_I	pA_I
+apparaissent	3	7	2	 pA_I	pA_I
+très	3	3	2	 pA_I	pA_I
+nettement	2	3	2	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+grandes	3	3	2	 pA_I	pA_I
+vallées	2	3	1	 pA_I	pA_I
+euh	2	2	29	 pA_I	pA_I
+les	4	10	2	 pA_I	pA_I
+également	3	8	2	 pA_I	pA_I
+aussi	3	3	2	 pA_I	pA_I
+le	2	2	1	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+régions	2	3	2	 pA_I	pA_I
+méditerranéennes	2	4	1	 pA_I	pA_I
+et	2	3	2	 pA_I	pA_I
+puis	2	3	2	 pA_I	pA_I
+aussi	3	4	1	 pA_I	pA_I
+apparaissent	2	3	1	 pA_I	pA_I
+également	2	3	2	 pA_I	pA_I
+les	3	3	2	 pA_I	pA_I
+régions	2	2	1	 pA_I	pA_I
+littorales	2	3	1	 pA_I	pA_I
+atlantiques	2	2	1	 pA_I	pA_I
+plus	3	3	2	 pA_I	pA_I
+bien	2	2	2	 pA_I	pA_I
+entendu	2	3	1	 pA_I	pA_I
+la	2	2	1	 pA_I	pA_I
+champagne	2	2	1	 pA_I	pA_I
+qui	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+absolument	2	2	1	 pA_I	pA_I
+extraordinaire	2	3	1	 pA_I	pA_I
+mais	2	3	2	 pA_I	pA_I
+en	2	3	2	 pA_I	pA_I
+front	3	4	3	 pA_I	pA_I
+de	2	3	2	 pA_I	pA_I
+Cuesta	2	3	2	 pA_I	pA_I
+quand	1	1	1	 pA_I	pA_I
+même	2	3	1	 pA_I	pA_I
+hein	2	2	2	 pA_I	pA_I
+il	1	1	29	 pA_I	pA_I
+faut	2	2	2	 pA_I	pA_I
+le	2	2	1	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+souligner	2	20	30	 pA_L	pA_L
+
+bien	1	2	30	 pA_U	pA_U
+
+euh	2	2	1	 pA_B	pA_B
+si	4	4	4	 pA_I	pA_I
+je	3	4	3	 pA_I	pA_I
+reprends	3	4	2	 pA_I	pA_I
+l	2	3	1	 pA_I	pA_I
+exemple	2	3	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+la	2	2	1	 pA_I	pA_I
+région	2	2	1	 pA_I	pA_I
+euh	2	2	1	 pA_I	pA_I
+centre	2	3	1	 pA_I	pA_I
+Val	1	2	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+Loire	3	4	1	 pA_I	pA_I
+voilà	3	4	1	 pA_I	pA_I
+également	2	2	2	 pA_I	pA_I
+aussi	3	4	1	 pA_I	pA_I
+les	2	3	1	 pA_I	pA_I
+AOC	2	3	1	 pA_I	pA_I
+donc	2	3	2	 pA_I	pA_I
+à	1	2	1	 pA_I	pA_I
+une	2	2	1	 pA_I	pA_I
+autre	3	3	2	 pA_I	pA_I
+échelle	3	5	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+la	2	2	1	 pA_I	pA_I
+région	2	3	1	 pA_I	pA_I
+centre	2	3	2	 pA_I	pA_I
+Val	2	2	1	 pA_I	pA_I
+de	2	2	1	 pA_I	pA_I
+Loire	1	1	1	 pA_I	pA_I
+je	1	2	1	 pA_I	pA_I
+passe	 NA	 NA	 NA	 pA_L	pA_L
+
+bien	2	3	2	 pA_U	pA_U
+
+alors	2	3	1	 pA_B	pA_B
+les	3	4	2	 pA_I	pA_I
+principes	5	6	4	 pA_I	pA_I
+de	3	4	2	 pA_I	pA_I
+la	3	3	3	 pA_I	pA_I
+construction	3	5	2	 pA_I	pA_I
+des	2	3	2	 pA_I	pA_I
+AOC	2	3	2	 pA_I	pA_I
+c	3	3	2	 pA_I	pA_I
+est	3	3	2	 pA_I	pA_I
+pareil	2	3	1	 pA_I	pA_I
+je	2	2	2	 pA_I	pA_I
+m	2	3	1	 pA_I	pA_I
+excuse	2	3	1	 pA_I	pA_I
+mais	2	2	2	 pA_I	pA_I
+je	2	2	1	 pA_I	pA_I
+vais	2	2	1	 pA_I	pA_I
+passer	3	5	1	 pA_I	pA_I
+et	3	4	3	 pA_I	pA_I
+j	5	6	2	 pA_I	pA_I
+en	5	6	2	 pA_I	pA_I
+arrive	6	7	4	 pA_I	pA_I
+maintenant	5	7	4	 pA_I	pA_I
+à	4	4	3	 pA_I	pA_I
+la	4	4	3	 pA_I	pA_I
+réalité	6	8	3	 pA_I	pA_I
+de	4	5	3	 pA_I	pA_I
+la	4	5	3	 pA_I	pA_I
+France	4	4	2	 pA_I	pA_I
+viticole	3	4	1	 pA_L	pA_L
+
+la	3	3	2	 pA_B	pA_B
+France	6	7	6	 pA_I	pA_I
+viticole	5	7	3	 pA_I	pA_I
+c	3	6	2	 pA_I	pA_I
+est	3	6	2	 pA_I	pA_I
+ça	4	4	3	 pA_L	pA_L
+
+alors	1	2	1	 pA_B	pA_B
+bien	2	3	2	 pA_I	pA_I
+entendu	4	5	3	 pA_I	pA_I
+là	3	4	2	 pA_I	pA_I
+je	3	3	2	 pA_I	pA_I
+n	4	4	3	 pA_I	pA_I
+ai	4	4	3	 pA_I	pA_I
+que	5	5	2	 pA_I	pA_I
+les	2	3	2	 pA_I	pA_I
+données	3	4	3	 pA_I	pA_I
+euh	2	2	29	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+deux	3	3	2	 pA_I	pA_I
+mille	3	4	2	 pA_I	pA_I
+pour	2	3	2	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+plus	2	2	2	 pA_I	pA_I
+récentes	4	7	1	 pA_I	pA_I
+parce	3	5	2	 pA_I	pA_I
+que	3	5	2	 pA_I	pA_I
+on	5	6	3	 pA_I	pA_I
+attend	3	3	2	 pA_I	pA_I
+toujours	4	5	2	 pA_I	pA_I
+les	3	4	2	 pA_I	pA_I
+résultats	3	4	1	 pA_I	pA_I
+de	2	4	2	 pA_I	pA_I
+du	2	2	2	 pA_I	pA_I
+RGA	2	4	2	 pA_I	pA_I
+de	2	3	2	 pA_I	pA_I
+deux	2	3	2	 pA_I	pA_I
+mille	3	3	2	 pA_I	pA_I
+dix	3	3	2	 pA_I	pA_I
+hein	1	2	1	 pA_I	pA_I
+ils	2	2	1	 pA_I	pA_I
+ont	2	2	2	 pA_I	pA_I
+un	2	2	2	 pA_I	pA_I
+an	2	3	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+retard	2	2	2	 pA_I	pA_I
+là	2	2	2	 pA_I	pA_I
+dans	2	2	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+vue	2	3	2	 pA_I	pA_I
+mine	2	2	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+rien	1	3	1	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+ce	1	2	1	 pA_I	pA_I
+qui	1	1	1	 pA_I	pA_I
+n	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+pas	4	4	4	 pA_I	pA_I
+pour	3	4	2	 pA_I	pA_I
+m	2	3	1	 pA_L	pA_I
+arranger	2	3	1	 pA_L	pA_L
+
+et	4	6	2	 pA_B	pA_B
+quand	4	5	4	 pA_I	pA_I
+on	4	4	3	 pA_I	pA_I
+compare	5	6	3	 pA_I	pA_I
+avec	3	3	2	 pA_I	pA_I
+mille	3	4	3	 pA_I	pA_I
+neuf	4	4	3	 pA_I	pA_I
+cent	4	5	3	 pA_I	pA_I
+cinquante	3	5	3	 pA_I	pA_I
+huit	4	5	3	 pA_I	pA_I
+qui	3	3	3	 pA_I	pA_I
+est	2	3	2	 pA_I	pA_I
+le	2	3	2	 pA_I	pA_I
+premier	5	5	3	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+recensement	4	5	2	 pA_I	pA_I
+digne	4	5	2	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+ce	3	4	2	 pA_I	pA_I
+nom	3	4	2	 pA_I	pA_I
+au	2	2	2	 pA_I	pA_I
+cours	4	4	3	 pA_I	pA_I
+des	3	3	2	 pA_I	pA_I
+années	2	2	2	 pA_I	pA_I
+cinquante	4	7	2	 pA_I	pA_I
+hé	3	3	2	 pA_I	pA_I
+bien	5	6	2	 pA_I	pA_I
+on	3	3	2	 pA_I	pA_I
+se	2	2	2	 pA_I	pA_I
+on	2	3	1	 pA_I	pA_I
+constate	5	8	2	 pA_I	pA_I
+que	5	5	4	 pA_I	pA_I
+y	3	3	2	 pA_I	pA_I
+a	2	3	2	 pA_I	pA_I
+quand	3	3	3	 pA_I	pA_I
+même	4	4	3	 pA_I	pA_I
+des	3	4	2	 pA_I	pA_I
+ressemblances	3	5	1	 pA_I	pA_I
+simplement	3	6	1	 pA_I	pA_I
+il	2	3	30	 pA_I	pA_I
+y	3	3	2	 pA_I	pA_I
+a	4	5	3	 pA_I	pA_I
+petit	3	4	3	 pA_I	pA_I
+à	2	2	2	 pA_I	pA_I
+petit	5	7	4	 pA_I	pA_I
+une	3	7	2	 pA_I	pA_I
+rétraction	3	3	2	 pA_I	pA_I
+de	3	5	2	 pA_I	pA_I
+euh	1	2	30	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+l	2	3	2	 pA_I	pA_I
+espace	2	3	2	 pA_I	pA_I
+viticole	1	2	30	 pA_L	pA_L
+
+alors	3	3	2	 pA_B	pA_B
+quand	5	6	4	 pA_I	pA_I
+je	6	6	5	 pA_I	pA_I
+dis	5	5	4	 pA_I	pA_I
+espace	4	5	4	 pA_I	pA_I
+viticole	4	7	2	 pA_I	pA_I
+il	5	6	3	 pA_I	pA_I
+s	4	5	3	 pA_I	pA_I
+agit	4	5	3	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+communes	5	6	4	 pA_I	pA_I
+viticoles	4	7	3	 pA_I	pA_I
+qui	4	4	4	 pA_I	pA_I
+ont	3	4	2	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+exploitations	4	6	3	 pA_I	pA_I
+qui	2	3	2	 pA_I	pA_I
+gèrent	7	10	3	 pA_I	pA_I
+des	4	4	3	 pA_I	pA_I
+parcelles	4	5	3	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+vignes	5	7	2	 pA_I	pA_I
+que	4	4	4	 pA_I	pA_I
+ce	4	4	3	 pA_I	pA_I
+soit	3	4	2	 pA_I	pA_I
+dans	5	6	4	 pA_I	pA_I
+les	5	6	4	 pA_I	pA_I
+communes	6	8	4	 pA_I	pA_I
+ou	8	12	6	 pA_I	pA_I
+ailleurs	5	6	2	 pA_I	pA_I
+on	3	4	3	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+bien	3	3	2	 pA_I	pA_I
+d	2	3	2	 pA_L	pA_I
+accord	2	3	2	 pA_L	pA_L
+
+mais	3	4	3	 pA_B	pA_B
+malgré	4	4	2	 pA_I	pA_I
+tout	6	7	5	 pA_I	pA_I
+on	4	5	3	 pA_I	pA_I
+est	3	4	3	 pA_I	pA_I
+loin	6	8	3	 pA_I	pA_I
+du	3	4	2	 pA_I	pA_I
+modèle	4	7	2	 pA_I	pA_I
+qu	2	2	2	 pA_I	pA_I
+on	2	2	2	 pA_I	pA_I
+vous	2	2	2	 pA_I	pA_I
+présente	4	5	2	 pA_I	pA_I
+régulièrement	3	5	2	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+vignobles	2	3	2	 pA_I	pA_I
+français	3	3	2	 pA_I	pA_I
+hein	 NA	 NA	 NA	 pA_I	pA_I
+vous	2	2	1	 pA_I	pA_I
+comprenez	2	3	1	 pA_I	pA_I
+où	2	2	2	 pA_I	pA_I
+on	1	2	1	 pA_I	pA_I
+réduit	2	3	1	 pA_I	pA_I
+en	1	2	1	 pA_I	pA_I
+fait	3	3	1	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+vigne	3	3	2	 pA_I	pA_I
+à	2	2	2	 pA_I	pA_I
+très	2	2	1	 pA_I	pA_I
+peu	2	2	1	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+choses	1	1	29	 pA_I	pA_I
+ce	6	7	6	 pA_I	pA_I
+que	7	8	6	 pA_I	pA_I
+l	6	7	6	 pA_I	pA_I
+on	6	7	6	 pA_I	pA_I
+voit	6	7	5	 pA_I	pA_I
+ici	4	5	2	 pA_I	pA_I
+très	6	6	6	 pA_I	pA_I
+nettement	5	6	5	 pA_I	pA_I
+en	3	4	3	 pA_I	pA_I
+creux	4	5	2	 pA_I	pA_I
+ce	2	2	2	 pA_I	pA_I
+sont	2	3	2	 pA_I	pA_I
+les	1	1	1	 pA_I	pA_I
+régions	4	6	2	 pA_I	pA_I
+de	6	6	6	 pA_I	pA_I
+montagnes	5	6	3	 pA_I	pA_I
+et	4	5	3	 pA_I	pA_I
+également	3	4	2	 pA_I	pA_I
+aussi	5	10	3	 pA_I	pA_I
+euh	5	13	3	 pA_I	pA_I
+c	4	5	4	 pA_I	pA_I
+est	4	5	4	 pA_I	pA_I
+en	3	3	2	 pA_I	pA_I
+gros	4	5	2	 pA_I	pA_I
+toute	5	6	4	 pA_I	pA_I
+la	3	4	3	 pA_I	pA_I
+France	5	5	4	 pA_I	pA_I
+du	4	4	4	 pA_I	pA_I
+nord	4	4	2	 pA_I	pA_I
+ouest	2	4	2	 pA_L	pA_I
+encore	8	8	7	 pA_B	pA_I
+que	5	7	3	 pA_I	pA_I
+si	3	3	2	 pA_I	pA_I
+vous	3	3	2	 pA_I	pA_I
+regardez	5	6	3	 pA_I	pA_I
+bien	2	3	1	 pA_I	pA_I
+ici	3	4	3	 pA_I	pA_I
+sur	3	4	2	 pA_I	pA_I
+cette	2	2	1	 pA_I	pA_I
+carte	3	5	1	 pA_I	pA_I
+moi	3	4	2	 pA_I	pA_I
+j	3	4	2	 pA_I	pA_I
+ai	3	4	2	 pA_I	pA_I
+comme	6	7	5	 pA_I	pA_I
+le	4	5	3	 pA_I	pA_I
+sentiment	4	5	3	 pA_I	pA_I
+que	2	3	29	 pA_I	pA_I
+ici	4	10	3	 pA_I	pA_I
+apparaît	2	3	30	 pA_I	pA_I
+une	2	3	1	 pA_I	pA_I
+ancienne	4	5	3	 pA_I	pA_I
+limite	4	5	3	 pA_I	pA_I
+géo	3	3	2	 pA_I	pA_I
+historique	2	3	1	 pA_I	pA_I
+de	3	5	2	 pA_I	pA_I
+la	2	2	29	 pA_I	pA_I
+vigne	1	2	1	 pA_L	pA_I
+il	1	1	1	 pA_B	pA_I
+faudrait	2	3	2	 pA_I	pA_I
+pouvoir	2	2	1	 pA_I	pA_I
+vérifier	2	5	1	 pA_I	pA_I
+dans	2	2	2	 pA_I	pA_I
+les	2	2	1	 pA_I	pA_I
+archives	1	2	1	 pA_L	pA_L
+
+mais	2	3	2	 pA_B	pA_B
+véritablement	3	4	2	 pA_I	pA_I
+là	3	4	3	 pA_I	pA_I
+euh	1	2	1	 pA_I	pA_I
+enfin	1	2	1	 pA_I	pA_I
+bien	3	3	2	 pA_I	pA_I
+sûr	3	4	2	 pA_I	pA_I
+par	4	4	3	 pA_I	pA_I
+l	3	4	2	 pA_I	pA_I
+intermédiaire	3	4	2	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+vallées	4	7	1	 pA_I	pA_I
+hein	3	4	2	 pA_I	pA_I
+on	2	2	2	 pA_I	pA_I
+est	1	2	1	 pA_I	pA_I
+bien	1	2	1	 pA_I	pA_I
+d	3	5	1	 pA_I	pA_I
+accord	3	5	1	 pA_I	pA_I
+ici	3	3	2	 pA_I	pA_I
+c	7	21	2	 pA_I	pA_I
+est	7	21	2	 pA_I	pA_I
+les	2	2	1	 pA_I	pA_I
+fronts	2	2	2	 pA_I	pA_I
+de	2	2	1	 pA_I	pA_I
+Cuesta	3	4	1	 pA_I	pA_I
+mais	2	2	2	 pA_I	pA_I
+quand	4	4	4	 pA_I	pA_I
+même	4	5	3	 pA_I	pA_I
+ici	2	3	29	 pA_I	pA_I
+regardez	2	3	1	 pA_I	pA_I
+bien	2	3	2	 pA_I	pA_I
+hein	2	2	2	 pA_I	pA_I
+ça	3	3	3	 pA_I	pA_I
+y	2	3	2	 pA_I	pA_I
+fait	3	3	3	 pA_I	pA_I
+un	2	3	2	 pA_I	pA_I
+petit	2	2	2	 pA_I	pA_I
+peu	2	2	1	 pA_I	pA_I
+penser	1	2	29	 pA_I	pA_I
+bon	1	1	1	 pA_L	pA_I
+donc	3	4	2	 pA_B	pA_I
+et	 NA	 NA	 NA	 pA_I	pA_I
+simplement	2	3	2	 pA_I	pA_I
+ici	3	4	1	 pA_I	pA_I
+là	2	4	2	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+sur	3	3	2	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+carte	3	3	2	 pA_I	pA_I
+de	2	2	1	 pA_I	pA_I
+deux	1	2	1	 pA_I	pA_I
+mille	3	4	2	 pA_I	pA_I
+c	3	3	2	 pA_I	pA_I
+est	3	3	2	 pA_I	pA_I
+en	2	2	1	 pA_I	pA_I
+gros	2	4	1	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+à	2	2	2	 pA_I	pA_I
+peu	3	4	2	 pA_I	pA_I
+près	3	4	3	 pA_I	pA_I
+la	2	3	2	 pA_I	pA_I
+même	2	2	1	 pA_I	pA_I
+carte	4	4	2	 pA_I	pA_I
+mais	4	10	2	 pA_I	pA_I
+c	2	2	1	 pA_I	pA_I
+est	2	2	1	 pA_I	pA_I
+bien	2	3	1	 pA_I	pA_I
+réduit	2	3	1	 pA_L	pA_I
+comment	8	9	6	 pA_B	pA_I
+expliquer	5	9	3	 pA_I	pA_I
+ce	4	5	4	 pA_I	pA_I
+hiatus	4	5	3	 pA_I	pA_I
+entre	3	5	1	 pA_I	pA_I
+ces	3	4	3	 pA_I	pA_I
+deux	3	3	2	 pA_I	pA_I
+cartes	4	5	3	 pA_I	pA_I
+qu	3	4	2	 pA_I	pA_I
+on	3	4	2	 pA_I	pA_I
+vous	3	3	2	 pA_I	pA_I
+présente	2	2	30	 pA_L	pA_L
+
+hé	2	2	2	 pA_B	pA_B
+bien	3	4	2	 pA_I	pA_I
+c	2	3	2	 pA_I	pA_I
+est	2	3	2	 pA_I	pA_I
+pas	3	3	3	 pA_I	pA_I
+très	2	3	2	 pA_I	pA_I
+compliqué	3	4	1	 pA_I	pA_I
+l	2	3	1	 pA_I	pA_I
+explication	2	3	1	 pA_I	pA_I
+essentielle	3	4	1	 pA_I	pA_I
+elle	2	3	2	 pA_I	pA_I
+est	2	2	2	 pA_I	pA_I
+là	3	3	2	 pA_L	pA_L
+
+ce	3	3	2	 pA_B	pA_B
+sont	4	4	3	 pA_I	pA_I
+les	3	3	2	 pA_I	pA_I
+vins	4	5	2	 pA_I	pA_I
+de	5	5	4	 pA_I	pA_I
+consommation	4	6	3	 pA_I	pA_I
+courante	3	4	1	 pA_I	pA_I
+très	5	6	4	 pA_I	pA_I
+présents	3	4	2	 pA_I	pA_I
+très	4	4	3	 pA_I	pA_I
+prégnants	3	4	30	 pA_I	pA_I
+euh	3	5	2	 pA_I	pA_I
+au	2	3	29	 pA_I	pA_I
+cours	4	5	3	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+années	2	2	2	 pA_I	pA_I
+cinquante	6	22	1	 pA_I	pA_I
+et	7	8	5	 pA_I	pA_I
+qui	5	6	5	 pA_I	pA_I
+restent	7	8	4	 pA_I	pA_I
+encore	6	8	3	 pA_I	pA_I
+quand	3	5	2	 pA_I	pA_I
+même	3	5	2	 pA_I	pA_I
+euh	2	2	29	 pA_I	pA_I
+très	4	5	1	 pA_I	pA_I
+présents	3	3	2	 pA_I	pA_I
+également	2	4	2	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+en	2	3	2	 pA_I	pA_I
+deux	2	3	2	 pA_I	pA_I
+mille	1	2	30	 pA_L	pA_L
+
+bien	2	2	1	 pA_U	pA_U
+
+nous	4	4	3	 pA_B	pA_B
+a-	4	4	3	 pA_I	pA_I
+nous	2	4	30	 pA_I	pA_I
+sommes	3	3	2	 pA_I	pA_I
+là	3	5	2	 pA_I	pA_I
+en	3	3	2	 pA_I	pA_I
+présence	3	4	2	 pA_I	pA_I
+d	2	4	29	 pA_I	pA_I
+un	2	4	29	 pA_I	pA_I
+formidable	3	5	2	 pA_I	pA_I
+exemple	3	4	29	 pA_I	pA_I
+de	3	5	2	 pA_I	pA_I
+résilience	3	6	2	 pA_I	pA_I
+spatiale	2	5	30	 pA_I	pA_I
+pour	4	4	2	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+vignes	3	4	1	 pA_I	pA_I
+d	2	3	1	 pA_I	pA_I
+autoconsommation	2	3	1	 pA_I	pA_I
+familiale	2	5	1	 pA_I	pA_I
+ou	4	6	3	 pA_I	pA_I
+même	3	5	2	 pA_I	pA_I
+pour	2	3	2	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+vignes	3	4	1	 pA_I	pA_I
+euh	2	2	29	 pA_I	pA_I
+pour	6	21	1	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+produisant	2	3	1	 pA_I	pA_I
+des	1	2	1	 pA_I	pA_I
+vins	3	4	2	 pA_I	pA_I
+à	2	2	2	 pA_I	pA_I
+la	1	2	1	 pA_I	pA_I
+vente	2	4	1	 pA_I	pA_I
+mais	1	2	1	 pA_I	pA_I
+enfin	3	4	1	 pA_I	pA_I
+donc	3	4	2	 pA_I	pA_I
+ça	3	3	2	 pA_I	pA_I
+veut	2	3	2	 pA_I	pA_I
+dire	4	5	2	 pA_I	pA_I
+qu	3	4	30	 pA_I	pA_I
+il	3	4	30	 pA_I	pA_I
+existerait	4	6	3	 pA_I	pA_I
+encore	4	5	3	 pA_I	pA_I
+toujours	4	5	3	 pA_I	pA_I
+de	3	3	3	 pA_I	pA_I
+nos	2	3	2	 pA_I	pA_I
+jours	3	5	2	 pA_I	pA_I
+euh	2	2	2	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+gens	3	4	1	 pA_I	pA_I
+qui	3	4	2	 pA_I	pA_I
+euh	2	3	2	 pA_I	pA_I
+euh	2	2	1	 pA_I	pA_I
+ou	2	3	1	 pA_I	pA_I
+bien	3	4	2	 pA_I	pA_I
+v-	1	2	30	 pA_I	pA_I
+euh	1	2	29	 pA_I	pA_I
+euh	 NA	 NA	 NA	 pA_I	pA_I
+boivent	4	5	2	 pA_I	pA_I
+du	3	3	2	 pA_I	pA_I
+vin	3	3	2	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+table	2	3	1	 pA_I	pA_I
+ou	4	7	2	 pA_I	pA_I
+bien	2	2	2	 pA_I	pA_I
+le	1	2	1	 pA_I	pA_I
+vendre	1	2	1	 pA_L	pA_L
+
+il	6	6	6	 pA_B	pA_B
+était	6	8	5	 pA_I	pA_I
+déjà	5	6	4	 pA_I	pA_I
+très	6	6	5	 pA_I	pA_I
+tard	7	9	6	 pA_I	pA_I
+lorsqu	5	6	4	 pA_I	pA_I
+elle	5	6	4	 pA_I	pA_I
+s	5	7	4	 pA_I	pA_I
+endormit	5	7	4	 pA_I	pA_I
+sur	10	22	4	 pA_I	pA_I
+son	8	20	4	 pA_I	pA_I
+doux	4	6	4	 pA_I	pA_I
+lit	6	6	5	 pA_I	pA_I
+de	4	6	4	 pA_I	pA_I
+mousse	5	20	3	 pA_L	pA_I
+la	4	4	4	 pA_B	pA_I
+maman	4	5	3	 pA_I	pA_I
+se	4	6	4	 pA_I	pA_I
+retrouva	5	22	3	 pA_I	pA_I
+toute	5	5	5	 pA_I	pA_I
+seule	4	4	3	 pA_I	pA_I
+là	4	4	3	 pA_I	pA_I
+haut	3	4	3	 pA_I	pA_I
+dans	4	4	3	 pA_I	pA_I
+son	4	4	4	 pA_I	pA_I
+château	4	5	4	 pA_I	pA_I
+aux	4	4	3	 pA_I	pA_I
+tours	9	22	4	 pA_I	pA_I
+dorées	3	4	2	 pA_L	pA_I
+assise	9	19	6	 pA_B	pA_I
+près	5	5	4	 pA_I	pA_I
+de	4	4	3	 pA_I	pA_I
+la	3	4	3	 pA_I	pA_I
+fenêtre	5	22	3	 pA_I	pA_I
+elle	4	4	4	 pA_I	pA_I
+attendait	5	7	4	 pA_I	pA_I
+le	3	4	3	 pA_I	pA_I
+retour	7	22	3	 pA_I	pA_I
+de	3	4	3	 pA_I	pA_I
+Marine	4	5	3	 pA_I	pA_I
+en	4	5	3	 pA_I	pA_I
+observant	5	21	3	 pA_I	pA_I
+la	4	4	3	 pA_I	pA_I
+lune	3	4	3	 pA_L	pA_I
+elle	5	6	5	 pA_B	pA_I
+se	5	6	5	 pA_I	pA_I
+sentait	6	7	4	 pA_I	pA_I
+triste	11	20	6	 pA_I	pA_I
+et	3	5	1	 pA_I	pA_I
+abandonnée	4	5	3	 pA_L	pA_L
+
+que	8	8	8	 pA_B	pA_B
+peut	7	8	5	 pA_I	pA_I
+bien	5	6	5	 pA_I	pA_I
+faire	6	7	5	 pA_I	pA_I
+Marine	5	5	4	 pA_I	pA_I
+en	4	4	4	 pA_I	pA_I
+ce	4	4	4	 pA_I	pA_I
+moment	4	4	3	 pA_I	pA_I
+se	4	4	3	 pA_I	pA_I
+demanda	3	4	3	 pA_I	pA_I
+elle	4	4	3	 pA_L	pA_L
+
+elle	4	5	3	 pA_B	pA_B
+enfila	5	8	2	 pA_I	pA_I
+son	7	8	3	 pA_I	pA_I
+manteau	5	7	4	 pA_I	pA_I
+et	4	4	3	 pA_I	pA_I
+s	5	6	4	 pA_I	pA_I
+envola	5	6	4	 pA_I	pA_I
+en	4	5	2	 pA_I	pA_I
+direction	5	7	2	 pA_I	pA_I
+du	3	4	3	 pA_I	pA_I
+bois	5	6	4	 pA_I	pA_I
+des	5	20	4	 pA_I	pA_I
+sorcières	8	22	30	 pA_L	pA_I
+après	9	11	5	 pA_B	pA_I
+de	6	10	5	 pA_I	pA_I
+longues	7	9	5	 pA_I	pA_I
+recherches	6	15	3	 pA_I	pA_I
+la	5	6	4	 pA_I	pA_I
+maman	4	7	3	 pA_I	pA_I
+découvrit	5	7	4	 pA_I	pA_I
+la	5	6	3	 pA_I	pA_I
+cabane	4	5	3	 pA_I	pA_I
+de	4	5	4	 pA_I	pA_I
+sa	3	3	3	 pA_I	pA_I
+fille	4	20	29	 pA_L	pA_I
+Marine	3	4	2	 pA_B	pA_I
+dormait	3	3	2	 pA_L	pA_I
+elle	5	5	4	 pA_B	pA_I
+puait	7	7	7	 pA_I	pA_I
+et	6	7	4	 pA_I	pA_I
+ses	5	6	4	 pA_I	pA_I
+vêtements	6	19	4	 pA_I	pA_I
+déchirés	6	9	4	 pA_I	pA_I
+étaient	8	22	4	 pA_I	pA_I
+couverts	9	21	6	 pA_I	pA_I
+de	5	6	4	 pA_I	pA_I
+taches	8	20	4	 pA_I	pA_I
+mais	5	5	4	 pA_I	pA_I
+elle	4	4	4	 pA_I	pA_I
+avait	4	4	3	 pA_I	pA_I
+l	4	5	4	 pA_I	pA_I
+air	4	5	4	 pA_I	pA_I
+adorable	3	5	30	 pA_L	pA_I
+la	4	4	4	 pA_B	pA_I
+maman	5	8	4	 pA_I	pA_I
+se	5	6	4	 pA_I	pA_I
+glissa	4	6	3	 pA_I	pA_I
+sur	4	5	3	 pA_I	pA_I
+le	4	4	3	 pA_I	pA_I
+lit	4	5	3	 pA_I	pA_I
+de	4	5	3	 pA_I	pA_I
+mousse	4	5	3	 pA_I	pA_I
+aux	4	4	4	 pA_I	pA_I
+côtés	6	7	5	 pA_I	pA_I
+de	4	5	3	 pA_I	pA_I
+Marine	4	6	3	 pA_I	pA_I
+et	4	4	3	 pA_I	pA_I
+l	4	5	4	 pA_I	pA_I
+embrassa	4	5	4	 pA_I	pA_I
+sur	9	20	4	 pA_I	pA_I
+la	4	4	3	 pA_I	pA_I
+joue	3	4	3	 pA_L	pA_I
+Marine	5	6	4	 pA_B	pA_I
+ouvrit	4	6	3	 pA_I	pA_I
+ses	8	20	4	 pA_I	pA_I
+yeux	4	5	4	 pA_I	pA_I
+gonflés	4	5	3	 pA_I	pA_I
+de	4	4	4	 pA_I	pA_I
+sommeil	3	5	3	 pA_L	pA_L
+
+ma-	6	6	5	 pA_B	pA_B
+maman	7	9	1	 pA_I	pA_I
+bredouilla	5	12	4	 pA_I	pA_I
+elle	4	5	4	 pA_L	pA_L
+
+tu	9	9	8	 pA_B	pA_B
+me	6	8	5	 pA_I	pA_I
+manques	7	16	5	 pA_I	pA_I
+lui	5	5	4	 pA_I	pA_I
+chuchota	4	6	30	 pA_I	pA_I
+sa	4	5	4	 pA_I	pA_I
+maman	1	4	1	 pA_L	pA_L
+
+si	8	8	8	 pA_B	pA_B
+tu	7	7	6	 pA_I	pA_I
+restais	6	7	5	 pA_I	pA_I
+dormir	5	6	4	 pA_I	pA_I
+dans	4	5	4	 pA_I	pA_I
+la	4	5	4	 pA_I	pA_I
+dans	4	4	4	 pA_I	pA_I
+ma	4	4	4	 pA_I	pA_I
+cabane	4	5	3	 pA_I	pA_I
+dit	4	4	3	 pA_I	pA_I
+Marine	4	4	3	 pA_I	pA_I
+en	3	4	3	 pA_I	pA_I
+souriant	3	4	3	 pA_L	pA_I
+et	4	4	3	 pA_B	pA_I
+c	5	5	4	 pA_I	pA_I
+est	5	5	4	 pA_I	pA_I
+ce	4	4	4	 pA_I	pA_I
+qu	1	3	30	 pA_I	pA_I
+elle	1	3	30	 pA_I	pA_I
+fit	 NA	 NA	 NA	 pA_L	pA_L
+
+le	4	4	3	 pA_B	pA_B
+lendemain	5	8	3	 pA_I	pA_I
+elles	4	4	3	 pA_I	pA_I
+sortirent	10	21	5	 pA_I	pA_I
+ensemble	7	10	4	 pA_I	pA_I
+à	3	4	3	 pA_I	pA_I
+bord	5	7	3	 pA_I	pA_I
+du	4	6	3	 pA_I	pA_I
+bateau	4	5	3	 pA_L	pA_I
+puis	11	21	6	 pA_B	pA_I
+Marine	5	7	3	 pA_I	pA_I
+apprit	7	11	5	 pA_I	pA_I
+à	5	5	4	 pA_I	pA_I
+sa	5	5	4	 pA_I	pA_I
+maman	4	5	3	 pA_I	pA_I
+à	6	6	5	 pA_I	pA_I
+rouler	5	5	4	 pA_I	pA_I
+à	5	5	4	 pA_I	pA_I
+pa-	5	5	5	 pA_I	pA_I
+puis	13	21	9	 pA_I	pA_I
+Marine	6	9	4	 pA_I	pA_I
+apprit	8	17	4	 pA_I	pA_I
+à	6	8	4	 pA_I	pA_I
+sa	11	22	4	 pA_I	pA_I
+maman	4	11	3	 pA_I	pA_I
+à	4	5	3	 pA_I	pA_I
+rouler	6	12	3	 pA_I	pA_I
+à	7	12	5	 pA_I	pA_I
+patins	3	5	2	 pA_L	pA_I
+elle	4	4	4	 pA_B	pA_I
+l	5	7	3	 pA_I	pA_I
+autorisa	5	7	3	 pA_I	pA_I
+même	4	6	3	 pA_I	pA_I
+à	5	6	4	 pA_I	pA_I
+s	4	5	3	 pA_I	pA_I
+asseoir	4	5	3	 pA_I	pA_I
+à	4	5	4	 pA_I	pA_I
+l	4	5	3	 pA_I	pA_I
+arrière	4	5	3	 pA_I	pA_I
+du	4	5	3	 pA_I	pA_I
+balai	3	3	2	 pA_L	pA_I
+elles	5	5	4	 pA_B	pA_I
+allèrent	6	9	4	 pA_I	pA_I
+ensuite	5	7	4	 pA_I	pA_I
+toutes	14	14	13	 pA_I	pA_I
+les	7	9	5	 pA_I	pA_I
+deux	6	8	5	 pA_I	pA_I
+prendre	6	8	5	 pA_I	pA_I
+le	5	5	4	 pA_I	pA_I
+thé	8	10	6	 pA_I	pA_I
+chez	15	20	7	 pA_I	pA_I
+les	7	7	6	 pA_I	pA_I
+sorcières	2	6	29	 pA_L	pA_I
+la	3	4	3	 pA_B	pA_I
+maman	3	5	3	 pA_I	pA_I
+trouva	6	21	3	 pA_I	pA_I
+cela	3	4	3	 pA_I	pA_I
+très	5	6	5	 pA_I	pA_I
+agréable	3	5	29	 pA_L	pA_I
+la	4	4	4	 pA_B	pA_I
+fille	14	22	9	 pA_I	pA_I
+et	7	10	5	 pA_I	pA_I
+la	5	5	4	 pA_I	pA_I
+mère	4	15	3	 pA_I	pA_I
+concoctèrent	6	8	4	 pA_I	pA_I
+ensemble	5	7	3	 pA_I	pA_I
+une	3	5	3	 pA_I	pA_I
+horrible	5	6	3	 pA_I	pA_I
+potion	4	6	3	 pA_I	pA_I
+verdâtre	5	18	3	 pA_I	pA_I
+qui	6	7	5	 pA_I	pA_I
+leur	5	5	4	 pA_I	pA_I
+fit	3	3	3	 pA_I	pA_I
+retrousser	8	22	5	 pA_I	pA_I
+le	4	5	4	 pA_I	pA_I
+nez	5	10	4	 pA_I	pA_I
+et	4	4	3	 pA_I	pA_I
+se	3	4	3	 pA_I	pA_I
+tordre	6	8	4	 pA_I	pA_I
+de	4	4	3	 pA_I	pA_I
+rire	2	3	29	 pA_L	pA_L
+
+la	9	9	8	 pA_B	pA_B
+vie	10	10	9	 pA_I	pA_I
+d	10	11	9	 pA_I	pA_I
+une	10	11	9	 pA_I	pA_I
+sorcière	10	11	9	 pA_I	pA_I
+est	10	12	8	 pA_I	pA_I
+tout	8	10	7	 pA_I	pA_I
+de	8	8	7	 pA_I	pA_I
+même	7	8	5	 pA_I	pA_I
+bien	8	10	4	 pA_I	pA_I
+amusante	6	11	1	 pA_I	pA_I
+se	5	6	4	 pA_I	pA_I
+dit	4	5	3	 pA_I	pA_I
+la	4	5	4	 pA_I	pA_I
+maman	4	4	4	 pA_L	pA_L
+
+ça	7	7	6	 pA_B	pA_B
+veut	6	6	6	 pA_I	pA_I
+dire	7	7	6	 pA_I	pA_I
+quoi	8	10	7	 pA_I	pA_I
+retrousser	5	19	1	 pA_I	pA_I
+des	6	6	5	 pA_I	pA_I
+nez	6	8	5	 pA_L	pA_L
+
+tu	 NA	 NA	 NA	 pA_B	pA_B
+sais	6	6	6	 pA_I	pA_I
+pas	5	6	5	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+que	6	6	5	 pA_I	pA_I
+ça	5	5	5	 pA_I	pA_I
+veut	5	5	4	 pA_I	pA_I
+dire	5	7	4	 pA_I	pA_I
+retrousser	6	8	5	 pA_I	pA_I
+le	5	5	5	 pA_I	pA_I
+nez	6	8	5	 pA_L	pA_I
+c	 NA	 NA	 NA	 pA_B	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+ça	5	5	5	 pA_I	pA_I
+retrousser	4	5	4	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+nez	1	1	1	 pA_L	pA_L
+
+le	4	5	4	 pA_B	pA_B
+nez	5	5	4	 pA_I	pA_I
+il	5	5	4	 pA_I	pA_I
+remonte	4	4	4	 pA_L	pA_L
+
+c	9	11	8	 pA_B	pA_B
+est	9	11	8	 pA_I	pA_I
+rigolo	7	9	5	 pA_L	pA_L
+
+retrousser	4	9	29	 pA_B	pA_B
+c	8	8	8	 pA_I	pA_I
+est	8	8	8	 pA_I	pA_I
+aller	4	5	4	 pA_I	pA_I
+vers	4	5	4	 pA_I	pA_I
+le	4	4	4	 pA_I	pA_I
+haut	4	4	3	 pA_L	pA_L
+
+comme	5	10	1	 pA_B	pA_B
+des	5	10	1	 pA_I	pA_I
+cochons	3	5	30	 pA_L	pA_L
+
+oh	4	5	4	 pA_B	pA_B
+mieux	4	5	4	 pA_I	pA_I
+que	1	1	1	 pA_I	pA_I
+les	1	1	30	 pA_I	pA_I
+cochons	14	23	4	 pA_L	pA_L
+
+Marine	5	6	4	 pA_B	pA_B
+je	5	6	4	 pA_I	pA_I
+t	9	12	6	 pA_I	pA_I
+autorise	9	12	6	 pA_I	pA_I
+à	5	6	4	 pA_I	pA_I
+devenir	6	9	4	 pA_I	pA_I
+sorcière	6	22	3	 pA_I	pA_I
+déclara	4	5	3	 pA_I	pA_I
+la	3	4	3	 pA_I	pA_I
+maman	3	3	3	 pA_L	pA_L
+
+Marine	4	6	3	 pA_B	pA_B
+lui	4	5	4	 pA_I	pA_I
+sauta	5	6	5	 pA_I	pA_I
+au	4	5	4	 pA_I	pA_I
+cou	3	3	3	 pA_L	pA_L
+
+je	7	7	7	 pA_B	pA_B
+serai	8	9	7	 pA_I	pA_I
+encore	8	9	6	 pA_I	pA_I
+de	5	7	4	 pA_I	pA_I
+temps	9	10	9	 pA_I	pA_I
+en	7	9	4	 pA_I	pA_I
+temps	4	5	4	 pA_I	pA_I
+une	5	6	4	 pA_I	pA_I
+fée	5	7	5	 pA_I	pA_I
+promit	4	5	4	 pA_I	pA_I
+Marine	4	4	4	 pA_L	pA_I
+je	6	7	5	 pA_B	pA_I
+porterai	8	21	5	 pA_I	pA_I
+alors	4	5	4	 pA_I	pA_I
+une	4	4	3	 pA_I	pA_I
+jolie	3	4	3	 pA_I	pA_I
+robe	3	6	29	 pA_I	pA_I
+je	5	6	4	 pA_I	pA_I
+mangerai	4	4	4	 pA_I	pA_I
+proprement	8	21	5	 pA_I	pA_I
+et	5	5	5	 pA_I	pA_I
+me	5	6	5	 pA_I	pA_I
+servirai	7	7	6	 pA_I	pA_I
+de	6	7	5	 pA_I	pA_I
+ma	5	5	4	 pA_I	pA_I
+baguette	4	6	1	 pA_I	pA_I
+magique	5	7	4	 pA_L	pA_L
+
+voilà	9	11	6	 pA_B	pA_B
+qui	8	9	7	 pA_I	pA_I
+est	5	7	3	 pA_I	pA_I
+bien	3	5	3	 pA_I	pA_I
+dit	4	5	4	 pA_I	pA_I
+la	4	4	4	 pA_I	pA_I
+maman	4	4	3	 pA_I	pA_I
+amusée	3	4	3	 pA_L	pA_L
+
+mais	5	5	5	 pA_B	pA_B
+pour	6	6	6	 pA_I	pA_I
+le	6	6	5	 pA_I	pA_I
+moment	5	8	4	 pA_I	pA_I
+je	6	7	6	 pA_I	pA_I
+suis	8	9	6	 pA_I	pA_I
+une	9	10	8	 pA_I	pA_I
+sorcière	8	22	6	 pA_I	pA_I
+claironna	4	6	4	 pA_I	pA_I
+Marine	4	4	4	 pA_L	pA_L
+
+elle	3	5	3	 pA_B	pA_B
+attrapa	5	8	3	 pA_I	pA_I
+son	12	21	8	 pA_I	pA_I
+balai	5	8	4	 pA_I	pA_I
+et	3	4	2	 pA_I	pA_I
+disparut	4	6	3	 pA_I	pA_I
+en	8	9	7	 pA_I	pA_I
+riant	6	11	4	 pA_I	pA_I
+entre	11	17	8	 pA_I	pA_I
+les	6	8	4	 pA_I	pA_I
+arbres	3	4	3	 pA_L	pA_I
+et	6	7	5	 pA_B	pA_I
+il	7	7	6	 pA_I	pA_I
+en	7	7	7	 pA_I	pA_I
+est	7	7	7	 pA_I	pA_I
+toujours	8	9	7	 pA_I	pA_I
+ainsi	7	8	7	 pA_I	pA_I
+aujourd	5	7	3	 pA_I	pA_I
+hui	5	7	3	 pA_L	pA_I
+parfois	7	8	6	 pA_B	pA_I
+Marine	7	8	6	 pA_I	pA_I
+est	5	6	4	 pA_I	pA_I
+une	5	5	5	 pA_I	pA_I
+fée	6	12	4	 pA_I	pA_I
+elle	6	6	5	 pA_I	pA_I
+enfile	7	8	6	 pA_I	pA_I
+une	7	7	6	 pA_I	pA_I
+robe	6	6	6	 pA_I	pA_I
+de	6	6	5	 pA_I	pA_I
+fête	7	18	5	 pA_I	pA_I
+agite	6	8	5	 pA_I	pA_I
+sa	6	7	5	 pA_I	pA_I
+baguette	4	6	3	 pA_I	pA_I
+et	4	6	3	 pA_I	pA_I
+dort	4	6	2	 pA_I	pA_I
+dans	4	5	3	 pA_I	pA_I
+le	4	4	3	 pA_I	pA_I
+château	8	21	4	 pA_I	pA_I
+aux	4	4	3	 pA_I	pA_I
+tours	9	22	5	 pA_I	pA_I
+dorées	4	5	3	 pA_L	pA_I
+parfois	6	20	2	 pA_B	pA_I
+elle	4	6	3	 pA_I	pA_I
+est	3	3	3	 pA_I	pA_I
+une	2	3	29	 pA_I	pA_I
+sorcière	6	22	29	 pA_I	pA_I
+elle	4	4	3	 pA_I	pA_I
+habite	4	5	3	 pA_I	pA_I
+alors	5	6	4	 pA_I	pA_I
+dans	3	5	3	 pA_I	pA_I
+le	3	3	3	 pA_I	pA_I
+bois	4	5	3	 pA_I	pA_I
+et	3	4	3	 pA_I	pA_I
+vole	4	5	3	 pA_I	pA_I
+sur	4	4	3	 pA_I	pA_I
+son	3	4	3	 pA_I	pA_I
+balai	3	4	2	 pA_L	pA_I
+ces	5	6	5	 pA_B	pA_I
+jours	4	5	3	 pA_I	pA_I
+là	5	15	3	 pA_I	pA_I
+sa	9	15	5	 pA_I	pA_I
+maman	4	5	3	 pA_I	pA_I
+vient	4	5	3	 pA_I	pA_I
+la	4	4	4	 pA_I	pA_I
+rejoindre	3	4	3	 pA_I	pA_I
+pour	4	4	3	 pA_I	pA_I
+dormir	4	5	3	 pA_I	pA_I
+dans	4	4	3	 pA_I	pA_I
+la	4	4	3	 pA_I	pA_I
+cabane	1	4	29	 pA_L	pA_I
+la	5	5	4	 pA_B	pA_I
+maman	5	6	4	 pA_I	pA_I
+adore	5	6	4	 pA_I	pA_I
+sa	6	20	5	 pA_I	pA_I
+fille	8	23	3	 pA_I	pA_I
+et	4	4	4	 pA_I	pA_I
+la	4	4	3	 pA_I	pA_I
+fille	9	19	4	 pA_I	pA_I
+adore	3	5	29	 pA_I	pA_I
+sa	6	22	3	 pA_I	pA_I
+maman	3	4	2	 pA_L	pA_I
+Marine	7	8	5	 pA_B	pA_I
+n	5	6	5	 pA_I	pA_I
+est	5	6	5	 pA_I	pA_I
+ni	7	8	5	 pA_I	pA_I
+vraiment	7	8	6	 pA_I	pA_I
+fée	8	10	5	 pA_I	pA_I
+ni	7	11	5	 pA_I	pA_I
+tout	11	12	10	 pA_I	pA_I
+à	9	11	8	 pA_I	pA_I
+fait	13	21	7	 pA_I	pA_I
+sorcière	4	8	3	 pA_L	pA_I
+c	5	6	4	 pA_B	pA_I
+est	5	6	4	 pA_I	pA_I
+une	6	6	5	 pA_I	pA_I
+fée	7	8	5	 pA_I	pA_I
+sorcière	6	21	4	 pA_I	pA_I
+une	5	5	4	 pA_I	pA_I
+fée	8	10	5	 pA_I	pA_I
+sorcière	7	11	4	 pA_I	pA_I
+très	8	9	7	 pA_I	pA_I
+heureuse	4	7	1	 pA_L	pA_L
+
+et	7	7	6	 pA_B	pA_B
+voilà	6	13	3	 pA_I	pA_I
+c	10	20	6	 pA_I	pA_I
+est	10	20	6	 pA_I	pA_I
+fini	10	22	30	 pA_L	pA_L
+
+et	8	10	3	 pA_B	pA_B
+voilà	4	6	1	 pA_I	pA_I
+c	10	15	9	 pA_I	pA_I
+est	10	15	9	 pA_I	pA_I
+fini	9	17	6	 pA_L	pA_I
+c	10	11	10	 pA_B	pA_I
+est	10	11	10	 pA_I	pA_I
+fini	11	17	10	 pA_L	pA_L
+
+okay	16	16	16	 pA_B	pA_B
+j	21	22	21	 pA_I	pA_I
+arrive	21	22	21	 pA_L	pA_L
+
+c	20	21	18	 pA_B	pA_B
+était	20	21	18	 pA_I	pA_I
+un	4	5	3	 pA_I	pA_I
+peu	6	7	5	 pA_I	pA_I
+long	10	12	7	 pA_I	pA_I
+hein	7	9	6	 pA_L	pA_L
+
+non	 NA	 NA	 NA	 pA_B	pA_B
+allez	 NA	 NA	 NA	 pA_L	pA_L
+
+non	5	6	4	 pA_B	pA_B
+c	5	6	5	 pA_I	pA_I
+était	5	6	5	 pA_I	pA_I
+pas	5	5	5	 pA_I	pA_I
+trop	5	6	4	 pA_I	pA_I
+long	6	7	5	 pA_L	pA_L
+
+alors	 NA	 NA	 NA	 pA_U	pA_U
+
+oui	30	1	29	 pA_U	pA_U
+
+on	1	1	1	 pA_B	pA_B
+y	1	1	1	 pA_I	pA_I
+est	1	2	30	 pA_L	pA_L
+
+oui	1	2	30	 pA_U	pA_U
+
+hm	1	1	30	 pA_U	pA_U
+
+Bertrand	2	3	1	 pA_B	pA_B
+Lacoste	2	3	1	 pA_L	pA_L
+
+mais	1	1	30	 pA_B	pA_B
+enfin	1	1	30	 pA_I	pA_I
+moi	1	2	1	 pA_I	pA_I
+je	1	2	30	 pA_I	pA_I
+je	30	30	29	 pA_I	pA_I
+je	29	29	29	 pA_I	pA_I
+suis	 NA	 NA	 NA	 pA_I	pA_I
+toujours	1	1	30	 pA_I	pA_I
+un	30	30	29	 pA_I	pA_I
+peu	30	30	29	 pA_I	pA_I
+un	1	2	29	 pA_I	pA_I
+peu	1	1	29	 pA_I	pA_I
+surpris	1	2	29	 pA_I	pA_I
+que	1	2	30	 pA_I	pA_I
+on	30	30	30	 pA_I	pA_I
+on	30	1	29	 pA_I	pA_I
+on	30	30	29	 pA_I	pA_I
+banalise	1	1	30	 pA_I	pA_I
+comme	30	1	30	 pA_I	pA_I
+ça	1	1	30	 pA_I	pA_I
+euh	30	1	29	 pA_I	pA_I
+le	30	30	29	 pA_I	pA_I
+l	1	18	29	 pA_I	pA_I
+abstention	1	18	29	 pA_I	pA_I
+euh	1	1	29	 pA_I	pA_I
+bon	1	1	29	 pA_I	pA_I
+oh	30	1	29	 pA_I	pA_I
+ben	30	1	30	 pA_I	pA_I
+euh	30	1	30	 pA_I	pA_I
+finalement	1	1	29	 pA_I	pA_I
+euh	30	1	29	 pA_I	pA_I
+euh	30	1	30	 pA_I	pA_I
+près	30	1	30	 pA_I	pA_I
+de	1	1	30	 pA_I	pA_I
+cinquante	1	1	30	 pA_I	pA_I
+pour	1	1	30	 pA_I	pA_I
+cent	30	30	30	 pA_I	pA_I
+d	30	1	30	 pA_I	pA_I
+abstent-	30	1	30	 pA_I	pA_I
+euh	1	1	30	 pA_I	pA_I
+d	1	1	30	 pA_I	pA_I
+abstention	1	1	30	 pA_I	pA_I
+c	1	1	30	 pA_I	pA_I
+est	1	1	30	 pA_I	pA_I
+c	30	1	30	 pA_I	pA_I
+est	30	1	30	 pA_I	pA_I
+pas	1	1	30	 pA_I	pA_I
+si	1	1	1	 pA_I	pA_I
+grave	30	1	30	 pA_L	pA_I
+mais	1	1	1	 pA_B	pA_I
+si	6	7	1	 pA_I	pA_I
+c	1	6	1	 pA_I	pA_I
+est	1	6	1	 pA_I	pA_I
+grave	1	1	30	 pA_L	pA_I
+bien	1	1	29	 pA_B	pA_I
+sûr	2	3	1	 pA_I	pA_I
+que	3	5	29	 pA_I	pA_I
+si	5	5	4	 pA_I	pA_I
+c	3	5	2	 pA_I	pA_I
+est	3	5	2	 pA_I	pA_I
+grave	2	2	1	 pA_L	pA_I
+alors	1	2	30	 pA_B	pA_I
+le	3	3	2	 pA_I	pA_I
+le	3	3	2	 pA_I	pA_I
+fait	1	3	30	 pA_I	pA_I
+qu	30	30	30	 pA_I	pA_I
+il	30	30	30	 pA_I	pA_I
+y	2	3	2	 pA_I	pA_I
+en	2	2	2	 pA_I	pA_I
+ait	2	2	1	 pA_I	pA_I
+plus	2	4	29	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+d	1	1	1	 pA_I	pA_I
+autres	1	1	1	 pA_I	pA_I
+moments	3	6	1	 pA_I	pA_I
+euh	1	1	30	 pA_I	pA_I
+c	1	1	30	 pA_I	pA_I
+est	1	1	30	 pA_I	pA_I
+c	1	4	30	 pA_I	pA_I
+est	1	4	30	 pA_I	pA_I
+ça	1	1	30	 pA_I	pA_I
+ça	1	1	30	 pA_I	pA_I
+ne	1	1	1	 pA_I	pA_I
+permet	1	2	30	 pA_I	pA_I
+pas	4	5	4	 pA_I	pA_I
+de	1	1	30	 pA_I	pA_I
+de	1	1	30	 pA_I	pA_I
+réduire	1	2	29	 pA_I	pA_I
+le	30	30	29	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+surprise	1	3	30	 pA_I	pA_I
+qu	1	1	30	 pA_I	pA_I
+on	1	1	30	 pA_I	pA_I
+peut	1	1	30	 pA_I	pA_I
+avoir	3	5	1	 pA_I	pA_I
+par	1	1	29	 pA_I	pA_I
+rapport	2	18	29	 	pA_I
+au	1	1	1	 pA_I	pA_I
+désintérêt	3	6	30	 pA_I	pA_I
+d	1	1	30	 pA_I	pA_I
+une	1	1	30	 pA_I	pA_I
+partie	1	2	29	 pA_I	pA_I
+quand	1	1	30	 pA_I	pA_I
+même	1	1	30	 pA_I	pA_I
+importante	2	3	29	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+la	1	1	30	 pA_I	pA_I
+population	2	5	30	 pA_I	pA_I
+par	4	4	4	 pA_I	pA_I
+rapport	1	3	29	 pA_I	pA_I
+à	1	2	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+enjeux	2	5	30	 pA_I	pA_I
+qui	 NA	 NA	 NA	 pA_I	pA_I
+sont	3	4	2	 pA_I	pA_I
+la	1	2	1	 pA_I	pA_I
+vie	2	3	1	 pA_I	pA_I
+publique	2	4	30	 pA_I	pA_I
+et	1	1	30	 pA_I	pA_I
+la	30	1	30	 pA_I	pA_I
+vie	1	1	1	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+cité	2	4	30	 pA_I	pA_I
+l	1	1	1	 pA_I	pA_I
+intérêt	1	1	1	 pA_I	pA_I
+général	2	4	29	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+l	2	5	29	 pA_I	pA_I
+offre	2	5	29	 pA_I	pA_I
+l	2	4	1	 pA_I	pA_I
+offre	2	4	1	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+solutions	3	4	1	 pA_I	pA_I
+qu	7	18	1	 pA_I	pA_I
+on	7	18	1	 pA_I	pA_I
+peut	1	1	1	 pA_I	pA_I
+avoir	1	3	1	 pA_I	pA_I
+par	1	3	30	 pA_I	pA_I
+rapport	1	1	30	 pA_I	pA_I
+à	30	30	30	 pA_I	pA_I
+leurs	1	1	30	 pA_I	pA_I
+problèmes	2	21	29	 pA_L	pA_I
+et	1	1	30	 pA_B	pA_I
+je	1	1	30	 pA_I	pA_I
+pense	2	2	29	 pA_I	pA_I
+que	1	1	30	 pA_I	pA_I
+l-	1	1	30	 pA_I	pA_I
+aujourd	2	5	1	 pA_I	pA_I
+hui	2	5	1	 pA_I	pA_I
+l	2	4	30	 pA_I	pA_I
+offre	2	4	30	 pA_I	pA_I
+de	2	2	1	 pA_I	pA_I
+solutions	3	6	1	 pA_I	pA_I
+que	2	3	2	 pA_I	pA_I
+ce	1	2	30	 pA_I	pA_I
+soit	2	2	30	 pA_I	pA_I
+celle	1	1	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+l	1	2	30	 pA_I	pA_I
+UMP	1	2	30	 pA_I	pA_I
+ou	1	1	30	 pA_I	pA_I
+celle	1	1	30	 pA_I	pA_I
+du	29	30	29	 pA_I	pA_I
+PS	3	6	1	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+gens	2	2	2	 pA_I	pA_I
+n	1	2	30	 pA_I	pA_I
+arrivent	1	2	30	 pA_I	pA_I
+plus	6	6	6	 pA_I	pA_I
+trop	14	22	4	 pA_I	pA_I
+à	4	4	3	 pA_I	pA_I
+la	2	3	2	 pA_I	pA_I
+différencier	1	2	30	 pA_I	pA_I
+hein	1	2	30	 pA_I	pA_I
+euh	1	1	30	 pA_I	pA_I
+ils	1	1	1	 pA_I	pA_I
+se	2	2	1	 pA_I	pA_I
+tournent	1	3	30	 pA_I	pA_I
+vers	1	1	30	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+vers	1	2	1	 pA_I	pA_I
+quelque	1	2	1	 pA_I	pA_I
+chose	1	2	30	 pA_I	pA_I
+qui	1	1	30	 pA_I	pA_I
+leur	1	1	29	 pA_I	pA_I
+paraît	3	19	1	 pA_I	pA_I
+radical	1	2	30	 pA_I	pA_I
+parce	1	1	30	 pA_I	pA_I
+que	1	1	30	 pA_I	pA_I
+c	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+magique	1	2	30	 pA_I	pA_I
+parce	1	2	30	 pA_I	pA_I
+que	1	2	30	 pA_I	pA_I
+parce	1	2	30	 pA_I	pA_I
+que	1	2	30	 pA_I	pA_I
+parce	1	2	29	 pA_I	pA_I
+qu	1	2	29	 pA_I	pA_I
+on	1	2	29	 pA_I	pA_I
+n	2	3	2	 pA_I	pA_I
+a	2	3	2	 pA_I	pA_I
+encore	2	3	29	 pA_I	pA_I
+pas	2	2	29	 pA_I	pA_I
+essayé	1	2	1	 pA_I	pA_I
+ça	2	2	1	 pA_I	pA_I
+et	2	2	1	 pA_I	pA_I
+donc	2	2	1	 pA_I	pA_I
+le	5	5	5	 pA_I	pA_I
+le	4	5	3	 pA_I	pA_I
+coup	5	6	4	 pA_I	pA_I
+de	3	4	3	 pA_I	pA_I
+baguette	3	4	2	 pA_I	pA_I
+magique	3	3	2	 pA_I	pA_I
+du	2	2	1	 pA_I	pA_I
+FN	3	5	2	 pA_I	pA_I
+va	5	8	1	 pA_I	pA_I
+va	14	19	1	 pA_I	pA_I
+va	3	16	1	 pA_I	pA_I
+peut	1	3	29	 pA_I	pA_I
+être	3	3	2	 pA_I	pA_I
+va	2	2	1	 pA_I	pA_I
+peut	3	4	2	 pA_I	pA_I
+être	6	21	2	 pA_I	pA_I
+euh	1	2	30	 pA_I	pA_I
+euh	5	9	3	 pA_I	pA_I
+ça	5	6	4	 pA_I	pA_I
+coûte	4	6	3	 pA_I	pA_I
+rien	4	5	3	 pA_I	pA_I
+euh	5	5	4	 pA_L	pA_L
+
+ça	1	1	1	 pA_B	pA_B
+coûte	2	4	30	 pA_I	pA_I
+rien	4	5	4	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+qu	4	4	3	 pA_I	pA_I
+un	4	4	3	 pA_I	pA_I
+siège	3	4	3	 pA_I	pA_I
+de	3	3	3	 pA_I	pA_I
+député	3	5	2	 pA_I	pA_I
+si	3	4	2	 pA_I	pA_I
+c	2	2	1	 pA_I	pA_I
+est	2	2	1	 pA_I	pA_I
+s-	2	2	2	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+que	3	3	3	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+veux	3	3	3	 pA_I	pA_I
+dire	3	4	2	 pA_L	pA_I
+est	3	3	3	 pA_B	pA_I
+ce	2	2	2	 pA_I	pA_I
+que	2	2	2	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+serait	4	5	3	 pA_I	pA_I
+pour	4	4	4	 pA_I	pA_I
+une	4	4	4	 pA_I	pA_I
+élection	4	5	3	 pA_I	pA_I
+présidentielle	4	6	1	 pA_L	pA_L
+
+on	4	4	3	 pA_B	pA_B
+les	2	3	1	 pA_I	pA_I
+ben	1	1	30	 pA_L	pA_I
+on	1	1	1	 pA_B	pA_I
+a	1	1	30	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+scores	2	2	1	 pA_I	pA_I
+qui	1	1	1	 pA_I	pA_I
+commencent	1	1	1	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+être	1	1	30	 pA_I	pA_I
+très	1	1	30	 pA_I	pA_I
+importants	2	19	30	 pA_I	pA_I
+et	1	2	1	 pA_I	pA_I
+en	1	1	1	 pA_I	pA_I
+tout	30	1	30	 pA_I	pA_I
+cas	1	2	1	 pA_I	pA_I
+les	1	1	1	 pA_I	pA_I
+pronostics	1	2	1	 pA_I	pA_I
+si	2	2	1	 pA_I	pA_I
+si	2	2	2	 pA_I	pA_I
+rien	3	4	1	 pA_I	pA_I
+n	3	4	2	 pA_I	pA_I
+est	3	4	2	 pA_I	pA_I
+fait	2	2	2	 pA_I	pA_I
+au	2	2	1	 pA_I	pA_I
+niveau	1	1	29	 pA_I	pA_I
+aujourd	1	2	30	 pA_I	pA_I
+hui	1	2	30	 pA_I	pA_I
+des	30	1	29	 pA_I	pA_I
+dirigeants	1	2	30	 pA_I	pA_I
+de	30	1	30	 pA_I	pA_I
+ce	1	1	30	 pA_I	pA_I
+pays	30	1	30	 pA_I	pA_I
+pour	1	1	29	 pA_I	pA_I
+répondre	1	2	30	 pA_I	pA_I
+à	 NA	 NA	 NA	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+problèmes	2	2	30	 pA_I	pA_I
+qui	1	1	1	 pA_I	pA_I
+sont	1	1	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+problèmes	1	2	30	 pA_I	pA_I
+aigus	2	4	29	 pA_I	pA_I
+en	5	20	1	 pA_I	pA_I
+termes	1	2	30	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+chômage	1	2	29	 pA_I	pA_I
+en	1	1	1	 pA_I	pA_I
+termes	1	2	30	 pA_I	pA_I
+de	1	1	30	 pA_I	pA_I
+difficultés	1	3	30	 pA_I	pA_I
+quotidiennes	1	3	29	 pA_I	pA_I
+d	1	2	29	 pA_I	pA_I
+un	1	2	29	 pA_I	pA_I
+certain	1	1	1	 pA_I	pA_I
+nombre	1	1	1	 pA_I	pA_I
+de	1	1	30	 pA_I	pA_I
+français	1	3	29	 pA_I	pA_I
+je	1	2	30	 pA_I	pA_I
+crois	2	3	1	 pA_I	pA_I
+que	2	2	1	 pA_I	pA_I
+on	4	4	3	 pA_I	pA_I
+va	4	4	3	 pA_I	pA_I
+on	3	4	1	 pA_I	pA_I
+va	2	2	1	 pA_I	pA_I
+aller	2	4	1	 pA_I	pA_I
+on	2	2	1	 pA_I	pA_I
+va	2	3	2	 pA_I	pA_I
+aller	2	4	1	 pA_I	pA_I
+on	2	3	1	 pA_I	pA_I
+va	2	3	1	 pA_I	pA_I
+aller	2	4	29	 pA_I	pA_I
+vers	1	2	1	 pA_I	pA_I
+vers	4	6	1	 pA_I	pA_I
+une	2	3	2	 pA_I	pA_I
+amplification	2	4	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+ce	1	1	30	 pA_I	pA_I
+phénomène	3	6	30	 pA_I	pA_I
+qui	1	1	1	 pA_I	pA_I
+va	3	4	1	 pA_I	pA_I
+dépasser	3	6	29	 pA_I	pA_I
+largement	3	6	1	 pA_I	pA_I
+les	4	5	2	 pA_I	pA_I
+pronostics	2	4	29	 pA_I	pA_I
+hein	1	1	30	 pA_L	pA_I
+donc	1	2	30	 pA_B	pA_I
+aujourd	4	6	1	 pA_I	pA_I
+hui	4	6	1	 pA_I	pA_I
+ce	5	5	5	 pA_I	pA_I
+que	2	2	2	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+gens	1	2	1	 pA_I	pA_I
+attendent	4	6	30	 pA_I	pA_I
+c	2	4	1	 pA_I	pA_I
+est	2	4	1	 pA_I	pA_I
+pas	1	1	30	 pA_I	pA_I
+un	2	2	1	 pA_I	pA_I
+coup	5	5	4	 pA_I	pA_I
+de	3	4	2	 pA_I	pA_I
+baguette	1	2	1	 pA_I	pA_I
+magique	4	5	2	 pA_I	pA_I
+des	1	2	30	 pA_I	pA_I
+uns	2	2	30	 pA_I	pA_I
+ou	1	1	30	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+autres	4	6	1	 pA_I	pA_I
+c	2	2	2	 pA_I	pA_I
+est	2	2	2	 pA_I	pA_I
+des	1	2	1	 pA_I	pA_I
+solutions	1	1	1	 pA_I	pA_I
+très	4	6	30	 pA_I	pA_I
+concrètes	3	4	1	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+problèmes	2	3	30	 pA_I	pA_I
+très	1	2	29	 pA_I	pA_I
+concrets	1	2	29	 pA_L	pA_L
+
+Jean	2	3	2	 pA_B	pA_B
+Louis	3	4	3	 pA_I	pA_I
+Bernard	2	3	2	 pA_I	pA_I
+sur	2	2	2	 pA_I	pA_I
+le	1	2	30	 pA_I	pA_I
+le	2	3	30	 pA_I	pA_I
+côté	4	5	2	 pA_I	pA_I
+je	3	4	3	 pA_I	pA_I
+disais	4	4	3	 pA_I	pA_I
+euh	3	4	2	 pA_I	pA_I
+aussi	3	4	2	 pA_I	pA_I
+peut	3	3	3	 pA_I	pA_I
+être	3	3	2	 pA_I	pA_I
+que	3	3	3	 pA_I	pA_I
+les	2	3	2	 pA_I	pA_I
+gens	4	4	2	 pA_I	pA_I
+ont	2	3	2	 pA_I	pA_I
+ont	2	2	2	 pA_I	pA_I
+essayé	2	3	1	 pA_I	pA_I
+un	2	2	2	 pA_I	pA_I
+peu	2	2	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+jouer	2	3	1	 pA_I	pA_I
+avec	2	3	1	 pA_I	pA_I
+le	3	3	2	 pA_I	pA_I
+feu	6	7	2	 pA_I	pA_I
+parce	4	5	2	 pA_I	pA_I
+qu	4	5	2	 pA_I	pA_I
+ils	4	5	2	 pA_I	pA_I
+disaient	2	3	2	 pA_I	pA_I
+ben	2	2	1	 pA_I	pA_I
+un	2	2	2	 pA_I	pA_I
+siège	3	3	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+député	2	2	1	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+plus	2	2	1	 pA_I	pA_I
+ou	2	2	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+moins	2	2	2	 pA_I	pA_I
+dans	2	2	1	 pA_I	pA_I
+un	1	2	1	 pA_I	pA_I
+camp	2	2	1	 pA_I	pA_I
+ou	2	2	2	 pA_I	pA_I
+dans	1	2	1	 pA_I	pA_I
+un	1	1	1	 pA_I	pA_I
+autre	3	4	1	 pA_I	pA_I
+ça	3	4	2	 pA_I	pA_I
+va	2	2	1	 pA_I	pA_I
+pas	2	2	1	 pA_I	pA_I
+changer	1	2	1	 pA_I	pA_I
+grand	1	1	1	 pA_I	pA_I
+chose	4	19	1	 pA_L	pA_L
+
+oui	3	3	2	 pA_B	pA_B
+mais	2	3	2	 pA_I	pA_I
+je	2	2	2	 pA_I	pA_I
+crois	2	4	1	 pA_I	pA_I
+que	1	2	1	 pA_I	pA_I
+autant	3	7	1	 pA_I	pA_I
+euh	1	1	29	 pA_I	pA_I
+du	1	1	1	 pA_I	pA_I
+temps	1	2	30	 pA_I	pA_I
+du	1	2	1	 pA_I	pA_I
+père	2	4	30	 pA_I	pA_I
+si	1	1	1	 pA_I	pA_I
+j	1	2	1	 pA_I	pA_I
+ose	1	2	1	 pA_I	pA_I
+dire	2	2	1	 pA_I	pA_I
+y	2	2	1	 pA_I	pA_I
+avait	2	3	2	 pA_I	pA_I
+une	2	3	2	 pA_I	pA_I
+certaine	2	3	1	 pA_I	pA_I
+honte	2	3	2	 pA_I	pA_I
+sinon	2	2	29	 pA_I	pA_I
+euh	1	2	30	 pA_I	pA_I
+on	2	2	1	 pA_I	pA_I
+n	1	1	1	 pA_I	pA_I
+en	1	1	1	 pA_I	pA_I
+voulait	2	2	1	 pA_I	pA_I
+pas	1	3	30	 pA_I	pA_I
+s-	1	1	1	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+Jean	2	2	1	 pA_I	pA_I
+Marie	1	2	1	 pA_I	pA_I
+le	1	1	30	 pA_I	pA_I
+Pen	1	1	30	 pA_L	pA_L
+
+du	3	4	3	 pA_B	pA_B
+côté	5	6	2	 pA_I	pA_I
+de	3	4	3	 pA_I	pA_I
+la	3	4	3	 pA_I	pA_I
+fille	4	5	3	 pA_I	pA_I
+euh	2	3	2	 pA_I	pA_I
+pour	1	2	30	 pA_I	pA_I
+des	2	3	2	 pA_I	pA_I
+raisons	2	2	2	 pA_I	pA_I
+X	3	13	1	 pA_I	pA_I
+ou	2	3	2	 pA_I	pA_I
+Y	3	5	1	 pA_I	pA_I
+les	3	4	2	 pA_I	pA_I
+gens	5	7	3	 pA_I	pA_I
+en	4	4	4	 pA_I	pA_I
+fin	3	4	3	 pA_I	pA_I
+de	3	3	2	 pA_I	pA_I
+compte	4	5	3	 pA_I	pA_I
+se	2	3	2	 pA_I	pA_I
+disent	2	3	1	 pA_I	pA_I
+elle	1	2	1	 pA_I	pA_I
+est	1	2	1	 pA_I	pA_I
+peut	1	2	1	 pA_I	pA_I
+être	1	2	1	 pA_I	pA_I
+moins	1	1	1	 pA_I	pA_I
+dangereuse	1	1	30	 pA_I	pA_I
+elle	1	1	1	 pA_I	pA_I
+est	1	1	30	 pA_I	pA_I
+plus	1	1	30	 pA_I	pA_I
+sympathique	1	2	30	 pA_I	pA_I
+elle	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+moins	1	1	1	 pA_I	pA_I
+excitée	1	2	30	 pA_I	pA_I
+elle	2	2	1	 pA_I	pA_I
+ne	1	1	1	 pA_I	pA_I
+fait	1	1	1	 pA_I	pA_I
+pas	1	1	30	 pA_I	pA_I
+référence	1	1	1	 pA_I	pA_I
+à	1	1	30	 pA_I	pA_I
+ce	6	15	1	 pA_I	pA_I
+qui	1	1	1	 pA_I	pA_I
+s	1	2	30	 pA_I	pA_I
+est	1	2	30	 pA_I	pA_I
+passé	1	1	30	 pA_I	pA_I
+dans	1	1	1	 pA_I	pA_I
+les	1	1	30	 pA_I	pA_I
+camps	1	1	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+concentration	1	2	1	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+caetera	3	6	30	 pA_I	pA_I
+donc	4	5	3	 pA_I	pA_I
+avec	3	4	2	 pA_I	pA_I
+ce	2	2	1	 pA_I	pA_I
+profil	2	4	30	 pA_I	pA_I
+plus	2	3	29	 pA_I	pA_I
+doux	1	3	30	 pA_I	pA_I
+hé	2	2	1	 pA_I	pA_I
+ben	2	3	1	 pA_I	pA_I
+elle	3	3	2	 pA_I	pA_I
+devient	2	5	1	 pA_I	pA_I
+plus	3	7	2	 pA_I	pA_I
+charmeuse	1	2	29	 pA_L	pA_L
+
+on	1	1	1	 pA_B	pA_B
+va	1	1	1	 pA_I	pA_I
+garder	1	1	29	 pA_I	pA_I
+ce	1	1	1	 pA_I	pA_I
+candidat	1	1	30	 pA_I	pA_I
+trente	1	1	30	 pA_I	pA_I
+deux	1	1	1	 pA_I	pA_I
+ans	1	4	30	 pA_L	pA_I
+qui	1	2	1	 pA_B	pA_I
+présentait	1	1	30	 pA_I	pA_I
+bien	30	2	29	 pA_L	pA_L
+
+ah	2	2	2	 pA_B	pA_B
+beaucoup	2	3	1	 pA_I	pA_I
+moins	4	6	3	 pA_I	pA_I
+vingt	2	3	2	 pA_I	pA_I
+trois	2	2	1	 pA_I	pA_I
+ans	4	6	2	 pA_L	pA_L
+
+vingt	2	4	1	 pA_B	pA_B
+trois	2	2	2	 pA_I	pA_I
+ans	3	3	2	 pA_I	pA_I
+oui	 NA	 NA	 NA	 pA_I	pA_I
+non	1	1	1	 pA_I	pA_I
+trente	2	2	1	 pA_I	pA_I
+deux	2	2	1	 pA_I	pA_I
+voilà	1	1	1	 pA_I	pA_I
+je	30	1	29	 pA_I	pA_I
+change	1	1	29	 pA_I	pA_I
+vingt	1	1	1	 pA_I	pA_I
+trois	30	1	30	 pA_I	pA_I
+ans	1	3	30	 pA_I	pA_I
+qui	6	22	30	 pA_I	pA_I
+présentait	1	1	30	 pA_I	pA_I
+beaucoup	30	1	29	 pA_I	pA_I
+euh	30	30	29	 pA_I	pA_I
+euh	30	1	29	 pA_I	pA_I
+pas	29	29	29	 pA_I	pA_I
+mal	30	1	29	 pA_I	pA_I
+vous	1	1	1	 pA_I	pA_I
+voyez	1	1	29	 pA_L	pA_L
+
+oui	5	22	30	 pA_U	pA_B
+mais	3	3	2	 pA_B	pA_I
+maintenant	3	4	2	 pA_I	pA_I
+les	3	4	2	 pA_I	pA_I
+gens	2	3	2	 pA_I	pA_I
+disent	3	4	2	 pA_I	pA_I
+mais	2	2	1	 pA_I	pA_I
+mais	2	20	1	 pA_I	pA_I
+si	7	20	3	 pA_I	pA_I
+ça	2	2	1	 pA_I	pA_I
+continue	4	8	30	 pA_I	pA_I
+je	2	3	30	 pA_I	pA_I
+vais	4	10	2	 pA_I	pA_I
+voter	3	5	1	 pA_I	pA_I
+ou	4	7	1	 pA_I	pA_I
+je	4	21	1	 pA_I	pA_I
+vote	4	5	29	 pA_I	pA_I
+Front	2	2	29	 pA_I	pA_I
+National	1	2	30	 pA_I	pA_I
+ils	1	2	1	 pA_I	pA_I
+ils	15	20	1	 pA_I	pA_I
+oh	16	21	1	 pA_I	pA_I
+y	1	1	1	 pA_I	pA_I
+a	1	1	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+gens	4	5	3	 pA_I	pA_I
+qui	2	4	1	 pA_I	pA_I
+me	2	3	1	 pA_I	pA_I
+le	5	6	3	 pA_I	pA_I
+disent	2	3	1	 pA_I	pA_I
+alors	1	2	30	 pA_I	pA_I
+que	2	2	1	 pA_I	pA_I
+ja-	20	21	19	 pA_I	pA_I
+ou	1	2	1	 pA_I	pA_I
+autrement	2	20	30	 pA_I	pA_I
+euh	8	22	30	 pA_I	pA_I
+avant	11	21	2	 pA_I	pA_I
+c	1	2	30	 pA_I	pA_I
+était	1	2	30	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+silence	2	4	1	 pA_L	pA_L
+
+y	1	1	1	 pA_B	pA_B
+a	1	1	1	 pA_I	pA_I
+des	1	2	1	 pA_I	pA_I
+solutions	2	3	1	 pA_I	pA_I
+contre	1	2	30	 pA_I	pA_I
+répondant	2	3	29	 pA_I	pA_I
+aux	2	21	30	 pA_I	pA_I
+aspirations	1	2	30	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+gens	1	2	1	 pA_I	pA_I
+hein	1	2	1	 pA_I	pA_I
+comme	1	1	1	 pA_I	pA_I
+dirait	30	1	29	 pA_I	pA_I
+comme	30	30	29	 pA_I	pA_I
+disait	30	30	30	 pA_I	pA_I
+Bertrand	1	3	29	 pA_I	pA_I
+f-	19	20	18	 pA_I	pA_I
+faisons	1	1	30	 pA_I	pA_I
+le	30	1	29	 pA_L	pA_L
+
+merci	6	22	2	 pA_B	pA_B
+Hassan	4	6	3	 pA_I	pA_I
+Kerim	2	4	2	 pA_I	pA_I
+Jean	4	21	2	 pA_I	pA_I
+Louis	2	2	2	 pA_I	pA_I
+Bernard	2	2	1	 pA_I	pA_I
+et	1	2	1	 pA_I	pA_I
+Bertrand	9	21	2	 pA_I	pA_I
+Lacoste	8	21	1	 pA_I	pA_I
+qui	14	21	2	 pA_I	pA_I
+étaient	2	2	1	 pA_I	pA_I
+dans	2	2	2	 pA_I	pA_I
+le	2	2	1	 pA_I	pA_I
+Grand	3	5	1	 pA_I	pA_I
+Bûcher	4	5	3	 pA_I	pA_I
+ce	2	2	2	 pA_I	pA_I
+soir	1	2	29	 pA_I	pA_I
+rendez	2	3	1	 pA_I	pA_I
+vous	3	5	2	 pA_I	pA_I
+demain	4	5	4	 pA_I	pA_I
+à	3	4	2	 pA_I	pA_I
+dix	3	3	2	 pA_I	pA_I
+huit	3	3	2	 pA_I	pA_I
+heures	9	21	2	 pA_I	pA_I
+cinq	2	2	1	 pA_I	pA_I
+sur	1	1	1	 pA_I	pA_I
+France	12	22	1	 pA_I	pA_I
+Bleu	1	1	1	 pA_I	pA_I
+Or	1	1	1	 pA_L	pA_L
+
+parce	1	1	1	 pA_B	pA_B
+qu	1	1	1	 pA_I	pA_I
+ils	1	1	1	 pA_I	pA_I
+sont	3	3	3	 pA_I	pA_I
+ils	2	3	1	 pA_I	pA_I
+sont	3	4	1	 pA_I	pA_I
+ingrédients	2	3	1	 pA_I	pA_I
+d	4	5	1	 pA_I	pA_I
+interprétation	4	5	1	 pA_I	pA_I
+ils	1	1	1	 pA_I	pA_I
+ils	 NA	 NA	 NA	 pA_I	pA_I
+font	3	3	3	 pA_I	pA_I
+partie	3	3	2	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+contraintes	3	4	1	 pA_I	pA_I
+mais	1	2	1	 pA_I	pA_I
+ils	2	2	2	 pA_I	pA_I
+font	2	2	2	 pA_I	pA_I
+pas	3	7	2	 pA_I	pA_I
+partie	4	7	1	 pA_I	pA_I
+des	2	3	1	 pA_I	pA_I
+résultats	1	1	1	 pA_L	pA_I
+c	2	2	1	 pA_B	pA_I
+est	2	2	1	 pA_I	pA_I
+tout	4	5	1	 pA_L	pA_I
+euh	1	2	1	 pA_B	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+tenais	2	2	1	 pA_I	pA_I
+on	1	1	1	 pA_I	pA_I
+discutait	2	2	1	 pA_I	pA_I
+tou-	2	2	1	 pA_I	pA_I
+tout	 NA	 NA	 NA	 pA_I	pA_I
+à	1	2	1	 pA_I	pA_I
+l	2	2	1	 pA_I	pA_I
+heure	2	2	1	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+l	1	2	1	 pA_I	pA_I
+exemple	1	2	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+dérober	2	6	1	 pA_I	pA_I
+dérober	1	4	1	 pA_I	pA_I
+en	30	1	29	 pA_I	pA_I
+français	4	6	3	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+morphème	2	2	1	 pA_I	pA_I
+qui	2	2	2	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+là	1	1	1	 pA_I	pA_I
+et	4	5	4	 pA_I	pA_I
+c	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+un	1	1	30	 pA_I	pA_I
+morphème	2	5	30	 pA_I	pA_I
+je	1	1	1	 pA_I	pA_I
+l	2	4	1	 pA_I	pA_I
+assume	2	4	1	 pA_I	pA_I
+c	2	5	1	 pA_I	pA_I
+est	2	5	1	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+un	2	2	2	 pA_I	pA_I
+lexème	2	2	1	 pA_I	pA_I
+il	1	1	1	 pA_I	pA_I
+a	1	1	1	 pA_I	pA_I
+pas	 NA	 NA	 NA	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+catégorie	1	2	30	 pA_I	pA_I
+grammaticale	3	6	29	 pA_I	pA_I
+il	3	5	29	 pA_I	pA_I
+a	 NA	 NA	 NA	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+d	1	2	1	 pA_I	pA_I
+interprétation	1	2	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+voilà	1	1	29	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+peut	 NA	 NA	 NA	 pA_I	pA_I
+être	1	1	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+un	2	2	1	 pA_I	pA_I
+objet	1	2	1	 pA_I	pA_I
+lexical	1	2	1	 pA_I	pA_I
+et	 NA	 NA	 NA	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+pense	1	2	1	 pA_I	pA_I
+que	1	1	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+distinction	1	2	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+importante	4	5	4	 pA_I	pA_I
+ça	3	3	2	 pA_I	pA_I
+existe	3	4	2	 pA_I	pA_I
+en	2	2	1	 pA_I	pA_I
+anglais	1	2	1	 pA_I	pA_I
+comme	3	4	3	 pA_I	pA_I
+lexème	2	4	1	 pA_I	pA_I
+c	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+verbe	2	3	1	 pA_I	pA_I
+to	4	4	4	 pA_I	pA_I
+rob	2	4	2	 pA_L	pA_L
+
+hm	30	30	30	 pA_B	pA_B
+hm	30	30	30	 pA_L	pA_L
+
+bon	1	2	1	 pA_U	pA_B
+euh	2	2	1	 pA_B	pA_I
+et	2	3	30	 pA_I	pA_I
+donc	4	4	2	 pA_I	pA_I
+et	2	3	2	 pA_I	pA_I
+or	3	3	2	 pA_I	pA_I
+en	2	4	2	 pA_I	pA_I
+français	4	7	2	 pA_I	pA_I
+y	2	4	2	 pA_I	pA_I
+a	2	2	2	 pA_I	pA_I
+des	2	2	2	 pA_I	pA_I
+milliers	5	6	2	 pA_I	pA_I
+de	5	5	5	 pA_I	pA_I
+bases	2	2	1	 pA_I	pA_I
+libres	1	1	1	 pA_L	pA_I
+y	1	1	1	 pA_B	pA_I
+a	1	1	1	 pA_I	pA_I
+y	1	1	1	 pA_I	pA_I
+a	1	1	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+milliers	3	4	1	 pA_I	pA_I
+de	4	4	3	 pA_I	pA_I
+bases	1	3	1	 pA_I	pA_I
+libres	1	1	1	 pA_L	pA_I
+et	1	2	1	 pA_B	pA_I
+et	1	1	1	 pA_I	pA_I
+elles	1	1	29	 pA_I	pA_I
+font	3	3	1	 pA_I	pA_I
+partie	5	8	4	 pA_I	pA_I
+du	3	4	1	 pA_I	pA_I
+lexique	2	5	1	 pA_L	pA_I
+et	2	3	2	 pA_B	pA_I
+et	2	2	1	 pA_I	pA_I
+finalement	4	6	1	 pA_I	pA_I
+à	3	4	3	 pA_I	pA_I
+part	3	5	1	 pA_I	pA_I
+pour	3	3	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+fait	2	3	1	 pA_I	pA_I
+que	2	2	1	 pA_I	pA_I
+on	1	2	1	 pA_I	pA_I
+ne	1	2	1	 pA_I	pA_I
+peut	2	3	1	 pA_I	pA_I
+pas	3	3	2	 pA_I	pA_I
+faire	2	3	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+grammaire	1	2	1	 pA_I	pA_I
+sur	1	2	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+choses	2	2	1	 pA_I	pA_I
+qui	2	2	1	 pA_I	pA_I
+ne	1	1	1	 pA_I	pA_I
+sont	1	1	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+catégorisées	1	2	1	 pA_I	pA_I
+catégoriellement	1	2	1	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+qui	1	1	1	 pA_I	pA_I
+n	2	4	1	 pA_I	pA_I
+ont	2	4	1	 pA_I	pA_I
+pas	2	2	2	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+sens	1	2	1	 pA_I	pA_I
+lexical	1	2	1	 pA_I	pA_I
+dans	1	1	1	 pA_I	pA_I
+les	1	1	1	 pA_I	pA_I
+dictionnaires	1	1	1	 pA_I	pA_I
+euh	1	2	1	 pA_I	pA_I
+ben	1	2	1	 pA_I	pA_I
+finalement	3	4	1	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+pas	2	3	2	 pA_I	pA_I
+des	2	2	1	 pA_I	pA_I
+unités	2	4	1	 pA_I	pA_I
+qui	3	3	2	 pA_I	pA_I
+euh	1	2	1	 pA_I	pA_I
+encore	2	4	1	 pA_I	pA_I
+une	1	1	1	 pA_I	pA_I
+fois	2	3	1	 pA_I	pA_I
+dans	1	1	1	 pA_I	pA_I
+toutes	4	5	1	 pA_I	pA_I
+les	2	3	2	 pA_I	pA_I
+langues	2	2	1	 pA_I	pA_I
+du	1	2	1	 pA_I	pA_I
+monde	1	2	1	 pA_I	pA_I
+à	2	2	1	 pA_I	pA_I
+part	6	18	2	 pA_I	pA_I
+les	1	1	1	 pA_I	pA_I
+quelques	2	3	2	 pA_I	pA_I
+langues	1	2	1	 pA_I	pA_I
+européennes	2	6	29	 pA_I	pA_I
+ces	1	1	1	 pA_I	pA_I
+ces	1	1	1	 pA_I	pA_I
+choses	1	1	1	 pA_I	pA_I
+là	3	4	2	 pA_I	pA_I
+sont	3	4	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+morphèmes	3	5	1	 pA_I	pA_I
+pose	3	5	3	 pA_I	pA_I
+aucun	4	4	4	 pA_I	pA_I
+problème	4	5	4	 pA_I	pA_I
+et	4	4	3	 pA_I	pA_I
+on	3	3	3	 pA_I	pA_I
+dit	3	4	2	 pA_I	pA_I
+que	3	3	3	 pA_I	pA_I
+spire	4	5	3	 pA_I	pA_I
+ça	3	3	3	 pA_I	pA_I
+a	3	3	2	 pA_I	pA_I
+un	2	2	2	 pA_I	pA_I
+rapport	3	4	2	 pA_I	pA_I
+avec	2	3	2	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+fait	3	4	2	 pA_I	pA_I
+de	4	4	4	 pA_I	pA_I
+prendre	3	3	3	 pA_I	pA_I
+de	2	3	2	 pA_I	pA_I
+l	3	4	1	 pA_I	pA_I
+air	3	4	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+dans	2	2	2	 pA_I	pA_I
+les	2	2	2	 pA_I	pA_I
+deux	2	2	2	 pA_I	pA_I
+sens	3	4	2	 pA_I	pA_I
+dans	2	4	2	 pA_I	pA_I
+un	2	2	2	 pA_I	pA_I
+sens	4	4	2	 pA_I	pA_I
+ou	3	3	2	 pA_I	pA_I
+voilà	1	2	1	 pA_I	pA_I
+c	2	2	2	 pA_I	pA_I
+est	2	2	2	 pA_I	pA_I
+tout	2	2	1	 pA_I	pA_I
+c	1	2	1	 pA_I	pA_I
+est	1	2	1	 pA_I	pA_I
+tout	1	1	1	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+c	 NA	 NA	 NA	 pA_I	pA_I
+est	 NA	 NA	 NA	 pA_I	pA_I
+tout	5	5	4	 pA_I	pA_I
+ça	1	4	1	 pA_I	pA_I
+ça	1	2	1	 pA_I	pA_I
+va	1	1	1	 pA_I	pA_I
+être	1	2	1	 pA_I	pA_I
+donné	2	2	1	 pA_I	pA_I
+comme	2	3	2	 pA_I	pA_I
+ça	4	4	4	 pA_I	pA_I
+sans	2	4	1	 pA_I	pA_I
+aucun	2	3	1	 pA_I	pA_I
+souci	2	3	1	 pA_L	pA_I
+par	 NA	 NA	 NA	 pA_B	pA_I
+contre	3	4	2	 pA_I	pA_I
+dès	3	4	2	 pA_I	pA_I
+qu	3	4	3	 pA_I	pA_I
+on	3	4	3	 pA_I	pA_I
+bascule	2	3	2	 pA_I	pA_I
+sur	2	3	2	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+la	1	2	1	 pA_I	pA_I
+morphologie	1	2	1	 pA_I	pA_I
+du	1	1	1	 pA_I	pA_I
+français	1	1	1	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+tout	4	4	3	 pA_I	pA_I
+alors	2	4	1	 pA_I	pA_I
+là	1	2	1	 pA_I	pA_I
+ça	2	2	2	 pA_I	pA_I
+existe	2	2	1	 pA_I	pA_I
+plus	3	4	1	 pA_I	pA_I
+ou	3	4	3	 pA_I	pA_I
+son	3	3	3	 pA_I	pA_I
+statut	2	4	1	 pA_I	pA_I
+devient	2	3	2	 pA_I	pA_I
+douteux	1	2	1	 pA_I	pA_I
+donc	1	2	1	 pA_I	pA_I
+c	2	2	2	 pA_I	pA_I
+est	2	2	2	 pA_I	pA_I
+c	2	2	2	 pA_I	pA_I
+est	2	2	2	 pA_I	pA_I
+ce	2	2	2	 pA_I	pA_I
+différentiel	3	4	1	 pA_I	pA_I
+entre	2	2	1	 pA_I	pA_I
+les	1	1	1	 pA_I	pA_I
+langues	2	2	1	 pA_I	pA_I
+exotiques	2	3	1	 pA_I	pA_I
+dans	1	1	1	 pA_I	pA_I
+lesquelles	1	2	1	 pA_I	pA_I
+on	1	2	1	 pA_I	pA_I
+va	1	1	1	 pA_I	pA_I
+comme	1	2	1	 pA_I	pA_I
+tu	2	2	1	 pA_I	pA_I
+disais	1	2	1	 pA_I	pA_I
+trouver	2	2	1	 pA_I	pA_I
+plein	1	2	29	 pA_I	pA_I
+d-	2	2	2	 pA_I	pA_I
+toutes	2	3	2	 pA_I	pA_I
+sortes	2	3	2	 pA_I	pA_I
+de	2	2	1	 pA_I	pA_I
+choses	2	2	1	 pA_I	pA_I
+très	2	2	1	 pA_I	pA_I
+amusantes	1	2	1	 pA_I	pA_I
+mais	1	1	1	 pA_I	pA_I
+alors	1	1	1	 pA_I	pA_I
+c	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+absolument	1	2	1	 pA_I	pA_I
+interdit	1	2	1	 pA_I	pA_I
+sur	1	1	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+langues	1	1	1	 pA_I	pA_I
+comme	1	1	1	 pA_I	pA_I
+les	1	2	1	 pA_I	pA_I
+nôtres	3	4	2	 pA_I	pA_I
+qui	2	2	2	 pA_I	pA_I
+moi	2	3	2	 pA_I	pA_I
+me	2	3	2	 pA_I	pA_I
+parait	1	2	1	 pA_I	pA_I
+poser	1	2	1	 pA_I	pA_I
+un	2	2	1	 pA_I	pA_I
+problème	2	2	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+méthodologique	1	3	1	 pA_I	pA_I
+épistémologique	1	2	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+important	 NA	 NA	 NA	 pA_I	pA_I
+quoi	 NA	 NA	 NA	 pA_I	pA_I
+je	 NA	 NA	 NA	 pA_I	pA_I
+me	 NA	 NA	 NA	 pA_I	pA_I
+tais	 NA	 NA	 NA	 pA_L	pA_L
+
+pour	 NA	 NA	 NA	 pA_B	pA_B
+pour	1	2	1	 pA_I	pA_I
+rajouter	2	2	1	 pA_I	pA_I
+euh	1	2	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+nouvelles	1	2	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+nouveaux	1	1	1	 pA_I	pA_I
+aspects	3	5	1	 pA_I	pA_I
+ess-	 NA	 NA	 NA	 pA_I	pA_I
+pour	1	2	1	 pA_I	pA_I
+essayer	2	2	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+d	2	3	1	 pA_I	pA_I
+avancer	2	3	1	 pA_I	pA_I
+sur	2	2	1	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+ce	1	1	1	 pA_I	pA_I
+débat	2	2	1	 pA_I	pA_I
+sur	1	2	1	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+statut	2	3	1	 pA_I	pA_I
+de	1	3	1	 pA_I	pA_I
+ces	1	2	1	 pA_I	pA_I
+euh	1	1	30	 pA_I	pA_I
+morphèmes	1	2	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+liés	1	2	1	 pA_I	pA_I
+qui	1	2	1	 pA_I	pA_I
+euh	30	1	30	 pA_I	pA_I
+n	1	1	30	 pA_I	pA_I
+ont	1	1	30	 pA_I	pA_I
+pas	1	1	1	 pA_I	pA_I
+de	1	1	30	 pA_I	pA_I
+statut	1	1	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+tu	2	2	2	 pA_I	pA_I
+vois	4	4	2	 pA_L	pA_I
+ils	 NA	 NA	 NA	 pA_B	pA_I
+ont	 NA	 NA	 NA	 pA_I	pA_I
+ils	 NA	 NA	 NA	 pA_I	pA_I
+ont	1	1	1	 pA_I	pA_I
+en	1	1	1	 pA_I	pA_I
+tout	 NA	 NA	 NA	 pA_I	pA_I
+cas	1	1	1	 pA_I	pA_I
+pas	1	1	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+caté-	1	1	1	 pA_I	pA_I
+catégorie	1	1	1	 pA_I	pA_I
+grammaticale	1	1	1	 pA_I	pA_I
+en	 NA	 NA	 NA	 pA_I	pA_I
+particulier	3	4	1	 pA_L	pA_I
+euh	1	1	1	 pA_B	pA_I
+un	3	3	3	 pA_I	pA_I
+des	2	3	2	 pA_I	pA_I
+critères	2	3	2	 pA_I	pA_I
+qu	2	3	1	 pA_I	pA_I
+on	2	3	1	 pA_I	pA_I
+peut	2	2	2	 pA_I	pA_I
+injecter	2	2	1	 pA_I	pA_I
+dans	1	2	1	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+débat	2	4	1	 pA_I	pA_I
+c	3	4	2	 pA_I	pA_I
+est	3	4	2	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+l	2	4	1	 pA_I	pA_I
+activité	2	4	1	 pA_I	pA_I
+du	2	3	2	 pA_I	pA_I
+locuteur	2	3	1	 pA_I	pA_I
+parlant	2	4	1	 pA_I	pA_I
+et	3	4	2	 pA_I	pA_I
+son	1	4	1	 pA_I	pA_I
+acquisition	2	3	1	 pA_L	pA_I
+c	1	1	1	 pA_B	pA_I
+est	1	1	1	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+dire	1	1	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+le	1	1	1	 pA_L	pA_I
+si	3	3	3	 pA_B	pA_I
+on	2	3	2	 pA_I	pA_I
+dit	3	3	2	 pA_I	pA_I
+que	2	2	2	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+base	1	2	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+morphémique	1	2	1	 pA_I	pA_I
+ou	1	1	1	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+morphème	2	6	1	 pA_I	pA_I
+a	1	1	1	 pA_I	pA_I
+tel	2	2	2	 pA_I	pA_I
+statut	2	2	2	 pA_I	pA_I
+ou	1	1	1	 pA_I	pA_I
+a	1	1	1	 pA_I	pA_I
+tel	2	2	1	 pA_I	pA_I
+autre	2	2	2	 pA_I	pA_I
+statut	2	2	1	 pA_I	pA_I
+c	2	2	2	 pA_I	pA_I
+est	2	2	2	 pA_I	pA_I
+à	1	2	1	 pA_I	pA_I
+dire	1	1	1	 pA_I	pA_I
+éventuellement	1	2	1	 pA_I	pA_I
+jusqu	1	2	1	 pA_I	pA_I
+à	1	2	1	 pA_I	pA_I
+ne	1	1	1	 pA_I	pA_I
+pas	2	2	1	 pA_I	pA_I
+exister	1	2	1	 pA_I	pA_I
+et	1	2	1	 pA_I	pA_I
+être	1	1	1	 pA_I	pA_I
+simplement	1	1	1	 pA_I	pA_I
+un	1	1	1	 pA_I	pA_I
+mécanisme	1	2	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+renvoi	1	1	1	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+cousins	1	1	1	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+caetera	3	5	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+il	1	1	1	 pA_I	pA_I
+faut	3	3	1	 pA_I	pA_I
+que	3	3	3	 pA_I	pA_I
+ce	2	3	2	 pA_I	pA_I
+soit	2	2	1	 pA_I	pA_I
+compatible	2	3	1	 pA_I	pA_I
+d	2	2	1	 pA_I	pA_I
+une	2	2	1	 pA_I	pA_I
+far	2	3	2	 pA_I	pA_I
+à	1	2	1	 pA_I	pA_I
+d	1	1	1	 pA_I	pA_I
+une	1	1	1	 pA_I	pA_I
+part	2	2	1	 pA_I	pA_I
+avec	1	1	1	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+fait	1	2	1	 pA_I	pA_I
+que	1	1	1	 pA_I	pA_I
+nous	1	1	1	 pA_I	pA_I
+faisons	1	1	1	 pA_I	pA_I
+faisons	1	1	1	 pA_I	pA_I
+faisions	1	1	1	 pA_I	pA_I
+l	1	2	1	 pA_I	pA_I
+acquisition	1	2	1	 pA_I	pA_I
+de	1	1	30	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+de	 NA	 NA	 NA	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+système	4	5	3	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+que	1	1	1	 pA_I	pA_I
+donc	1	2	1	 pA_I	pA_I
+à	1	2	1	 pA_I	pA_I
+quel	2	2	1	 pA_I	pA_I
+moment	2	2	2	 pA_I	pA_I
+se	2	2	1	 pA_I	pA_I
+fait	2	2	2	 pA_I	pA_I
+ce	2	2	1	 pA_I	pA_I
+renvoi	2	2	1	 pA_I	pA_I
+aux	1	1	1	 pA_I	pA_I
+cousins	3	4	2	 pA_I	pA_I
+est	3	4	2	 pA_I	pA_I
+ce	2	2	2	 pA_I	pA_I
+qu	2	2	2	 pA_I	pA_I
+il	2	2	2	 pA_I	pA_I
+se	2	2	2	 pA_I	pA_I
+fait	2	2	2	 pA_I	pA_I
+à	2	2	1	 pA_I	pA_I
+chaque	2	3	1	 pA_I	pA_I
+fois	2	3	2	 pA_I	pA_I
+que	1	2	1	 pA_I	pA_I
+on	1	1	1	 pA_I	pA_I
+utilise	1	1	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+l	3	5	1	 pA_I	pA_I
+expression	3	5	1	 pA_I	pA_I
+ou	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+ce	1	2	1	 pA_I	pA_I
+qu	1	1	1	 pA_I	pA_I
+il	1	1	1	 pA_I	pA_I
+s	2	4	1	 pA_I	pA_I
+agrège	2	4	1	 pA_I	pA_I
+au	1	2	1	 pA_I	pA_I
+fur	1	2	1	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+mesure	1	2	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+l	2	5	1	 pA_I	pA_I
+acquisition	2	5	1	 pA_I	pA_I
+et	3	5	2	 pA_I	pA_I
+qu	3	6	1	 pA_I	pA_I
+il	3	6	1	 pA_I	pA_I
+devient	2	4	1	 pA_I	pA_I
+finalement	2	4	1	 pA_I	pA_I
+une	1	2	1	 pA_I	pA_I
+forme	1	2	1	 pA_I	pA_I
+qu	1	1	1	 pA_I	pA_I
+on	1	1	1	 pA_I	pA_I
+pourrait	2	2	1	 pA_I	pA_I
+s	1	2	1	 pA_I	pA_I
+as-	1	2	1	 pA_I	pA_I
+ou	5	5	5	 pA_I	pA_I
+s-	 NA	 NA	 NA	 pA_I	pA_I
+euh	 NA	 NA	 NA	 pA_I	pA_I
+se	 NA	 NA	 NA	 pA_I	pA_I
+se	 NA	 NA	 NA	 pA_I	pA_I
+pour	1	1	1	 pA_I	pA_I
+laquelle	1	2	1	 pA_I	pA_I
+on	1	1	1	 pA_I	pA_I
+pourrait	1	2	1	 pA_I	pA_I
+se	1	2	1	 pA_I	pA_I
+mettre	1	1	1	 pA_I	pA_I
+d	1	2	1	 pA_I	pA_I
+accord	1	2	1	 pA_I	pA_I
+sur	2	2	1	 pA_I	pA_I
+l	2	4	1	 pA_I	pA_I
+appellation	2	4	1	 pA_I	pA_I
+pourquoi	3	4	1	 pA_I	pA_I
+pas	1	1	1	 pA_I	pA_I
+morphème	3	5	1	 pA_I	pA_I
+donc	1	1	1	 pA_I	pA_I
+y	2	2	2	 pA_I	pA_I
+a	3	3	2	 pA_I	pA_I
+y	2	3	2	 pA_I	pA_I
+a	3	3	2	 pA_I	pA_I
+cette	4	4	3	 pA_I	pA_I
+contrainte	3	4	2	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+comment	3	5	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+se	1	1	1	 pA_I	pA_I
+se	1	1	1	 pA_I	pA_I
+se	2	3	1	 pA_I	pA_I
+déroule	2	3	1	 pA_I	pA_I
+le	2	2	2	 pA_I	pA_I
+processus	3	3	2	 pA_I	pA_I
+d	1	3	1	 pA_I	pA_I
+acquisition	1	3	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+langue	3	6	29	 pA_I	pA_I
+et	2	4	1	 pA_I	pA_I
+pas	2	3	2	 pA_I	pA_I
+simplement	2	7	2	 pA_I	pA_I
+dans	4	7	1	 pA_I	pA_I
+l	2	2	1	 pA_I	pA_I
+abstraction	2	2	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+description	1	1	1	 pA_I	pA_I
+du	1	1	1	 pA_I	pA_I
+lexique	2	4	1	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+puis	3	4	1	 pA_I	pA_I
+y	3	4	2	 pA_I	pA_I
+a	2	2	1	 pA_I	pA_I
+aussi	3	5	1	 pA_I	pA_I
+l	3	4	2	 pA_I	pA_I
+attitude	3	4	2	 pA_I	pA_I
+du	1	1	1	 pA_I	pA_I
+du	1	1	1	 pA_I	pA_I
+du	1	1	1	 pA_I	pA_I
+locuteur	3	5	1	 pA_I	pA_I
+qui	4	5	1	 pA_I	pA_I
+a	1	1	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+visées	2	2	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+argumentatives	2	5	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+visées	1	1	1	 pA_I	pA_I
+énonciatives	2	5	1	 pA_I	pA_I
+qui	1	1	1	 pA_I	pA_I
+est	1	1	1	 pA_I	pA_I
+dans	1	1	1	 pA_I	pA_I
+une	1	1	1	 pA_I	pA_I
+démarche	2	3	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+paradigmatisation	2	7	1	 pA_I	pA_I
+de	3	6	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+des	1	1	1	 pA_I	pA_I
+choix	2	2	1	 pA_I	pA_I
+qu	1	2	1	 pA_I	pA_I
+il	1	2	1	 pA_I	pA_I
+fait	1	2	1	 pA_I	pA_I
+au	1	1	1	 pA_I	pA_I
+fur	1	1	1	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+mesure	1	1	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+l	1	2	1	 pA_I	pA_I
+avancée	1	2	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+la	1	1	1	 pA_I	pA_I
+chaîne	1	1	1	 pA_I	pA_I
+parlée	3	5	1	 pA_I	pA_I
+et	1	1	1	 pA_I	pA_I
+donc	1	5	1	 pA_I	pA_I
+ça	5	5	5	 pA_I	pA_I
+ça	4	5	2	 pA_I	pA_I
+fait	2	2	1	 pA_I	pA_I
+deux	3	4	1	 pA_I	pA_I
+critères	3	4	2	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+vérifier	2	5	1	 pA_I	pA_I
+pour	4	5	4	 pA_I	pA_I
+toute	5	5	4	 pA_I	pA_I
+théorie	3	5	30	 pA_I	pA_I
+morphologique	3	5	1	 pA_L	pA_I
+une	1	1	1	 pA_B	pA_I
+théorie	2	2	2	 pA_I	pA_I
+morphor-	2	2	1	 pA_I	pA_I
+morphologique	1	3	29	 pA_I	pA_I
+ne	2	2	2	 pA_I	pA_I
+s	2	2	2	 pA_I	pA_I
+en-	2	2	2	 pA_I	pA_I
+s	2	2	1	 pA_I	pA_I
+évalue	2	2	1	 pA_I	pA_I
+pas	2	2	1	 pA_I	pA_I
+seulement	3	6	2	 pA_I	pA_I
+par	1	6	1	 pA_I	pA_I
+rapport	1	2	1	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+l	2	2	1	 pA_I	pA_I
+efficacité	2	2	1	 pA_I	pA_I
+de	2	2	2	 pA_I	pA_I
+sa	1	2	1	 pA_I	pA_I
+couverture	3	5	1	 pA_I	pA_I
+sa	1	1	1	 pA_I	pA_I
+prédictibilité	2	5	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+sa	1	1	30	 pA_I	pA_I
+sa	 NA	 NA	 NA	 pA_I	pA_I
+sa	 NA	 NA	 NA	 pA_I	pA_I
+reproductibilité	2	4	1	 pA_I	pA_I
+sa	2	4	1	 pA_I	pA_I
+falsifiabilité	1	2	1	 pA_I	pA_I
+et	2	5	1	 pA_I	pA_I
+caetera	2	5	1	 pA_I	pA_I
+y	4	5	3	 pA_I	pA_I
+a	1	3	30	 pA_I	pA_I
+aussi	1	5	29	 pA_I	pA_I
+les	2	5	1	 pA_I	pA_I
+contraintes	3	7	1	 pA_I	pA_I
+d	2	5	1	 pA_I	pA_I
+acquisition	2	5	1	 pA_I	pA_I
+et	3	4	2	 pA_I	pA_I
+les	1	2	30	 pA_I	pA_I
+contraintes	3	5	30	 pA_I	pA_I
+de	1	2	1	 pA_I	pA_I
+la	2	2	2	 pA_I	pA_I
+pragmatique	3	4	2	 pA_I	pA_I
+énonciative	3	6	1	 pA_I	pA_I
+c	2	4	2	 pA_I	pA_I
+est	2	4	2	 pA_I	pA_I
+à	1	1	1	 pA_I	pA_I
+dire	2	3	1	 pA_I	pA_I
+ce	3	4	3	 pA_I	pA_I
+qu	2	3	2	 pA_I	pA_I
+on	2	3	2	 pA_I	pA_I
+sait	3	4	2	 pA_I	pA_I
+du	2	2	2	 pA_I	pA_I
+locuteur	2	3	1	 pA_I	pA_I
+en	2	3	1	 pA_I	pA_I
+parlant	1	2	1	 pA_I	pA_I
+et	2	2	1	 pA_I	pA_I
+de	1	1	1	 pA_I	pA_I
+son	1	2	1	 pA_I	pA_I
+interlocuteur	2	3	1	 pA_I	pA_I
+et	2	3	2	 pA_I	pA_I
+l	1	2	1	 pA_I	pA_I
+interaction	1	2	1	 pA_I	pA_I
+entre	1	2	1	 pA_I	pA_I
+les	1	1	1	 pA_I	pA_I
+deux	 NA	 NA	 NA	 pA_L	pA_I
+c	1	1	1	 pA_B	pA_I
+est	1	1	1	 pA_I	pA_I
+ça	1	1	1	 pA_I	pA_I
+ça	1	1	1	 pA_I	pA_I
+ça	1	1	1	 pA_I	pA_I
+permet	2	3	1	 pA_I	pA_I
+d	2	5	1	 pA_I	pA_I
+avancer	2	5	1	 pA_I	pA_I
+me	1	5	1	 pA_I	pA_I
+semble	1	1	1	 pA_I	pA_I
+il	2	3	1	 pA_I	pA_I
+dans	2	3	2	 pA_I	pA_I
+ce	 NA	 NA	 NA	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+le	1	1	1	 pA_I	pA_I
+le	 NA	 NA	 NA	 pA_I	pA_I
+les	1	1	1	 pA_I	pA_I
+concessions	2	3	1	 pA_I	pA_I
+à	2	3	1	 pA_I	pA_I
+faire	2	3	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+dans	1	1	1	 pA_I	pA_I
+les	1	1	1	 pA_I	pA_I
+différentes	1	2	1	 pA_I	pA_I
+euh	1	1	1	 pA_I	pA_I
+approches	1	1	1	 pA_L	pA_L
+
